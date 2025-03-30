@@ -1,0 +1,6 @@
+type,units redeemed,par value redeemed ( in millions ),redemption type
+preferred a units,2200000,$ 2.2,cash
+class a preferred units,2000,$ 20.0,cash
+class b-1 preferred units,2438,$ 24.4,cash
+class b-2 preferred units,5576,$ 55.8,cash/charitable contribution
+class c downreit units,61804,$ 1.9,cash

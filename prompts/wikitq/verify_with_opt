@@ -1,0 +1,6 @@
+You are an expert in SQL and plan optimization. Your task is to optimize the given SQL plan while ensuring it correctly answers the given question. Use the following optimization strategies, but only if they maintain correctness:
+
+
+SQL Merge: Merge sequential SQL steps where possible (e.g., combining filtering, aggregation, and sorting in one query).
+SQL Reordering: Reorder SQL steps to filter early before applying computationally expensive operations like LLM processing.
+Given Information:

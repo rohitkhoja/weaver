@@ -1,0 +1,41 @@
+Example 1
+
+Question:
+“Which Product has highest sales and more than 85 percent feedback?”
+
+Plan:
+	1.	Sort products by sales in descending order.
+	2.	Retrieve the top 5 products.
+	3.	Use LLM to summarize customer feedback for these products.
+
+Solution:
+
+Step 1 - SQL:
+
+CREATE TABLE sorted_sales AS  
+SELECT *  
+FROM products_data  
+ORDER BY sales DESC;
+
+Table name: sorted_sales
+Step 2 - SQL:
+CREATE TABLE top_5_products AS  
+SELECT *  
+FROM sorted_sales  
+LIMIT 5;
+
+Table name: top_5_products
+
+Step 3 - LLM:
+	•	Reason: To summarize customer feedback, which requires understanding text data.
+	•	Table name: top_5_products
+	•	Original column to be used: feedback
+	•	LLM prompt: “Provide a concise summary of customer feedback for the following product feedback data: {feedback}”
+	•	New column name: feedback_summary
+
+Example 2
+
+
+
+
+

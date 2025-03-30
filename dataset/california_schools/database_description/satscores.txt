@@ -1,0 +1,13 @@
+﻿| Column Name       | Data Type | Primary Key / Foreign Key                                                                  | Column Description                                                                                     |
+|-------------------|-----------|----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| `cds`             | String    | True                | Unique identifier for each school or district.                                                        |
+| `rtype`           | String    |         | Indicates the type of the entity: 'D' for district and 'S' for school.                               |
+| `sname`           | String    |           | Name of the school.                                                                                   |
+| `dname`           | String    |            | Name of the district to which the school belongs.                                                     |
+| `cname`           | String    |         | Name of the county where the school is located.                                                      |
+| `enroll12`        | Integer   |                                                      | Total enrollment for the year 2012.                                                                    |
+| `NumTstTakr`      | Integer   |                                                    | Number of students who took the SAT.                                                                   |
+| `AvgScrRead`      | Float     |                           | Average reading score of students who took the SAT.                                                  |
+| `AvgScrMath`      | Float     |                           | Average math score of students who took the SAT.                                                     |
+| `AvgScrWrite`     | Float     |                           | Average writing score of students who took the SAT.                                                  |
+| `NumGE1500`       | Integer   |                                                    | Number of students who scored 1500 or above on the SAT.                                             |

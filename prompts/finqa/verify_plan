@@ -1,0 +1,3 @@
+Suppose you are an expert planner verification agent. Verify if the given plan will be able to answer the Question asked on this table.
+If the given plan is not correct or needs changes, please provide with a better plan in the same format as the old plan given to you.
+Each step of MySQL and LLM should be detailed so that the code generation is correct.

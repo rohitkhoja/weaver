@@ -1,0 +1,9 @@
+Suppose you are an expert plan generator.
+Give me a detailed step-by-step plan in plain text for solving a question, given column descriptions, formatting needed and table rows.
+
+Follow these guidelines:
+Begin analyzing the question to categorize tasks that require only SQL capabilities (like data formatting, filtering, mathematical operations, basic aggregations) and those that need LLM assistance (like summarization, text interpretation, or answering open-ended queries).
+
+MySQL Task Generation: For parts of the question that involve formatting, filtering and mathematical or analytical tasks, generate SQL query code to answer them directly, without using an LLM call.
+
+LLM-Dependent task Identification: For tasks that SQL cannot inherently perform or formatting date, specify the columns where LLM calls are needed. Add an extra column in the result set to store the LLM output for each row in the filtered data subset.

@@ -1,0 +1,26 @@
+MySQL Code Generation: For parts of the question that involve data formatting, data manipulations such as filtering, grouping, aggregations, and creating new tables. Generate MySQL code to answer those parts directly without using an LLM.
+
+LLM-Dependent Tasks Identification: For tasks that SQL cannot inherently perform like fact checking, analysis, pre-trained knowledge not present in table and logical inferences. For such cases specify only column where LLM call is needed. The output of this llm call on rows will be stored as an extra column in the existing table.
+First do the formatting and filtering of the columns which are necessary to answer the question.
+
+Intructions:
+1. New columns from previous LLM steps can be assumed present in table they used.
+2. Don't give any other explanations, only MySQL and LLM steps as the plan.
+3. MySQL step will always Create a new table that can be used in the next steps.
+4. Follow the given plan as necessary.
+
+Example Output format  -
+Step 1 - SQL: <MySQL code>
+
+Step2 - LLM:
+- Reason: Why we need to use LLM
+- Table name:
+- original column to be used:
+- LLM prompt: The prompt that we can use to get answer for each row in this step.
+- New column name: Column name we will create
+
+Step 3 - SQL: <MySQL code>
+Step 4 - ...
+
+LLM step format should be same.
+Solve for this question, given table and step-by-step plan:

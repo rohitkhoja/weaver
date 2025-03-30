@@ -1,0 +1,2264 @@
+cds,rtype,sname,dname,cname,enroll12,NumTstTakr,AvgScrRead,AvgScrMath,AvgScrWrite,NumGE1500
+1100170000000,D,,Alameda County Office of Education,Alameda,398,88,418,418,417,14
+1100170109835,S,FAME Public Charter,Alameda County Office of Education,Alameda,62,17,503,546,505,9
+1100170112607,S,Envision Academy for Arts & Technology,Alameda County Office of Education,Alameda,75,71,397,387,395,5
+1100170118489,S,Aspire California College Preparatory Academy,Alameda County Office of Education,Alameda,61,0,,,,
+1611190000000,D,,Alameda Unified,Alameda,922,544,521,546,519,333
+1611190106401,S,Alameda Science and Technology Institute,Alameda Unified,Alameda,36,36,562,590,555,29
+1611190119222,S,Nea Community Learning Center,Alameda Unified,Alameda,12,6,,,,
+1611190130229,S,Alameda High,Alameda Unified,Alameda,465,325,543,573,543,229
+1611190130609,S,Alameda Community Learning Center,Alameda Unified,Alameda,26,20,575,593,581,16
+1611190130625,S,Alternatives in Action,Alameda Unified,Alameda,41,23,352,350,343,1
+1611190132878,S,Encinal High,Alameda Unified,Alameda,238,132,483,504,476,56
+1611190134304,S,Island High (Continuation),Alameda Unified,Alameda,100,2,,,,
+1611270000000,D,,Albany City Unified,Alameda,289,178,572,599,574,136
+1611270130450,S,Albany High,Albany City Unified,Alameda,273,178,572,599,574,136
+1611430000000,D,,Berkeley Unified,Alameda,885,490,566,562,559,337
+1611430122697,S,REALM Charter High,Berkeley Unified,Alameda,76,36,384,360,386,2
+1611430131177,S,Berkeley High,Berkeley Unified,Alameda,741,450,583,580,574,335
+1611430134924,S,Berkeley Technology Academy,Berkeley Unified,Alameda,59,4,,,,
+1611500000000,D,,Castro Valley Unified,Alameda,755,438,527,556,524,273
+1611500132225,S,Castro Valley High,Castro Valley Unified,Alameda,688,438,527,556,524,273
+1611680000000,D,,Emery Unified,Alameda,47,23,420,433,441,6
+1611680132746,S,Emery Secondary,Emery Unified,Alameda,47,23,420,433,441,6
+1611760000000,D,,Fremont Unified,Alameda,2511,1537,586,626,599,1215
+1611760130062,S,American High,Fremont Unified,Alameda,457,309,573,608,592,243
+1611760130138,S,Robertson High (Continuation),Fremont Unified,Alameda,119,1,,,,
+1611760130435,S,Vista Alternative,Fremont Unified,Alameda,23,0,,,,
+1611760130534,S,Circle of Independent Learning,Fremont Unified,Alameda,44,5,,,,
+1611760134270,S,Irvington High,Fremont Unified,Alameda,500,364,590,634,606,309
+1611760134452,S,John F. Kennedy High,Fremont Unified,Alameda,368,179,485,509,485,77
+1611760135244,S,Mission San Jose High,Fremont Unified,Alameda,518,453,653,699,671,421
+1611760138693,S,Washington High,Fremont Unified,Alameda,442,226,546,587,549,164
+1611920000000,D,,Hayward Unified,Alameda,1557,686,437,456,440,168
+1611920108670,S,Leadership Public Schools - Hayward,Hayward Unified,Alameda,116,97,439,490,443,27
+1611920113902,S,Impact Academy of Arts & Technology,Hayward Unified,Alameda,105,99,435,451,444,25
+1611920133629,S,Hayward High,Hayward Unified,Alameda,384,162,430,440,433,30
+1611920135319,S,Mt. Eden High,Hayward Unified,Alameda,441,214,451,471,449,69
+1611920138339,S,Tennyson High,Hayward Unified,Alameda,325,114,424,425,427,17
+1612000000000,D,,Livermore Valley Joint Unified,Alameda,975,423,544,561,533,294
+1612000130393,S,Vineyard Alternative,Livermore Valley Joint Unified,Alameda,39,2,,,,
+1612000133397,S,Granada High,Livermore Valley Joint Unified,Alameda,454,230,544,567,530,158
+1612000134536,S,Livermore High,Livermore Valley Joint Unified,Alameda,382,191,543,554,536,134
+1612340000000,D,,Newark Unified,Alameda,512,234,486,498,487,105
+1612340130054,S,Newark Memorial High,Newark Unified,Alameda,444,234,486,498,487,105
+1612340130484,S,Crossroads High (Alternative),Newark Unified,Alameda,15,0,,,,
+1612420000000,D,,New Haven Unified,Alameda,1130,453,499,522,494,229
+1612420126763,S,Decoto School for Independent Study,New Haven Unified,Alameda,62,1,,,,
+1612420134668,S,James Logan High,New Haven Unified,Alameda,937,452,499,522,494,229
+1612590000000,D,,Oakland Unified,Alameda,2971,1509,438,445,436,405
+1612590100065,S,Oakland Unity High,Oakland Unified,Alameda,55,49,384,396,399,5
+1612590100701,S,MetWest High,Oakland Unified,Alameda,38,34,418,387,385,5
+1612590106906,S,Bay Area Technology,Oakland Unified,Alameda,25,21,401,428,390,3
+1612590108944,S,Lighthouse Community Charter High,Oakland Unified,Alameda,53,53,432,483,447,10
+1612590110189,S,McClymonds High,Oakland Unified,Alameda,54,44,355,350,353,0
+1612590111856,S,American Indian Public High,Oakland Unified,Alameda,27,30,505,603,514,22
+1612590112797,S,Coliseum College Prep Academy,Oakland Unified,Alameda,51,38,373,374,383,2
+1612590114868,S,Oakland Charter High,Oakland Unified,Alameda,55,56,520,583,524,38
+1612590115238,S,ARISE High,Oakland Unified,Alameda,36,39,359,367,369,1
+1612590115386,S,Civicorps Corpsmember Academy,Oakland Unified,Alameda,80,0,,,,
+1612590115667,S,Oakland International High,Oakland Unified,Alameda,90,19,308,352,327,0
+1612590118224,S,Aspire Golden State College Preparatory Academy,Oakland Unified,Alameda,59,57,376,371,383,3
+1612590119859,S,Gateway to College at Laney College,Oakland Unified,Alameda,57,0,,,,
+1612590125161,S,Castlemont High,Oakland Unified,Alameda,125,69,355,348,351,2
+1612590125716,S,Fremont High,Oakland Unified,Alameda,147,66,399,398,392,6
+1612590126748,S,LPS Oakland R & D Campus,Oakland Unified,Alameda,58,0,,,,
+1612590130146,S,Rudsdale Continuation,Oakland Unified,Alameda,91,1,,,,
+1612590130179,S,Street Academy (Alternative),Oakland Unified,Alameda,26,3,,,,
+1612590130575,S,LIFE Academy,Oakland Unified,Alameda,69,54,378,374,377,4
+1612590130617,S,"Oakland Military Institute, College Preparatory Ac",Oakland Unified,Alameda,74,66,417,429,418,12
+1612590130666,S,Aspire Lionel Wilson College Preparatory Academy,Oakland Unified,Alameda,59,52,391,416,410,3
+1612590135905,S,Oakland High,Oakland Unified,Alameda,334,187,414,436,417,32
+1612590136051,S,Oakland Technical High,Oakland Unified,Alameda,450,308,515,520,503,168
+1612590137943,S,Skyline High,Oakland Unified,Alameda,390,179,447,446,447,49
+1612593030772,S,Oakland School for the Arts,Oakland Unified,Alameda,99,80,529,470,523,40
+1612596114011,S,"Independent Study, Sojourner Truth",Oakland Unified,Alameda,59,4,,,,
+1612750000000,D,,Piedmont City Unified,Alameda,229,150,615,622,619,135
+1612750130286,S,Millennium High Alternative,Piedmont City Unified,Alameda,31,10,,,,
+1612750136515,S,Piedmont High,Piedmont City Unified,Alameda,198,140,621,629,625,129
+1612910000000,D,,San Leandro Unified,Alameda,752,325,460,462,460,104
+1612910134528,S,Lincoln High (Continuation),San Leandro Unified,Alameda,99,1,,,,
+1612910137588,S,San Leandro High,San Leandro Unified,Alameda,646,324,461,462,460,104
+1613090000000,D,,San Lorenzo Unified,Alameda,1068,528,463,482,459,175
+1613090111799,S,East Bay Arts High,San Lorenzo Unified,Alameda,65,34,423,422,418,7
+1613090114421,S,KIPP King Collegiate High,San Lorenzo Unified,Alameda,122,115,482,475,478,42
+1613090130849,S,Arroyo High,San Lorenzo Unified,Alameda,415,218,489,521,479,99
+1613090137810,S,San Lorenzo High,San Lorenzo Unified,Alameda,357,161,423,447,426,27
+1750930000000,D,,Dublin Unified,Alameda,498,292,534,565,533,190
+1750930132704,S,Dublin High,Dublin Unified,Alameda,456,292,534,565,533,190
+1751010000000,D,,Pleasanton Unified,Alameda,1270,882,591,611,590,736
+1751010130096,S,Foothill High,Pleasanton Unified,Alameda,522,394,585,607,587,326
+1751010130583,S,Amador Valley High,Pleasanton Unified,Alameda,650,488,596,614,592,410
+1766530000000,D,,SBE - Livermore Valley Charter Preparatory High,Alameda,107,75,516,523,515,45
+3100330000000,D,,Amador County Office of Education,Amador,16,0,,,,
+3739810000000,D,,Amador County Unified,Amador,317,97,525,514,503,60
+3739810330050,S,North Star Independent Study,Amador County Unified,Amador,17,0,,,,
+3739810330753,S,Amador High,Amador County Unified,Amador,149,70,532,523,504,45
+3739810334755,S,Argonaut High,Amador County Unified,Amador,125,27,508,492,502,15
+4100410000000,D,,Butte County Office of Education,Butte,162,26,532,462,485,10
+4100410114991,S,CORE Butte Charter,Butte County Office of Education,Butte,100,26,532,462,485,10
+4100410430090,S,Learning Community Charter,Butte County Office of Education,Butte,47,0,,,,
+4614080000000,D,,Biggs Unified,Butte,37,11,433,429,406,2
+4614080430827,S,Biggs High,Biggs Unified,Butte,34,11,433,429,406,2
+4614240000000,D,,Chico Unified,Butte,1094,365,542,552,520,246
+4614240120394,S,Inspire School of Arts and Sciences,Chico Unified,Butte,86,42,602,552,562,34
+4614240430199,S,Oakdale,Chico Unified,Butte,38,0,,,,
+4614240431676,S,Chico High,Chico Unified,Butte,436,164,543,549,521,112
+4614240437558,S,Pleasant Valley High,Chico Unified,Butte,420,159,526,555,508,100
+4614320000000,D,,Durham Unified,Butte,76,43,498,484,472,19
+4614320433201,S,Durham High,Durham Unified,Butte,76,43,498,484,472,19
+4614400000000,D,,Feather Falls Union Elementary,Butte,14,0,,,,
+4614400121509,S,Ipakanni Early College Charter,Feather Falls Union Elementary,Butte,14,0,,,,
+4614570000000,D,,Golden Feather Union Elementary,Butte,11,0,,,,
+4614570125252,S,Pivot Charter School North Valley,Golden Feather Union Elementary,Butte,11,0,,,,
+4615150000000,D,,Oroville Union High,Butte,541,102,488,504,468,48
+4615150434803,S,Las Plumas High,Oroville Union High,Butte,262,53,511,522,489,32
+4615150435602,S,Oroville High,Oroville Union High,Butte,204,49,464,485,446,16
+4615310000000,D,,Paradise Unified,Butte,320,52,526,545,504,32
+4615310121715,S,Paradise eLearning Academy,Paradise Unified,Butte,19,0,,,,
+4615310437350,S,Paradise Senior High,Paradise Unified,Butte,229,52,526,545,504,32
+4615316112585,S,Hometech Charter,Paradise Unified,Butte,21,0,,,,
+4755070000000,D,,Gridley Unified,Butte,163,37,503,495,502,19
+4755070433946,S,Esperanza High (Continuation),Gridley Unified,Butte,13,1,,,,
+4755070433953,S,Gridley High,Gridley Unified,Butte,150,36,498,491,497,18
+5100580000000,D,,Calaveras County Office of Education,Calaveras,81,4,,,,
+5100580530154,S,Mountain Oaks,Calaveras County Office of Education,Calaveras,67,4,,,,
+5615560000000,D,,Bret Harte Union High,Calaveras,182,60,547,550,541,43
+5615560532507,S,Bret Harte Union High,Bret Harte Union High,Calaveras,163,60,547,550,541,43
+5615640000000,D,,Calaveras Unified,Calaveras,271,61,513,503,485,33
+5615640530055,S,Calaveras Unified Alternative-Sierra Hills Educati,Calaveras Unified,Calaveras,11,0,,,,
+5615640531509,S,Calaveras High,Calaveras Unified,Calaveras,227,61,513,503,485,33
+6615980000000,D,,Colusa Unified,Colusa,107,38,476,502,457,15
+6615980630012,S,Colusa Alternative High (Continuation),Colusa Unified,Colusa,16,1,,,,
+6615980630046,S,Colusa Alternative Home,Colusa Unified,Colusa,14,0,,,,
+6615980631259,S,Colusa High,Colusa Unified,Colusa,77,37,472,501,454,14
+6616060000000,D,,Maxwell Unified,Colusa,24,13,466,442,449,4
+6616060634758,S,Maxwell Jr/Sr High,Maxwell Unified,Colusa,24,13,466,442,449,4
+6616140000000,D,,Pierce Joint Unified,Colusa,87,27,458,443,432,8
+6616140635250,S,Pierce High,Pierce Joint Unified,Colusa,78,27,458,443,432,8
+6616220000000,D,,Williams Unified,Colusa,101,26,467,448,474,6
+6616220637504,S,Williams Junior/Senior High,Williams Unified,Colusa,86,26,467,448,474,6
+7100740000000,D,,Contra Costa County Office of Education,Contra Costa,629,313,498,501,490,143
+7100740114470,S,Making Waves Academy,Contra Costa County Office of Education,Contra Costa,80,73,454,478,452,19
+7100740731380,S,Clayton Valley Charter High,Contra Costa County Office of Education,Contra Costa,446,240,512,508,501,124
+7616300000000,D,,Acalanes Union High,Contra Costa,1251,961,594,601,598,816
+7616300107524,S,Acalanes Center for Independent Study,Acalanes Union High,Contra Costa,17,2,,,,
+7616300730283,S,Acalanes High,Acalanes Union High,Contra Costa,296,234,586,604,587,195
+7616300731125,S,Campolindo High,Acalanes Union High,Contra Costa,301,260,603,617,616,237
+7616300733725,S,Las Lomas High,Acalanes Union High,Contra Costa,373,247,565,554,560,181
+7616300734244,S,Miramonte High,Acalanes Union High,Contra Costa,253,218,628,633,633,203
+7616480000000,D,,Antioch Unified,Contra Costa,1681,469,480,474,469,174
+7616480117218,S,Dozier-Libbey Medical High,Antioch Unified,Contra Costa,131,85,496,485,495,35
+7616480730101,S,Live Oak High (Continuation),Antioch Unified,Contra Costa,109,1,,,,
+7616480730259,S,Prospects High (Alternative),Antioch Unified,Contra Costa,204,1,,,,
+7616480730465,S,Deer Valley High,Antioch Unified,Contra Costa,666,248,478,477,464,94
+7616480730861,S,Antioch High,Antioch Unified,Contra Costa,410,134,477,465,463,45
+7616630000000,D,,Byron Union Elementary,Contra Costa,46,0,,,,
+7616630130930,S,Vista Oaks Charter,Byron Union Elementary,Contra Costa,46,0,,,,
+7616970000000,D,,John Swett Unified,Contra Costa,119,31,477,512,485,14
+7616970737023,S,John Swett High,John Swett Unified,Contra Costa,93,31,477,512,485,14
+7617210000000,D,,Liberty Union High,Contra Costa,2106,815,493,485,487,353
+7617210107797,S,Heritage High,Liberty Union High,Contra Costa,571,324,520,510,511,180
+7617210730457,S,Freedom High,Liberty Union High,Contra Costa,594,227,470,455,464,70
+7617210730572,S,Independence High,Liberty Union High,Contra Costa,212,2,,,,
+7617210733980,S,Liberty High,Liberty Union High,Contra Costa,621,262,479,479,476,103
+7617390000000,D,,Martinez Unified,Contra Costa,341,118,518,543,523,70
+7617390730473,S,Briones (Alternative),Martinez Unified,Contra Costa,19,0,,,,
+7617390730549,S,Alhambra Senior High,Martinez Unified,Contra Costa,271,118,518,543,523,70
+7617540000000,D,,Mt. Diablo Unified,Contra Costa,2236,753,512,523,506,402
+7617540730044,S,Northgate High,Mt. Diablo Unified,Contra Costa,439,180,568,586,566,134
+7617540730317,S,Horizons Alternative,Mt. Diablo Unified,Contra Costa,55,2,,,,
+7617540731646,S,College Park High,Mt. Diablo Unified,Contra Costa,460,235,540,558,527,154
+7617540731836,S,Concord High,Mt. Diablo Unified,Contra Costa,343,121,491,505,488,56
+7617540734566,S,Mt. Diablo High,Mt. Diablo Unified,Contra Costa,329,113,437,436,436,25
+7617540737809,S,Ygnacio Valley High,Mt. Diablo Unified,Contra Costa,267,102,458,455,451,33
+7617880000000,D,,Pittsburg Unified,Contra Costa,719,290,446,436,442,64
+7617880735407,S,Pittsburg Senior High,Pittsburg Unified,Contra Costa,580,290,446,436,442,64
+7617960000000,D,,West Contra Costa Unified,Contra Costa,2104,1553,407,407,410,278
+7617960101477,S,Leadership Public Schools: Richmond,West Contra Costa Unified,Contra Costa,112,102,394,413,410,11
+7617960730275,S,North Campus Continuation,West Contra Costa Unified,Contra Costa,111,22,324,307,328,0
+7617960730291,S,Middle College High,West Contra Costa Unified,Contra Costa,62,68,500,526,509,33
+7617960730325,S,Vista High (Alternative),West Contra Costa Unified,Contra Costa,65,27,393,378,404,1
+7617960730598,S,Hercules High,West Contra Costa Unified,Contra Costa,209,196,451,454,454,57
+7617960732164,S,De Anza Senior High,West Contra Costa Unified,Contra Costa,242,204,399,395,409,26
+7617960732941,S,El Cerrito Senior High,West Contra Costa Unified,Contra Costa,302,262,444,445,439,77
+7617960733253,S,Gompers (Samuel) Continuation,West Contra Costa Unified,Contra Costa,173,19,314,289,312,0
+7617960733659,S,Kennedy High,West Contra Costa Unified,Contra Costa,172,134,346,345,348,7
+7617960735316,S,Pinole Valley High,West Contra Costa Unified,Contra Costa,296,246,426,417,422,55
+7617960735902,S,Richmond High,West Contra Costa Unified,Contra Costa,335,273,357,354,358,11
+7618040000000,D,,San Ramon Valley Unified,Contra Costa,2441,1724,582,612,581,1403
+7618040113118,S,Dougherty Valley High,San Ramon Valley Unified,Contra Costa,608,528,604,651,613,457
+7618040730051,S,California High,San Ramon Valley Unified,Contra Costa,630,435,576,606,571,342
+7618040730218,S,Venture (Alternative),San Ramon Valley Unified,Contra Costa,88,16,559,539,523,11
+7618040734368,S,Monte Vista High,San Ramon Valley Unified,Contra Costa,516,362,566,591,566,271
+7618040736504,S,San Ramon Valley High,San Ramon Valley Unified,Contra Costa,562,383,574,587,567,322
+8100820000000,D,,Del Norte County Office of Education,Del Norte,143,4,,,,
+8100820830059,S,Castle Rock,Del Norte County Office of Education,Del Norte,121,4,,,,
+8618200000000,D,,Del Norte County Unified,Del Norte,257,77,476,510,464,35
+8618200833004,S,Del Norte High,Del Norte County Unified,Del Norte,215,77,476,510,464,35
+9100900000000,D,,El Dorado County Office of Education,El Dorado,163,16,564,550,527,13
+9100900930123,S,Charter Community School Home Study Academy,El Dorado County Office of Education,El Dorado,94,16,564,550,527,13
+9618530000000,D,,El Dorado Union High,El Dorado,1684,788,541,556,530,540
+9618530930081,S,Oak Ridge High,El Dorado Union High,El Dorado,563,386,546,570,542,280
+9618530930164,S,Union Mine High,El Dorado Union High,El Dorado,208,75,533,517,498,40
+9618530930214,S,EDUHSD Virtual Academy at Shenandoah,El Dorado Union High,El Dorado,34,6,,,,
+9618530932756,S,El Dorado High,El Dorado Union High,El Dorado,305,115,534,522,516,66
+9618530934554,S,Independence Continuation,El Dorado Union High,El Dorado,73,1,,,,
+9618530936302,S,Ponderosa High,El Dorado Union High,El Dorado,433,205,539,564,527,149
+9619030000000,D,,Lake Tahoe Unified,El Dorado,277,107,503,502,488,55
+9619030937805,S,South Tahoe High,Lake Tahoe Unified,El Dorado,212,107,503,502,488,55
+9737830000000,D,,Black Oak Mine Unified,El Dorado,121,27,537,541,514,20
+9737830121566,S,American River Charter,Black Oak Mine Unified,El Dorado,15,0,,,,
+9737830930073,S,Golden Sierra Junior Senior High,Black Oak Mine Unified,El Dorado,100,27,537,541,514,20
+10101080000000,D,,Fresno County Office of Education,Fresno,467,6,,,,
+10101080109991,S,Crescent View West Charter,Fresno County Office of Education,Fresno,274,0,,,,
+10101080111682,S,Hume Lake Charter,Fresno County Office of Education,Fresno,5,1,,,,
+10101080119628,S,Big Picture High School - Fresno,Fresno County Office of Education,Fresno,20,5,,,,
+10621170000000,D,,Clovis Unified,Fresno,3103,1582,502,511,494,779
+10621170113555,S,Clovis North High,Clovis Unified,Fresno,493,328,524,535,519,193
+10621170118018,S,Clovis Online Charter,Clovis Unified,Fresno,95,9,,,,
+10621171030196,S,Clovis West High,Clovis Unified,Fresno,538,335,508,526,507,176
+10621171030469,S,Enterprise Alternative,Clovis Unified,Fresno,19,0,,,,
+10621171030501,S,Buchanan High,Clovis Unified,Fresno,574,330,522,524,507,189
+10621171030683,S,Clovis East High,Clovis Unified,Fresno,493,264,467,471,455,90
+10621171031004,S,Gateway High (Continuation),Clovis Unified,Fresno,120,3,,,,
+10621171031053,S,Clovis High,Clovis Unified,Fresno,758,313,484,492,477,129
+10621250000000,D,,Coalinga-Huron Unified,Fresno,317,72,465,446,455,24
+10621251031376,S,Coalinga High,Coalinga-Huron Unified,Fresno,269,72,465,446,455,24
+10621580000000,D,,Fowler Unified,Fresno,186,104,424,417,423,19
+10621581032150,S,Fowler High,Fowler Unified,Fresno,172,104,424,417,423,19
+10621660000000,D,,Fresno Unified,Fresno,5057,2216,435,438,427,508
+10621660108555,S,Design Science Early College High,Fresno Unified,Fresno,81,74,487,502,468,34
+10621660114355,S,Sierra Charter,Fresno Unified,Fresno,129,8,,,,
+10621660114553,S,University High,Fresno Unified,Fresno,110,113,604,587,593,102
+10621660115196,S,Fresno Academy for Civic and Entrepreneurial Leade,Fresno Unified,Fresno,41,10,,,,
+10621661030279,S,Bullard High,Fresno Unified,Fresno,594,334,473,463,460,107
+10621661030287,S,J. E. Young Academic Center,Fresno Unified,Fresno,237,0,,,,
+10621661030295,S,Erma Duncan Polytechnical High,Fresno Unified,Fresno,188,104,396,418,389,5
+10621661030642,S,School of Unlimited Learning,Fresno Unified,Fresno,100,0,,,,
+10621661030675,S,Sunnyside High,Fresno Unified,Fresno,676,421,403,411,399,39
+10621661030840,S,Carter G. Woodson Public Charter,Fresno Unified,Fresno,169,0,,,,
+10621661031897,S,Edison High,Fresno Unified,Fresno,524,368,471,470,458,140
+10621661032507,S,Fresno High,Fresno Unified,Fresno,470,144,424,428,416,23
+10621661032911,S,Herbert Hoover High,Fresno Unified,Fresno,379,211,415,417,401,29
+10621661034214,S,McLane High,Fresno Unified,Fresno,450,212,370,388,376,8
+10621661035831,S,Roosevelt High,Fresno Unified,Fresno,435,217,377,384,379,17
+10622570000000,D,,Kingsburg Joint Union High,Fresno,293,112,487,481,471,44
+10622570124727,S,Kingsburg Independent Study High,Kingsburg Joint Union High,Fresno,22,0,,,,
+10622571033695,S,Kingsburg High,Kingsburg Joint Union High,Fresno,258,112,487,481,471,44
+10622650000000,D,,Kings Canyon Joint Unified,Fresno,754,235,441,446,437,57
+10622650108092,S,Orange Cove High,Kings Canyon Joint Unified,Fresno,121,56,393,395,405,1
+10622650116640,S,Dunlap Leadership Academy,Kings Canyon Joint Unified,Fresno,30,0,,,,
+10622651030378,S,Mountain View (Alternative),Kings Canyon Joint Unified,Fresno,99,1,,,,
+10622651035310,S,Reedley High,Kings Canyon Joint Unified,Fresno,449,178,456,462,448,56
+10622810000000,D,,Laton Joint Unified,Fresno,47,0,,,,
+10622811033950,S,Laton High,Laton Joint Unified,Fresno,47,0,,,,
+10623310000000,D,,Orange Center,Fresno,23,0,,,,
+10623310124354,S,National University Academy - Orange Center,Orange Center,Fresno,12,0,,,,
+10623310130880,S,Academy of Arts and Sciences: Fresno,Orange Center,Fresno,11,0,,,,
+10623640000000,D,,Parlier Unified,Fresno,225,78,387,398,386,5
+10623641034990,S,Parlier High,Parlier Unified,Fresno,185,78,387,398,386,5
+10623800000000,D,,Raisin City Elementary,Fresno,291,0,,,,
+10623800124982,S,Ambassador Phillip V. Sanchez Public Charter,Raisin City Elementary,Fresno,291,0,,,,
+10624140000000,D,,Sanger Unified,Fresno,714,309,437,446,432,65
+10624141030451,S,Taft High,Sanger Unified,Fresno,39,0,,,,
+10624141030766,S,Hallmark Charter,Sanger Unified,Fresno,41,21,475,445,460,7
+10624141036086,S,Kings River High (Continuation),Sanger Unified,Fresno,41,1,,,,
+10624141036094,S,Sanger High,Sanger Unified,Fresno,593,287,434,446,430,58
+10624300000000,D,,Selma Unified,Fresno,427,186,434,422,425,32
+10624301030758,S,Selma Independent,Selma Unified,Fresno,36,0,,,,
+10624301036672,S,Selma High,Selma Unified,Fresno,375,186,434,422,425,32
+10625390000000,D,,West Park Elementary,Fresno,107,0,,,,
+10625396112387,S,West Park Charter Academy,West Park Elementary,Fresno,107,0,,,,
+10625470000000,D,,Westside Elementary,Fresno,306,1,,,,
+10625470120535,S,Crescent View South Charter,Westside Elementary,Fresno,305,0,,,,
+10625470127159,S,Opportunities For Learning - Fresno,Westside Elementary,Fresno,1,1,,,,
+10738090000000,D,,Firebaugh-Las Deltas Unified,Fresno,174,84,401,373,396,4
+10738091030121,S,Firebaugh High,Firebaugh-Las Deltas Unified,Fresno,168,84,401,373,396,4
+10739650000000,D,,Central Unified,Fresno,1071,368,451,449,449,92
+10739651030386,S,Central Unified Alternative/Opportunity,Central Unified,Fresno,126,0,,,,
+10739651030626,S,Central High East Campus,Central Unified,Fresno,877,368,451,449,449,92
+10739990000000,D,,Kerman Unified,Fresno,312,132,434,426,425,21
+10739991033430,S,Kerman High,Kerman Unified,Fresno,292,132,434,426,425,21
+10751270000000,D,,Mendota Unified,Fresno,192,62,385,395,378,4
+10751271030493,S,Mendota High,Mendota Unified,Fresno,184,62,385,395,378,4
+10752340000000,D,,Golden Plains Unified,Fresno,122,55,375,402,386,4
+10752341037456,S,Tranquillity High,Golden Plains Unified,Fresno,109,55,375,402,386,4
+10752750000000,D,,Sierra Unified,Fresno,148,50,522,500,501,24
+10752751036938,S,Sierra High,Sierra Unified,Fresno,132,50,522,500,501,24
+10754080000000,D,,Riverdale Joint Unified,Fresno,130,69,422,424,429,12
+10754081035575,S,Riverdale High,Riverdale Joint Unified,Fresno,127,69,422,424,429,12
+10755980000000,D,,Caruthers Unified,Fresno,150,72,413,422,397,10
+10755981030535,S,Caruthers High,Caruthers Unified,Fresno,143,72,413,422,397,10
+10767780000000,D,,Washington Unified,Fresno,387,114,391,395,394,6
+10767780122473,S,Elm High,Washington Unified,Fresno,76,0,,,,
+10767781030774,S,W. E. B. DuBois Public Charter,Washington Unified,Fresno,87,1,,,,
+10767781038306,S,Washington High,Washington Unified,Fresno,218,113,392,396,394,6
+11101160000000,D,,Glenn County Office of Education,Glenn,139,2,,,,
+11101160130724,S,Success One!,Glenn County Office of Education,Glenn,35,0,,,,
+11101160130807,S,Conservation Corps of Long Beach Gateway Cities Ch,Glenn County Office of Education,Glenn,83,0,,,,
+11101161130103,S,William Finch,Glenn County Office of Education,Glenn,16,2,,,,
+11626460000000,D,,Princeton Joint Unified,Glenn,19,7,,,,
+11626461136209,S,Princeton Junior-Senior High,Princeton Joint Unified,Glenn,19,7,,,,
+11626610000000,D,,Willows Unified,Glenn,111,30,459,473,468,9
+11626611132851,S,Willows High,Willows Unified,Glenn,99,30,459,473,468,9
+11754810000000,D,,Orland Joint Unified,Glenn,182,38,498,480,480,13
+11754811135656,S,Orland High,Orland Joint Unified,Glenn,173,38,498,480,480,13
+11765620000000,D,,Hamilton Unified,Glenn,68,30,456,465,466,11
+11765621133701,S,Hamilton High,Hamilton Unified,Glenn,61,30,456,465,466,11
+12101240000000,D,,Humboldt County Office of Education,Humboldt,70,35,620,534,579,32
+12101240115097,S,Northcoast Preparatory and Performing Arts Academy,Humboldt County Office of Education,Humboldt,36,35,620,534,579,32
+12626870000000,D,,Northern Humboldt Union High,Humboldt,419,168,546,533,515,108
+12626870107110,S,Six Rivers Charter High,Northern Humboldt Union High,Humboldt,27,16,531,528,472,6
+12626870124263,S,Laurel Tree Charter,Northern Humboldt Union High,Humboldt,6,3,,,,
+12626871230705,S,Arcata High,Northern Humboldt Union High,Humboldt,206,97,574,555,540,75
+12626871235209,S,McKinleyville High,Northern Humboldt Union High,Humboldt,126,52,501,500,486,27
+12628100000000,D,,Fortuna Union High,Humboldt,254,92,514,506,492,48
+12628100108688,S,Academy of the Redwoods,Fortuna Union High,Humboldt,39,25,577,542,524,19
+12628101233402,S,Fortuna Union High,Fortuna Union High,Humboldt,170,67,491,493,480,29
+12629010000000,D,,Klamath-Trinity Joint Unified,Humboldt,63,21,470,440,442,7
+12629011234004,S,Hoopa Valley High,Klamath-Trinity Joint Unified,Humboldt,47,21,470,440,442,7
+12629270000000,D,,Loleta Union Elementary,Humboldt,22,0,,,,
+12629271230150,S,Pacific View Charter,Loleta Union Elementary,Humboldt,22,0,,,,
+12630320000000,D,,South Bay Union Elementary,Humboldt,36,4,,,,
+12630320111203,S,Alder Grove Charter,South Bay Union Elementary,Humboldt,36,4,,,,
+12630400000000,D,,Southern Humboldt Joint Unified,Humboldt,47,14,544,509,499,7
+12630401237007,S,South Fork Junior - Senior High,Southern Humboldt Joint Unified,Humboldt,46,14,544,509,499,7
+12753740000000,D,,Ferndale Unified,Humboldt,29,18,507,520,511,11
+12753741232909,S,Ferndale High,Ferndale Unified,Humboldt,29,18,507,520,511,11
+12753820000000,D,,Mattole Unified,Humboldt,93,6,,,,
+12753821230085,S,Mattole Triple Junction High,Mattole Unified,Humboldt,2,2,,,,
+12753821230135,S,Mattole Valley Charter (#159),Mattole Unified,Humboldt,91,4,,,,
+12755150000000,D,,Eureka City Schools,Humboldt,321,111,517,523,502,57
+12755151232206,S,Eureka Senior High,Eureka City Schools,Humboldt,249,111,517,523,502,57
+13101320000000,D,,Imperial County Office of Education,Imperial,57,0,,,,
+13630810000000,D,,Brawley Union High,Imperial,470,156,452,451,442,43
+13630811331404,S,Brawley High,Brawley Union High,Imperial,346,156,452,451,442,43
+13630990000000,D,,Calexico Unified,Imperial,777,216,431,432,425,47
+13630991332204,S,Calexico High,Calexico Unified,Imperial,711,216,431,432,425,47
+13631070000000,D,,Calipatria Unified,Imperial,73,23,464,453,446,6
+13631071332501,S,Calipatria High,Calipatria Unified,Imperial,73,23,464,453,446,6
+13631150000000,D,,Central Union High,Imperial,905,322,473,483,466,116
+13631151330133,S,Southwest High,Central Union High,Imperial,472,193,476,482,468,70
+13631151333004,S,Central Union High,Central Union High,Imperial,377,128,468,486,464,46
+13631151333558,S,Desert Oasis High (Continuation),Central Union High,Imperial,56,1,,,,
+13631490000000,D,,Holtville Unified,Imperial,142,67,441,451,434,13
+13631491335306,S,Holtville High,Holtville Unified,Imperial,140,67,441,451,434,13
+13631640000000,D,,Imperial Unified,Imperial,231,105,495,494,474,44
+13631641335900,S,Imperial High,Imperial Unified,Imperial,225,105,495,494,474,44
+13632140000000,D,,San Pasqual Valley Unified,Imperial,38,9,,,,
+13632141337609,S,San Pasqual Valley High,San Pasqual Valley Unified,Imperial,29,9,,,,
+14101400000000,D,,Inyo County Office of Education,Inyo,993,4,,,,
+14101400117994,S,YouthBuild Charter School of California,Inyo County Office of Education,Inyo,573,1,,,,
+14101400121301,S,YouthBuild Charter School of California Central,Inyo County Office of Education,Inyo,71,0,,,,
+14101400128447,S,The Education Corps,Inyo County Office of Education,Inyo,243,3,,,,
+14101400128454,S,College Bridge Academy,Inyo County Office of Education,Inyo,104,0,,,,
+14632480000000,D,,Big Pine Unified,Inyo,9,3,,,,
+14632481431352,S,Big Pine High,Big Pine Unified,Inyo,9,3,,,,
+14632890000000,D,,Lone Pine Unified,Inyo,24,6,,,,
+14632891434901,S,Lone Pine High,Lone Pine Unified,Inyo,20,6,,,,
+14632970000000,D,,Owens Valley Unified,Inyo,6,1,,,,
+14632971436203,S,Owens Valley High,Owens Valley Unified,Inyo,6,1,,,,
+14766870000000,D,,Bishop Unified,Inyo,182,73,494,506,476,38
+14766870119081,S,Bishop Independent Study,Bishop Unified,Inyo,12,0,,,,
+14766871431600,S,Bishop Union High,Bishop Unified,Inyo,158,73,494,506,476,38
+15101570000000,D,,Kern County Office of Education,Kern,736,71,404,410,407,10
+15101570119669,S,Paramount Academy,Kern County Office of Education,Kern,56,54,373,390,377,4
+15101571530492,S,Valley Oaks Charter,Kern County Office of Education,Kern,63,17,499,476,502,6
+15634120000000,D,,Delano Joint Union High,Kern,977,372,439,457,436,87
+15634120100529,S,Cesar E. Chavez High,Delano Joint Union High,Kern,317,162,439,463,439,37
+15634120116384,S,Robert F. Kennedy High,Delano Joint Union High,Kern,223,85,443,449,449,19
+15634121531672,S,Delano High,Delano Joint Union High,Kern,390,125,436,453,422,31
+15635290000000,D,,Kern High,Kern,9227,3182,461,468,450,973
+15635290100198,S,Golden Valley High,Kern High,Kern,583,236,431,425,424,39
+15635290110999,S,Frontier High,Kern High,Kern,562,244,486,503,475,102
+15635290116392,S,Independence High,Kern High,Kern,459,213,471,473,463,75
+15635290116400,S,Mira Monte High,Kern High,Kern,463,184,398,406,403,19
+15635291530047,S,Nueva Continuation High,Kern High,Kern,81,1,,,,
+15635291530112,S,Vista West Continuation High,Kern High,Kern,179,2,,,,
+15635291530252,S,Arvin High,Kern High,Kern,517,171,420,424,417,21
+15635291530344,S,Stockdale High,Kern High,Kern,461,271,524,548,520,157
+15635291530369,S,Centennial High,Kern High,Kern,433,204,509,519,489,108
+15635291530385,S,Ridgeview High,Kern High,Kern,555,233,436,443,421,38
+15635291530435,S,Kern Workforce 2000 Academy,Kern High,Kern,213,0,,,,
+15635291530476,S,Liberty High,Kern High,Kern,424,208,517,531,501,120
+15635291530708,S,Bakersfield High,Kern High,Kern,677,200,486,492,457,80
+15635291532290,S,East Bakersfield High,Kern High,Kern,488,168,425,429,435,34
+15635291532605,S,Foothill High,Kern High,Kern,429,144,415,436,410,18
+15635291533330,S,Highland High,Kern High,Kern,463,183,470,454,445,52
+15635291533538,S,Kern Valley High,Kern High,Kern,108,23,482,464,467,6
+15635291534775,S,North High,Kern High,Kern,348,96,467,460,443,29
+15635291535087,S,Shafter High,Kern High,Kern,309,79,442,464,440,16
+15635291535392,S,South High,Kern High,Kern,448,176,417,420,400,18
+15635291536606,S,West High,Kern High,Kern,538,146,450,455,432,41
+15636280000000,D,,Maricopa Unified,Kern,136,4,,,,
+15636280127209,S,California Virtual Academy High @ Maricopa,Maricopa Unified,Kern,120,0,,,,
+15636281533843,S,Maricopa High,Maricopa Unified,Kern,16,4,,,,
+15636770000000,D,,Mojave Unified,Kern,159,50,450,430,428,9
+15636770114512,S,California City High,Mojave Unified,Kern,113,41,445,431,424,8
+15636771534460,S,Mojave Jr./Sr. High,Mojave Unified,Kern,46,9,,,,
+15636850000000,D,,Muroc Joint Unified,Kern,138,58,498,507,484,27
+15636851530997,S,Boron Junior-Senior High,Muroc Joint Unified,Kern,43,9,,,,
+15636851531987,S,Desert Junior-Senior High,Muroc Joint Unified,Kern,95,49,502,505,489,23
+15637760000000,D,,Southern Kern Unified,Kern,223,51,465,471,463,17
+15637761530377,S,Abraham Lincoln Alternative,Southern Kern Unified,Kern,19,0,,,,
+15637761534957,S,Rosamond High,Southern Kern Unified,Kern,181,51,465,471,463,17
+15638180000000,D,,Taft Union High,Kern,251,69,464,471,452,18
+15638181535905,S,Taft Union High,Taft Union High,Kern,222,69,464,471,452,18
+15638260000000,D,,Tehachapi Unified,Kern,326,102,528,518,501,56
+15638261536135,S,Tehachapi High,Tehachapi Unified,Kern,259,102,528,518,501,56
+15638590000000,D,,Wasco Union High,Kern,385,106,432,448,433,22
+15638591536440,S,Wasco High,Wasco Union High,Kern,327,106,432,448,433,22
+15737420000000,D,,Sierra Sands Unified,Kern,371,116,518,536,514,70
+15737421531367,S,Burroughs High,Sierra Sands Unified,Kern,319,116,518,536,514,70
+15739080000000,D,,McFarland Unified,Kern,203,100,407,420,394,14
+15739081534155,S,McFarland High,McFarland Unified,Kern,193,100,407,420,394,14
+15751680000000,D,,El Tejon Unified,Kern,66,19,473,469,443,5
+15751681530401,S,Frazier Mountain High,El Tejon Unified,Kern,66,19,473,469,443,5
+16101650000000,D,,Kings County Office of Education,Kings,58,0,,,,
+16638750000000,D,,Armona Union Elementary,Kings,174,3,,,,
+16638750101717,S,Crossroads Charter,Armona Union Elementary,Kings,43,0,,,,
+16638750112698,S,California Virtual Academy @ Kings,Armona Union Elementary,Kings,58,3,,,,
+16638750121491,S,"National University Academy, Armona",Armona Union Elementary,Kings,73,0,,,,
+16638910000000,D,,Corcoran Joint Unified,Kings,231,71,443,446,431,16
+16638911632207,S,Corcoran High,Corcoran Joint Unified,Kings,192,71,443,446,431,16
+16639250000000,D,,Hanford Joint Union High,Kings,962,258,460,459,449,71
+16639250118919,S,Sierra Pacific High,Hanford Joint Union High,Kings,204,64,481,483,464,21
+16639251630169,S,Hanford West High,Hanford Joint Union High,Kings,304,108,448,454,450,26
+16639251634401,S,Hanford High,Hanford Joint Union High,Kings,340,86,460,449,436,24
+16639820000000,D,,Lemoore Union High,Kings,558,172,475,468,460,59
+16639820110205,S,Lemoore Middle College High,Lemoore Union High,Kings,62,55,485,468,464,22
+16639821635606,S,Lemoore High,Lemoore Union High,Kings,448,117,470,468,459,37
+16739320000000,D,,Reef-Sunset Unified,Kings,140,82,376,357,372,1
+16739321630953,S,Avenal High,Reef-Sunset Unified,Kings,125,82,376,357,372,1
+17640140000000,D,,Kelseyville Unified,Lake,133,42,500,468,491,18
+17640141734359,S,Kelseyville High,Kelseyville Unified,Lake,122,42,500,468,491,18
+17640220000000,D,,Konocti Unified,Lake,177,40,463,457,459,12
+17640221735000,S,Lower Lake High,Konocti Unified,Lake,136,40,463,457,459,12
+17640300000000,D,,Lakeport Unified,Lake,125,51,500,511,497,28
+17640301732304,S,Clear Lake High,Lakeport Unified,Lake,111,51,500,511,497,28
+17640550000000,D,,Middletown Unified,Lake,127,44,507,518,489,25
+17640551736008,S,Middletown High,Middletown Unified,Lake,106,44,507,518,489,25
+17640710000000,D,,Upper Lake Union High,Lake,95,30,450,412,436,5
+18640890000000,D,,Big Valley Joint Unified,Lassen,17,2,,,,
+18640891831601,S,Big Valley Jr. Sr. High,Big Valley Joint Unified,Lassen,17,2,,,,
+18641390000000,D,,Lassen Union High,Lassen,215,70,492,507,484,35
+18641391833805,S,Lassen High,Lassen Union High,Lassen,210,70,492,507,484,35
+18641620000000,D,,Ravendale-Termo Elementary,Lassen,58,2,,,,
+18641620120287,S,New Day Academy,Ravendale-Termo Elementary,Lassen,18,2,,,,
+18641626010763,S,Long Valley Charter,Ravendale-Termo Elementary,Lassen,39,0,,,,
+18642040000000,D,,Westwood Unified,Lassen,74,8,,,,
+18642041830132,S,Westwood Charter,Westwood Unified,Lassen,51,1,,,,
+18642041838507,S,Westwood High,Westwood Unified,Lassen,23,7,,,,
+18750360000000,D,,Fort Sage Unified,Lassen,38,5,,,,
+18750360121657,S,Mt. Lassen Charter,Fort Sage Unified,Lassen,17,0,,,,
+18750361833409,S,Herlong High,Fort Sage Unified,Lassen,21,5,,,,
+19101990000000,D,,Los Angeles County Office of Education,Los Angeles,1543,372,484,471,487,168
+19101990109942,S,Los Angeles International Charter High,Los Angeles County Office of Education,Los Angeles,61,65,401,420,428,15
+19101990127522,S,Optimist Charter,Los Angeles County Office of Education,Los Angeles,17,0,,,,
+19101991933399,S,L.A. County High School for the Arts,Los Angeles County Office of Education,Los Angeles,163,129,565,509,570,90
+19101991995257,S,Alternative Opportunity Programs,Los Angeles County Office of Education,Los Angeles,127,0,,,,
+19101991995869,S,International Polytechnic High,Los Angeles County Office of Education,Los Angeles,129,110,508,519,495,57
+19101991996008,S,Soledad Enrichment Action Charter High,Los Angeles County Office of Education,Los Angeles,240,11,338,305,335,0
+19642120000000,D,,ABC Unified,Los Angeles,1781,885,528,566,534,549
+19642121930056,S,Cerritos High,ABC Unified,Los Angeles,566,367,535,587,546,263
+19642121930361,S,Artesia High,ABC Unified,Los Angeles,314,130,453,466,450,31
+19642121931880,S,Whitney (Gretchen) High,ABC Unified,Los Angeles,164,154,639,687,661,151
+19642121933159,S,Gahr (Richard) High,ABC Unified,Los Angeles,439,234,485,509,477,104
+19642121995596,S,ABC Secondary (Alternative),ABC Unified,Los Angeles,71,0,,,,
+19642460000000,D,,Antelope Valley Union High,Los Angeles,7334,2044,457,448,446,564
+19642460100081,S,William J. (Pete) Knight High,Antelope Valley Union High,Los Angeles,797,303,441,435,442,77
+19642460108407,S,Eastside High,Antelope Valley Union High,Los Angeles,509,257,420,408,409,34
+19642460111872,S,SOAR High (Students On Academic Rise),Antelope Valley Union High,Los Angeles,86,87,517,513,496,45
+19642460115337,S,Los Angeles County Online High,Antelope Valley Union High,Los Angeles,141,6,,,,
+19642460126003,S,Academies of the Antelope Valley,Antelope Valley Union High,Los Angeles,9,3,,,,
+19642461930213,S,Antelope Valley High,Antelope Valley Union High,Los Angeles,371,138,412,400,405,10
+19642461931732,S,Desert Winds Continuation High,Antelope Valley Union High,Los Angeles,405,1,,,,
+19642461936624,S,Palmdale High,Antelope Valley Union High,Los Angeles,695,218,446,427,433,46
+19642461937051,S,Quartz Hill High,Antelope Valley Union High,Los Angeles,780,344,499,494,486,152
+19642461995398,S,Highland High,Antelope Valley Union High,Los Angeles,796,312,471,460,458,99
+19642461995406,S,Littlerock High,Antelope Valley Union High,Los Angeles,342,133,423,426,422,24
+19642461995844,S,Lancaster High,Antelope Valley Union High,Los Angeles,564,238,470,462,449,74
+19642461996537,S,Desert Sands Charter,Antelope Valley Union High,Los Angeles,1312,4,,,,
+19642610000000,D,,Arcadia Unified,Los Angeles,925,629,579,635,592,539
+19642611930288,S,Arcadia High,Arcadia Unified,Los Angeles,887,597,578,635,592,509
+19642611995299,S,Rancho Learning Center (Alternative),Arcadia Unified,Los Angeles,38,32,605,641,601,30
+19642790000000,D,,Azusa Unified,Los Angeles,767,276,442,440,432,54
+19642791930528,S,Azusa High,Azusa Unified,Los Angeles,372,159,440,445,431,35
+19642791933449,S,Gladstone High,Azusa Unified,Los Angeles,288,117,445,432,434,19
+19642870000000,D,,Baldwin Park Unified,Los Angeles,2113,554,451,451,444,139
+19642870114397,S,Opportunities For Learning - Baldwin Park II,Baldwin Park Unified,Los Angeles,702,79,434,397,426,7
+19642871930601,S,Baldwin Park High,Baldwin Park Unified,Los Angeles,424,179,459,473,446,58
+19642871938166,S,Sierra Vista High,Baldwin Park Unified,Los Angeles,423,215,454,463,448,59
+19642871996479,S,Opportunities for Learning - Baldwin Park,Baldwin Park Unified,Los Angeles,317,81,441,419,447,15
+19642950000000,D,,Bassett Unified,Los Angeles,309,101,429,435,431,21
+19642951930700,S,Bassett Senior High,Bassett Unified,Los Angeles,263,100,427,436,431,21
+19642951936491,S,Nueva Vista Continuation High,Bassett Unified,Los Angeles,46,1,,,,
+19643030000000,D,,Bellflower Unified,Los Angeles,1099,381,481,490,465,140
+19643031930775,S,Bellflower High,Bellflower Unified,Los Angeles,396,147,465,482,445,41
+19643031935618,S,Mayfair High,Bellflower Unified,Los Angeles,511,234,490,495,478,99
+19643110000000,D,,Beverly Hills Unified,Los Angeles,456,219,574,589,588,173
+19643111930981,S,Beverly Hills High,Beverly Hills Unified,Los Angeles,439,219,574,589,588,173
+19643290000000,D,,Bonita Unified,Los Angeles,838,415,496,497,495,194
+19643291931088,S,Bonita High,Bonita Unified,Los Angeles,469,260,495,500,500,127
+19643291937739,S,San Dimas High,Bonita Unified,Los Angeles,298,155,497,491,487,67
+19643370000000,D,,Burbank Unified,Los Angeles,1678,680,516,524,509,385
+19643371931187,S,Burbank High,Burbank Unified,Los Angeles,651,320,516,532,513,193
+19643371931237,S,Burroughs High,Burbank Unified,Los Angeles,610,338,519,521,509,183
+19643371996099,S,Options for Youth-Burbank Charter,Burbank Unified,Los Angeles,282,22,467,439,464,9
+19643520000000,D,,Centinela Valley Union High,Los Angeles,2029,695,416,418,415,104
+19643520118521,S,Centinela Valley Independent Study,Centinela Valley Union High,Los Angeles,63,0,,,,
+19643520128488,S,Family First Charter,Centinela Valley Union High,Los Angeles,181,0,,,,
+19643520128496,S,New Opportunities Charter,Centinela Valley Union High,Los Angeles,209,0,,,,
+19643521933951,S,Hawthorne High,Centinela Valley Union High,Los Angeles,467,179,412,405,420,26
+19643521934926,S,Lawndale High,Centinela Valley Union High,Los Angeles,636,361,428,429,423,62
+19643521935048,S,Leuzinger High,Centinela Valley Union High,Los Angeles,337,155,391,410,391,16
+19643780000000,D,,Charter Oak Unified,Los Angeles,484,262,470,485,466,97
+19643781931666,S,Charter Oak High,Charter Oak Unified,Los Angeles,420,262,470,485,466,97
+19643940000000,D,,Claremont Unified,Los Angeles,622,405,517,524,518,228
+19643941931807,S,San Antonio High (Continuation),Claremont Unified,Los Angeles,33,2,,,,
+19643941931823,S,Claremont High,Claremont Unified,Los Angeles,588,403,517,525,519,228
+19644360000000,D,,Covina-Valley Unified,Los Angeles,1157,579,464,471,456,169
+19644361932086,S,Covina High,Covina-Valley Unified,Los Angeles,305,150,454,462,452,36
+19644361936418,S,Northview High,Covina-Valley Unified,Los Angeles,313,158,433,431,426,28
+19644361938372,S,South Hills High,Covina-Valley Unified,Los Angeles,460,271,488,499,476,105
+19644440000000,D,,Culver City Unified,Los Angeles,550,341,514,516,502,170
+19644441932201,S,Culver City High,Culver City Unified,Los Angeles,510,341,514,516,502,170
+19644510000000,D,,Downey Unified,Los Angeles,2154,929,465,464,456,270
+19644511932441,S,Downey High,Downey Unified,Los Angeles,1025,455,464,456,454,126
+19644511939164,S,Warren High,Downey Unified,Los Angeles,908,474,467,473,458,144
+19644690000000,D,,Duarte Unified,Los Angeles,405,147,450,463,446,33
+19644690128736,S,Opportunities for Learning - Duarte,Duarte Unified,Los Angeles,111,4,,,,
+19644691932482,S,Duarte High,Duarte Unified,Los Angeles,257,143,448,465,446,33
+19645190000000,D,,El Monte Union High,Los Angeles,2471,1069,451,477,449,340
+19645191930320,S,Arroyo High,El Monte Union High,Los Angeles,567,291,455,483,457,91
+19645191932664,S,El Monte High,El Monte Union High,Los Angeles,468,211,434,454,430,56
+19645191932680,S,Mountain View High,El Monte Union High,Los Angeles,370,126,442,461,444,31
+19645191937481,S,Rosemead High,El Monte Union High,Los Angeles,448,277,473,505,469,124
+19645191995661,S,South El Monte High,El Monte Union High,Los Angeles,317,164,436,458,427,38
+19645270000000,D,,El Rancho Unified,Los Angeles,818,391,441,458,435,90
+19645271932706,S,El Rancho High,El Rancho Unified,Los Angeles,685,391,441,458,435,90
+19645350000000,D,,El Segundo Unified,Los Angeles,336,229,523,518,513,126
+19645351932763,S,El Segundo High,El Segundo Unified,Los Angeles,323,229,523,518,513,126
+19645680000000,D,,Glendale Unified,Los Angeles,2322,1071,533,574,538,706
+19645681932144,S,Crescenta Valley High,Glendale Unified,Los Angeles,704,507,561,599,566,377
+19645681933472,S,Daily (Allan F.) High (Continuation),Glendale Unified,Los Angeles,180,2,,,,
+19645681933530,S,Glendale High,Glendale Unified,Los Angeles,677,254,502,536,495,136
+19645681934082,S,Herbert Hoover High,Glendale Unified,Los Angeles,413,135,505,549,511,72
+19645681995497,S,Verdugo Academy,Glendale Unified,Los Angeles,17,2,,,,
+19645681996131,S,Anderson W. Clark Magnet High,Glendale Unified,Los Angeles,260,171,523,580,539,119
+19645760000000,D,,Glendora Unified,Los Angeles,652,330,534,554,525,217
+19645761933597,S,Glendora High,Glendora Unified,Los Angeles,591,329,534,554,525,217
+19645761939677,S,Whitcomb Continuation High,Glendora Unified,Los Angeles,57,1,,,,
+19645840000000,D,,Gorman Elementary,Los Angeles,174,35,516,473,473,16
+19645841996305,S,Gorman Learning Center,Gorman Elementary,Los Angeles,174,35,516,473,473,16
+19645920000000,D,,Hawthorne,Los Angeles,111,116,493,513,492,58
+19645920100354,S,Hawthorne Math and Science Academy,Hawthorne,Los Angeles,111,116,493,513,492,58
+19646340000000,D,,Inglewood Unified,Los Angeles,830,407,406,408,411,56
+19646341934231,S,Inglewood High,Inglewood Unified,Los Angeles,266,113,387,389,394,9
+19646341934249,S,Inglewood Continuation High,Inglewood Unified,Los Angeles,83,1,,,,
+19646341936046,S,Morningside High,Inglewood Unified,Los Angeles,232,116,380,368,379,4
+19646341996529,S,City Honors College Preparatory Academy,Inglewood Unified,Los Angeles,102,92,439,429,442,23
+19646341996586,S,Animo Inglewood Charter High,Inglewood Unified,Los Angeles,129,85,433,466,448,20
+19646590000000,D,,La Canada Unified,Los Angeles,362,261,604,627,605,228
+19646591934611,S,La Canada High,La Canada Unified,Los Angeles,358,261,604,627,605,228
+19646830000000,D,,Las Virgenes Unified,Los Angeles,1002,526,559,563,564,402
+19646831930080,S,Agoura High,Las Virgenes Unified,Los Angeles,536,288,571,576,573,236
+19646831931781,S,Calabasas High,Las Virgenes Unified,Los Angeles,455,238,545,547,554,166
+19646910000000,D,,Lawndale Elementary,Los Angeles,116,116,443,445,446,26
+19646911996438,S,Environmental Charter High,Lawndale Elementary,Los Angeles,116,116,443,445,446,26
+19647090000000,D,,Lennox,Los Angeles,258,238,419,425,417,36
+19647090100602,S,"Lennox Mathematics, Science and Technology Academy",Lennox,Los Angeles,132,119,432,426,418,18
+19647091996313,S,Animo Leadership High,Lennox,Los Angeles,126,119,405,424,416,18
+19647250000000,D,,Long Beach Unified,Los Angeles,6767,2878,469,470,460,1018
+19647250125153,S,Beach High-Intensive Learning Program,Long Beach Unified,Los Angeles,96,0,,,,
+19647251930411,S,Avalon K-12,Long Beach Unified,Los Angeles,54,30,501,515,492,15
+19647251934470,S,Jordan High,Long Beach Unified,Los Angeles,831,322,392,397,389,23
+19647251934678,S,Lakewood High,Long Beach Unified,Los Angeles,873,426,469,469,454,136
+19647251935758,S,Millikan High,Long Beach Unified,Los Angeles,898,510,472,465,464,173
+19647251936947,S,Polytechnic High,Long Beach Unified,Los Angeles,1139,660,479,483,473,267
+19647251937176,S,Reid High,Long Beach Unified,Los Angeles,203,1,,,,
+19647251939875,S,Wilson High,Long Beach Unified,Los Angeles,925,475,494,494,485,222
+19647251995539,S,California Academy of Mathematics and Science,Long Beach Unified,Los Angeles,161,155,581,602,579,137
+19647251995570,S,Educational Partnership High,Long Beach Unified,Los Angeles,785,2,,,,
+19647251995935,S,Cabrillo High,Long Beach Unified,Los Angeles,610,230,405,408,388,19
+19647251996503,S,Renaissance High School for the Arts,Long Beach Unified,Los Angeles,119,67,506,459,483,24
+19647330000000,D,,Los Angeles Unified,Los Angeles,43324,24305,435,439,435,5837
+19647330100677,S,High Tech LA,Los Angeles Unified,Los Angeles,81,69,525,542,508,41
+19647330100750,S,Wallis Annenberg High,Los Angeles Unified,Los Angeles,85,85,414,424,416,11
+19647330100776,S,North Valley Military Institute College Preparator,Los Angeles Unified,Los Angeles,11,10,,,,
+19647330100800,S,Central City Value,Los Angeles Unified,Los Angeles,104,109,399,395,404,11
+19647330101196,S,View Park Preparatory Accelerated High,Los Angeles Unified,Los Angeles,152,105,385,374,382,9
+19647330101659,S,Crenshaw Arts-Technology Charter High,Los Angeles Unified,Los Angeles,72,61,375,362,381,3
+19647330101675,S,Oscar De La Hoya Animo Charter High,Los Angeles Unified,Los Angeles,148,153,392,391,398,19
+19647330101683,S,Renaissance Arts Academy,Los Angeles Unified,Los Angeles,41,39,512,499,506,18
+19647330102434,S,Animo South Los Angeles Charter,Los Angeles Unified,Los Angeles,151,135,387,372,376,9
+19647330102541,S,New Designs Charter,Los Angeles Unified,Los Angeles,63,63,397,410,411,11
+19647330102913,S,Middle College High,Los Angeles Unified,Los Angeles,96,90,439,434,435,17
+19647330102921,S,Harbor Teacher Preparation Academy,Los Angeles Unified,Los Angeles,97,90,510,538,509,55
+19647330106351,S,Ivy Academia,Los Angeles Unified,Los Angeles,49,37,416,418,431,8
+19647330106435,S,Camino Nuevo Charter High,Los Angeles Unified,Los Angeles,0,106,406,418,413,14
+19647330106831,S,Animo Venice Charter High,Los Angeles Unified,Los Angeles,150,129,416,411,414,17
+19647330106849,S,Animo Pat Brown,Los Angeles Unified,Los Angeles,124,121,386,412,377,14
+19647330106864,S,Alliance Gertz-Ressler Richard Merkin 6-12 Complex,Los Angeles Unified,Los Angeles,105,111,415,430,436,17
+19647330106997,S,Orthopaedic Hospital,Los Angeles Unified,Los Angeles,171,137,448,449,444,35
+19647330107003,S,Northridge Academy High,Los Angeles Unified,Los Angeles,222,152,461,463,464,49
+19647330107011,S,International Studies Learning Center at Legacy Hi,Los Angeles Unified,Los Angeles,63,42,453,465,457,14
+19647330107755,S,Port of Los Angeles High,Los Angeles Unified,Los Angeles,207,148,483,500,487,63
+19647330108878,S,CHAMPS - Charter HS of Arts-Multimedia & Performin,Los Angeles Unified,Los Angeles,240,162,501,464,497,69
+19647330108894,S,Alliance Judy Ivie Burton Technology Academy High,Los Angeles Unified,Los Angeles,149,131,391,413,408,16
+19647330108936,S,Alliance Collins Family College-Ready High,Los Angeles Unified,Los Angeles,156,161,381,408,390,13
+19647330109322,S,Pacific Boulevard,Los Angeles Unified,Los Angeles,26,0,,,,
+19647330109447,S,Santee Education Complex,Los Angeles Unified,Los Angeles,274,172,388,371,382,11
+19647330109454,S,South East High,Los Angeles Unified,Los Angeles,423,256,433,425,439,59
+19647330109462,S,Maywood Academy High,Los Angeles Unified,Los Angeles,245,141,421,436,420,29
+19647330109553,S,PUC CA Academy for Liberal Studies Early College H,Los Angeles Unified,Los Angeles,46,53,422,435,437,6
+19647330110304,S,Los Angeles Academy of Arts & Enterprise Charter,Los Angeles Unified,Los Angeles,25,29,385,386,388,3
+19647330110668,S,Frida Kahlo High,Los Angeles Unified,Los Angeles,39,1,,,,
+19647330111484,S,New Village Girls Academy,Los Angeles Unified,Los Angeles,22,16,370,320,374,0
+19647330111492,S,Alliance Patti And Peter Neuwirth Leadership Acade,Los Angeles Unified,Los Angeles,159,177,378,397,386,9
+19647330111500,S,Alliance Dr. Olga Mohan High,Los Angeles Unified,Los Angeles,104,108,390,422,407,15
+19647330111575,S,Animo Ralph Bunche High,Los Angeles Unified,Los Angeles,126,80,361,385,387,1
+19647330111583,S,Animo Jackie Robinson High,Los Angeles Unified,Los Angeles,139,117,381,398,377,11
+19647330111625,S,Animo Watts College Preparatory Academy,Los Angeles Unified,Los Angeles,123,95,371,359,362,3
+19647330111641,S,Alliance Ouchi-O'Donovan 6-12 Complex,Los Angeles Unified,Los Angeles,141,124,388,381,397,12
+19647330111658,S,Alliance Marc & Eva Stern Math and Science,Los Angeles Unified,Los Angeles,143,142,426,433,439,30
+19647330112029,S,School of Business and Tourism at Contreras Learni,Los Angeles Unified,Los Angeles,93,75,401,400,403,7
+19647330112037,S,East Valley Senior High,Los Angeles Unified,Los Angeles,155,82,397,404,415,12
+19647330112045,S,Arleta High,Los Angeles Unified,Los Angeles,356,236,390,404,397,21
+19647330112052,S,Panorama High,Los Angeles Unified,Los Angeles,234,103,413,421,411,13
+19647330112508,S,Bright Star Secondary Charter Academy,Los Angeles Unified,Los Angeles,108,108,431,443,435,20
+19647330112557,S,Frederick Douglass Academy High,Los Angeles Unified,Los Angeles,69,56,377,365,378,3
+19647330112862,S,Student Empowerment Academy,Los Angeles Unified,Los Angeles,55,35,360,370,372,1
+19647330112870,S,Contreras Learning Center-Los Angeles School of Gl,Los Angeles Unified,Los Angeles,83,63,386,397,378,3
+19647330114850,S,West Adams Preparatory High,Los Angeles Unified,Los Angeles,356,208,391,405,385,13
+19647330115030,S,Magnolia Science Academy 3,Los Angeles Unified,Los Angeles,47,46,407,433,418,6
+19647330115212,S,Magnolia Science Academy 2,Los Angeles Unified,Los Angeles,29,23,446,457,427,6
+19647330115253,S,Discovery Charter Preparatory No. 2,Los Angeles Unified,Los Angeles,78,72,365,371,373,3
+19647330116509,S,Alliance Media Arts and Entertainment Design High,Los Angeles Unified,Los Angeles,68,70,371,384,375,4
+19647330117051,S,Edward R. Roybal Learning Center,Los Angeles Unified,Los Angeles,277,151,418,409,408,21
+19647330117069,S,Helen Bernstein High,Los Angeles Unified,Los Angeles,121,49,391,389,391,3
+19647330117077,S,APEX Academy,Los Angeles Unified,Los Angeles,125,47,376,371,368,2
+19647330117598,S,Alliance Health Services Academy High,Los Angeles Unified,Los Angeles,112,83,380,390,393,10
+19647330117606,S,Alliance Environmental Science and Technology High,Los Angeles Unified,Los Angeles,146,102,430,423,444,21
+19647330117622,S,Magnolia Science Academy 4,Los Angeles Unified,Los Angeles,30,24,409,407,405,2
+19647330117721,S,Contreras Learning Center-Academic Leadership Comm,Los Angeles Unified,Los Angeles,78,57,384,412,390,4
+19647330117747,S,RFK Community Schools-Los Angeles High School of t,Los Angeles Unified,Los Angeles,98,58,408,411,409,10
+19647330117754,S,Belmont SH-LA Teacher Preparatory Academy,Los Angeles Unified,Los Angeles,34,32,331,359,339,1
+19647330117762,S,RFK Community Schools- for the Visual Arts and Hum,Los Angeles Unified,Los Angeles,81,71,392,416,394,12
+19647330117911,S,New Millennium Secondary,Los Angeles Unified,Los Angeles,67,44,387,378,388,3
+19647330118588,S,Alain Leroy Locke College Prep Academy,Los Angeles Unified,Los Angeles,523,281,358,377,364,15
+19647330119651,S,Sun Valley High,Los Angeles Unified,Los Angeles,106,30,391,408,385,3
+19647330119685,S,RFK Community Schools-New Open World Academy K-12,Los Angeles Unified,Los Angeles,45,33,402,387,402,2
+19647330119693,S,RFK Community Schools-UCLA Community K-12,Los Angeles Unified,Los Angeles,75,61,384,404,392,6
+19647330119727,S,Ramon C. Cortines School of Visual and Performing,Los Angeles Unified,Los Angeles,356,249,451,434,446,73
+19647330119966,S,Felicitas and Gonzalo Mendez High,Los Angeles Unified,Los Angeles,142,58,390,396,382,6
+19647330120071,S,New Designs Charter School-Watts,Los Angeles Unified,Los Angeles,21,16,393,375,371,0
+19647330120360,S,Daniel Pearl Journalism & Communications Magnet,Los Angeles Unified,Los Angeles,112,83,489,462,470,30
+19647330121095,S,RFK Community Schools-Ambassador-Global Leadership,Los Angeles Unified,Los Angeles,71,40,419,406,412,9
+19647330121285,S,Alliance Cindy and Bill Simon Technology Academy H,Los Angeles Unified,Los Angeles,118,97,382,395,364,7
+19647330121293,S,Alliance Tennenbaum Family Technology High,Los Angeles Unified,Los Angeles,94,79,393,407,385,7
+19647330122275,S,Academy of Environmental & Social Policy (ESP) at,Los Angeles Unified,Los Angeles,68,45,396,386,390,3
+19647330122333,S,"Math, Science, & Technology Magnet Academy at Roos",Los Angeles Unified,Los Angeles,82,69,450,455,447,23
+19647330122341,S,East Los Angeles Performing Arts Academy at Esteba,Los Angeles Unified,Los Angeles,127,80,375,375,378,4
+19647330122358,S,Humanitas Academy of Art and Technology at Esteban,Los Angeles Unified,Los Angeles,100,65,382,377,386,5
+19647330122366,S,Social Justice Leadership Academy at Esteban E. To,Los Angeles Unified,Los Angeles,93,79,364,357,371,1
+19647330122374,S,East Los Angeles Renaissance Academy at Esteban E.,Los Angeles Unified,Los Angeles,66,56,404,393,388,5
+19647330122382,S,Engineering and Technology Academy at Esteban E. T,Los Angeles Unified,Los Angeles,92,74,402,393,395,12
+19647330122598,S,PUC Triumph Charter High,Los Angeles Unified,Los Angeles,51,0,,,,
+19647330122606,S,PUC Lakeview Charter High,Los Angeles Unified,Los Angeles,84,89,380,395,390,6
+19647330122721,S,Aspire Pacific Academy,Los Angeles Unified,Los Angeles,126,133,401,405,394,15
+19647330122762,S,Los Angeles Big Picture High,Los Angeles Unified,Los Angeles,14,0,,,,
+19647330123141,S,Alliance College-Ready Academy High 16,Los Angeles Unified,Los Angeles,94,92,382,387,378,8
+19647330124362,S,Valley Academy of Arts and Sciences,Los Angeles Unified,Los Angeles,303,186,447,432,440,39
+19647330124370,S,"Cesar E. Chavez Learning Academies-Arts,Theatre, E",Los Angeles Unified,Los Angeles,104,63,361,354,369,2
+19647330124388,S,Cesar E. Chavez Learning Academies-Social Justice,Los Angeles Unified,Los Angeles,94,90,392,387,401,11
+19647330124396,S,Cesar E. Chavez Learning Academies-Academy of Scie,Los Angeles Unified,Los Angeles,98,66,427,396,413,6
+19647330124404,S,Cesar E. Chavez Learning Academies-Teacher Prepara,Los Angeles Unified,Los Angeles,113,50,402,389,401,4
+19647330124412,S,Los Angeles River at Sonia Sotomayor Learning Acad,Los Angeles Unified,Los Angeles,82,62,390,379,383,4
+19647330124420,S,School of History and Dramatic Arts at Sonia Sotom,Los Angeles Unified,Los Angeles,104,77,433,427,430,18
+19647330124479,S,Dr. Maya Angelou Community High,Los Angeles Unified,Los Angeles,247,92,368,345,363,5
+19647330124487,S,Public Service Community at Diego Rivera Learning,Los Angeles Unified,Los Angeles,96,38,383,389,406,2
+19647330124495,S,Communication and Technology at Diego Rivera Learn,Los Angeles Unified,Los Angeles,87,55,384,387,373,3
+19647330124503,S,Green Design at Diego Rivera Learning Complex,Los Angeles Unified,Los Angeles,80,49,370,375,375,1
+19647330124511,S,Performing Arts Community at Diego Rivera Learning,Los Angeles Unified,Los Angeles,82,64,353,368,372,2
+19647330124529,S,Rancho Dominguez Preparatory,Los Angeles Unified,Los Angeles,187,125,423,407,420,15
+19647330124560,S,Synergy Quantum Academy,Los Angeles Unified,Los Angeles,134,113,425,412,419,24
+19647330124883,S,Animo College Preparatory Academy,Los Angeles Unified,Los Angeles,88,49,350,343,359,1
+19647330124891,S,Alliance Renee and Meyer Luskin Academy High,Los Angeles Unified,Los Angeles,110,92,372,402,364,6
+19647330124933,S,PUC Early College Academy for Leaders and Scholars,Los Angeles Unified,Los Angeles,65,67,383,381,401,8
+19647330124941,S,Alliance Margaret M. Bloomfield Technology Academy,Los Angeles Unified,Los Angeles,0,1,,,,
+19647330125963,S,Leadership in Entertainment and Media Arts (LEMA),Los Angeles Unified,Los Angeles,80,33,361,346,354,0
+19647330125989,S,STEM Academy at Bernstein High,Los Angeles Unified,Los Angeles,78,68,391,392,399,9
+19647330126185,S,Academy of Science and Engineering,Los Angeles Unified,Los Angeles,0,4,,,,
+19647330126482,S,Augustus F. Hawkins High A Critical Design and Gam,Los Angeles Unified,Los Angeles,66,50,361,356,354,0
+19647330126490,S,Augustus F. Hawkins High B Community Health Advoca,Los Angeles Unified,Los Angeles,70,63,356,328,366,2
+19647330126508,S,Augustus F. Hawkins High C Responsible Indigenous,Los Angeles Unified,Los Angeles,55,52,342,341,346,1
+19647330126516,S,Linda Esperanza Marquez High A Huntington Park Ins,Los Angeles Unified,Los Angeles,101,45,428,405,431,7
+19647330126524,S,Linda Esperanza Marquez High B LIBRA Academy,Los Angeles Unified,Los Angeles,111,82,427,427,410,15
+19647330126532,S,Linda Esperanza Marquez High C School of Social Ju,Los Angeles Unified,Los Angeles,84,44,436,445,423,7
+19647330126540,S,"Science, Technology, Engineering, Arts and Mathema",Los Angeles Unified,Los Angeles,29,17,384,382,383,1
+19647330126557,S,Visual and Performing Arts at Legacy High School C,Los Angeles Unified,Los Angeles,30,19,392,379,386,1
+19647330126573,S,Academy for Multilingual Arts and Science at Mervy,Los Angeles Unified,Los Angeles,48,28,366,350,377,0
+19647330126615,S,Academies of Education and Empowerment at Carson H,Los Angeles Unified,Los Angeles,128,84,410,417,403,8
+19647330126623,S,Academy of Medical Arts at Carson High,Los Angeles Unified,Los Angeles,141,115,417,431,417,15
+19647330127787,S,Humanities and Arts (HARTS) Academy of Los Angeles,Los Angeles Unified,Los Angeles,63,25,446,421,425,2
+19647330127795,S,Contreras Learning Center-School of Social Justice,Los Angeles Unified,Los Angeles,89,76,377,369,383,3
+19647330127803,S,Early College Academy-LA Trade Tech College,Los Angeles Unified,Los Angeles,94,2,,,,
+19647330127910,S,Camino Nuevo High No. 2,Los Angeles Unified,Los Angeles,117,0,,,,
+19647331930064,S,William Tell Aggeler Opportunity High,Los Angeles Unified,Los Angeles,21,0,,,,
+19647331930296,S,Harris Newmark Continuation,Los Angeles Unified,Los Angeles,85,1,,,,
+19647331930403,S,Whitney Young Continuation,Los Angeles Unified,Los Angeles,12,1,,,,
+19647331930429,S,View Park Continuation,Los Angeles Unified,Los Angeles,27,8,,,,
+19647331930619,S,Harold McAlister High (Opportunity),Los Angeles Unified,Los Angeles,43,2,,,,
+19647331930650,S,Phineas Banning Senior High,Los Angeles Unified,Los Angeles,428,309,405,424,408,40
+19647331930692,S,Thomas Riley High,Los Angeles Unified,Los Angeles,31,2,,,,
+19647331930734,S,Angel's Gate (Continuation),Los Angeles Unified,Los Angeles,21,1,,,,
+19647331930866,S,Bell Senior High,Los Angeles Unified,Los Angeles,845,411,420,439,420,64
+19647331930924,S,Belmont Senior High,Los Angeles Unified,Los Angeles,244,175,390,409,401,17
+19647331930940,S,John R. Wooden High,Los Angeles Unified,Los Angeles,49,3,,,,
+19647331931047,S,Birmingham Community Charter High,Los Angeles Unified,Los Angeles,705,327,433,428,433,60
+19647331931385,S,Albert Einstein Continuation,Los Angeles Unified,Los Angeles,23,1,,,,
+19647331931393,S,Highland Park Continuation,Los Angeles Unified,Los Angeles,16,2,,,,
+19647331931450,S,Jack London Continuation,Los Angeles Unified,Los Angeles,34,1,,,,
+19647331931476,S,Canoga Park Senior High,Los Angeles Unified,Los Angeles,295,124,442,429,426,22
+19647331931484,S,Mission Continuation,Los Angeles Unified,Los Angeles,38,3,,,,
+19647331931526,S,Carson Senior High,Los Angeles Unified,Los Angeles,281,135,438,431,432,28
+19647331931708,S,Chatsworth Charter High,Los Angeles Unified,Los Angeles,576,238,458,455,446,71
+19647331931716,S,Valley Alternative Magnet,Los Angeles Unified,Los Angeles,32,19,463,469,457,6
+19647331931864,S,Grover Cleveland Charter High,Los Angeles Unified,Los Angeles,777,428,507,507,509,215
+19647331932128,S,"Crenshaw Science, Technology, Engineering, Math an",Los Angeles Unified,Los Angeles,267,150,375,374,368,3
+19647331932250,S,Henry David Thoreau Continuation,Los Angeles Unified,Los Angeles,22,1,,,,
+19647331932383,S,Susan Miller Dorsey Senior High,Los Angeles Unified,Los Angeles,271,143,374,359,378,6
+19647331932540,S,Eagle Rock High,Los Angeles Unified,Los Angeles,413,288,469,471,460,101
+19647331932623,S,El Camino Real Charter High,Los Angeles Unified,Los Angeles,943,428,517,532,514,246
+19647331932847,S,Los Angeles Center for Enriched Studies,Los Angeles Unified,Los Angeles,228,207,550,579,559,152
+19647331932888,S,Downtown Business High,Los Angeles Unified,Los Angeles,211,195,475,505,464,73
+19647331932920,S,Fairfax Senior High,Los Angeles Unified,Los Angeles,469,275,454,466,450,81
+19647331932987,S,John H. Francis Polytechnic,Los Angeles Unified,Los Angeles,775,417,437,455,439,99
+19647331933001,S,King/Drew Medical Magnet High,Los Angeles Unified,Los Angeles,315,275,447,451,458,78
+19647331933043,S,Benjamin Franklin Senior High,Los Angeles Unified,Los Angeles,306,194,440,448,427,51
+19647331933118,S,John C. Fremont Senior High,Los Angeles Unified,Los Angeles,460,227,386,388,383,16
+19647331933233,S,Sherman Oaks Center for Enriched Studies,Los Angeles Unified,Los Angeles,249,200,517,521,525,117
+19647331933241,S,Gardena Senior High,Los Angeles Unified,Los Angeles,310,132,421,400,417,18
+19647331933381,S,James A. Garfield Senior High,Los Angeles Unified,Los Angeles,642,351,408,420,404,42
+19647331933746,S,Granada Hills Charter High,Los Angeles Unified,Los Angeles,1080,748,539,560,543,505
+19647331933795,S,Ulysses S. Grant Senior High,Los Angeles Unified,Los Angeles,460,167,429,430,438,33
+19647331933852,S,Alexander Hamilton Senior High,Los Angeles Unified,Los Angeles,642,459,482,462,481,176
+19647331934033,S,Hollywood Senior High,Los Angeles Unified,Los Angeles,341,235,448,447,444,57
+19647331934157,S,Huntington Park Senior High,Los Angeles Unified,Los Angeles,369,185,387,391,388,12
+19647331934371,S,Thomas Jefferson Senior High,Los Angeles Unified,Los Angeles,242,127,368,377,373,6
+19647331934454,S,David Starr Jordan Senior High,Los Angeles Unified,Los Angeles,128,46,402,394,389,3
+19647331935121,S,Abraham Lincoln Senior High,Los Angeles Unified,Los Angeles,305,181,432,462,425,50
+19647331935352,S,Los Angeles Senior High,Los Angeles Unified,Los Angeles,311,182,414,430,410,29
+19647331935519,S,Manual Arts Senior High,Los Angeles Unified,Los Angeles,347,209,373,374,376,10
+19647331935568,S,John Marshall Senior High,Los Angeles Unified,Los Angeles,601,365,490,493,485,164
+19647331935865,S,James Monroe High,Los Angeles Unified,Los Angeles,520,225,438,430,437,55
+19647331936160,S,Nathaniel Narbonne Senior High,Los Angeles Unified,Los Angeles,446,278,446,446,438,66
+19647331936350,S,North Hollywood Senior High,Los Angeles Unified,Los Angeles,602,400,517,516,510,191
+19647331937085,S,Ramona Opportunity High,Los Angeles Unified,Los Angeles,15,0,,,,
+19647331937226,S,Reseda Senior High,Los Angeles Unified,Los Angeles,454,210,446,449,440,56
+19647331937424,S,Theodore Roosevelt Senior High,Los Angeles Unified,Los Angeles,468,229,392,396,390,22
+19647331937622,S,San Fernando Senior High,Los Angeles Unified,Los Angeles,477,238,416,436,413,41
+19647331937838,S,San Pedro Senior High,Los Angeles Unified,Los Angeles,550,243,460,456,455,73
+19647331938307,S,South Gate Senior High,Los Angeles Unified,Los Angeles,599,354,409,410,421,46
+19647331938554,S,Sylmar Senior High,Los Angeles Unified,Los Angeles,482,276,411,417,406,32
+19647331938612,S,William Howard Taft Charter High,Los Angeles Unified,Los Angeles,516,296,511,530,524,169
+19647331938885,S,University Senior High,Los Angeles Unified,Los Angeles,407,248,457,462,456,81
+19647331938968,S,Van Nuys Senior High,Los Angeles Unified,Los Angeles,567,340,518,539,511,194
+19647331939040,S,Venice Senior High,Los Angeles Unified,Los Angeles,390,222,475,480,468,77
+19647331939107,S,Verdugo Hills Senior High,Los Angeles Unified,Los Angeles,315,182,449,479,449,57
+19647331939305,S,George Washington Preparatory High,Los Angeles Unified,Los Angeles,261,124,375,360,375,4
+19647331939479,S,WESM Health/Sports Medicine,Los Angeles Unified,Los Angeles,220,158,445,425,435,36
+19647331939859,S,Woodrow Wilson Senior High,Los Angeles Unified,Los Angeles,395,240,398,408,396,23
+19647331939941,S,John F. Kennedy High,Los Angeles Unified,Los Angeles,434,227,434,440,432,46
+19647331995448,S,Francisco Bravo Medical Magnet High,Los Angeles Unified,Los Angeles,378,369,477,485,474,137
+19647331995489,S,Los Angeles Unified Alternative Education,Los Angeles Unified,Los Angeles,413,0,,,,
+19647331995794,S,Youth Opportunities Unlimited,Los Angeles Unified,Los Angeles,99,1,,,,
+19647331995836,S,Palisades Charter High,Los Angeles Unified,Los Angeles,632,452,531,538,525,262
+19647331996115,S,City of Angels,Los Angeles Unified,Los Angeles,430,20,507,451,501,9
+19647331996610,S,Los Angeles Leadership Academy,Los Angeles Unified,Los Angeles,47,33,418,426,425,6
+19647336016885,S,Elizabeth Learning Center,Los Angeles Unified,Los Angeles,124,83,407,393,414,5
+19647336019475,S,Thirty-Second Street USC Performing Arts,Los Angeles Unified,Los Angeles,69,58,447,442,442,11
+19647336019715,S,Vaughn Next Century Learning Center,Los Angeles Unified,Los Angeles,127,87,459,444,446,22
+19647336058002,S,Robert Fulton College Preparatory,Los Angeles Unified,Los Angeles,135,108,390,379,399,11
+19647336061451,S,Foshay Learning Center,Los Angeles Unified,Los Angeles,182,164,438,442,453,43
+19647336116750,S,PUC Community Charter Middle and PUC Community Cha,Los Angeles Unified,Los Angeles,114,0,,,,
+19647336119945,S,Magnolia Science Academy,Los Angeles Unified,Los Angeles,57,55,475,501,470,23
+19647740000000,D,,Lynwood Unified,Los Angeles,1166,476,402,406,407,47
+19647740109538,S,Marco Antonio Firebaugh High,Lynwood Unified,Los Angeles,444,217,404,405,412,23
+19647740114777,S,Pathway Independent Study,Lynwood Unified,Los Angeles,78,0,,,,
+19647741935436,S,Lynwood High,Lynwood Unified,Los Angeles,475,259,400,406,403,24
+19647900000000,D,,Monrovia Unified,Los Angeles,529,240,485,489,475,101
+19647901935899,S,Canyon Oaks High,Monrovia Unified,Los Angeles,93,13,390,363,397,0
+19647901935923,S,Monrovia High,Monrovia Unified,Los Angeles,401,214,491,499,480,97
+19647901996404,S,Mountain Park,Monrovia Unified,Los Angeles,24,13,489,441,468,4
+19648080000000,D,,Montebello Unified,Los Angeles,2649,905,435,443,439,199
+19648080124552,S,Applied Technology Center,Montebello Unified,Los Angeles,155,83,422,411,420,12
+19648081930155,S,Schurr High,Montebello Unified,Los Angeles,639,275,464,472,467,89
+19648081930825,S,Bell Gardens High,Montebello Unified,Los Angeles,636,304,420,420,422,46
+19648081935998,S,Montebello High,Montebello Unified,Los Angeles,747,243,427,451,435,52
+19648400000000,D,,Norwalk-La Mirada Unified,Los Angeles,1607,1339,404,406,404,205
+19648401933647,S,John H. Glenn High,Norwalk-La Mirada Unified,Los Angeles,401,365,375,385,367,25
+19648401934728,S,La Mirada High,Norwalk-La Mirada Unified,Los Angeles,510,463,439,436,437,106
+19648401936467,S,Norwalk High,Norwalk-La Mirada Unified,Los Angeles,467,442,404,405,413,74
+19648401936475,S,El Camino High (Continuation),Norwalk-La Mirada Unified,Los Angeles,226,69,324,314,321,0
+19648570000000,D,,Palmdale Elementary,Los Angeles,648,16,406,376,400,1
+19648570112714,S,Antelope Valley Learning Academy,Palmdale Elementary,Los Angeles,629,3,,,,
+19648576119580,S,Guidance Charter,Palmdale Elementary,Los Angeles,19,12,403,370,407,1
+19648650000000,D,,Palos Verdes Peninsula Unified,Los Angeles,1080,738,584,617,592,611
+19648651933308,S,Rancho del Mar High (Continuation),Palos Verdes Peninsula Unified,Los Angeles,50,2,,,,
+19648651995588,S,Palos Verdes Peninsula High,Palos Verdes Peninsula Unified,Los Angeles,650,485,594,635,607,411
+19648651996552,S,Palos Verdes High,Palos Verdes Peninsula Unified,Los Angeles,375,251,565,583,564,198
+19648730000000,D,,Paramount Unified,Los Angeles,1319,459,424,434,414,68
+19648730120378,S,Paramount Alternative Education Center,Paramount Unified,Los Angeles,49,0,,,,
+19648731936749,S,Paramount High,Paramount Unified,Los Angeles,1118,459,424,434,414,68
+19648810000000,D,,Pasadena Unified,Los Angeles,1558,657,476,469,463,233
+19648810113464,S,Aveson Global Leadership Academy,Pasadena Unified,Los Angeles,27,9,,,,
+19648810117440,S,CIS Academy,Pasadena Unified,Los Angeles,124,4,,,,
+19648810118075,S,Learning Works,Pasadena Unified,Los Angeles,228,3,,,,
+19648811931062,S,Blair High,Pasadena Unified,Los Angeles,142,63,489,495,475,27
+19648811931674,S,Marshall Fundamental,Pasadena Unified,Los Angeles,237,168,496,477,474,70
+19648811936103,S,John Muir High,Pasadena Unified,Los Angeles,202,113,417,407,410,15
+19648811936806,S,Rose City High (Continuation),Pasadena Unified,Los Angeles,129,9,,,,
+19648811936822,S,Pasadena High,Pasadena Unified,Los Angeles,461,288,486,484,477,114
+19649070000000,D,,Pomona Unified,Los Angeles,1997,897,447,451,442,241
+19649070115170,S,School of Extended Educational Options,Pomona Unified,Los Angeles,151,2,,,,
+19649071933175,S,Ganesha High,Pomona Unified,Los Angeles,269,114,417,429,418,15
+19649071933324,S,Garey High,Pomona Unified,Los Angeles,403,133,433,433,439,25
+19649071937028,S,Pomona High,Pomona Unified,Los Angeles,335,196,409,410,412,28
+19649071995901,S,Diamond Ranch High,Pomona Unified,Los Angeles,474,339,489,497,472,147
+19649071996495,S,Village Academy High School at Indian Hill,Pomona Unified,Los Angeles,98,64,433,426,442,15
+19649076061634,S,Fremont Academy of Engineering and Design,Pomona Unified,Los Angeles,72,27,451,433,433,6
+19649076061642,S,Palomares Academy of Health Science,Pomona Unified,Los Angeles,29,22,424,441,388,4
+19649640000000,D,,San Marino Unified,Los Angeles,268,212,601,657,613,193
+19649641937754,S,San Marino High,San Marino Unified,Los Angeles,265,212,601,657,613,193
+19649800000000,D,,Santa Monica-Malibu Unified,Los Angeles,931,492,537,545,530,306
+19649801938000,S,Santa Monica High,Santa Monica-Malibu Unified,Los Angeles,730,387,531,541,524,229
+19649801995737,S,Malibu High,Santa Monica-Malibu Unified,Los Angeles,149,105,557,560,553,77
+19650290000000,D,,South Pasadena Unified,Los Angeles,384,290,565,608,563,227
+19650291938455,S,South Pasadena Senior High,South Pasadena Unified,Los Angeles,380,290,565,608,563,227
+19650520000000,D,,Temple City Unified,Los Angeles,557,362,545,600,556,267
+19650521938679,S,Temple City High,Temple City Unified,Los Angeles,532,362,545,600,556,267
+19650600000000,D,,Torrance Unified,Los Angeles,2192,1200,517,557,523,742
+19650601936277,S,North High,Torrance Unified,Los Angeles,494,243,490,525,490,126
+19650601938356,S,South High,Torrance Unified,Los Angeles,509,354,540,577,548,248
+19650601938752,S,Torrance High,Torrance Unified,Los Angeles,499,274,495,521,500,136
+19650601939602,S,West High,Torrance Unified,Los Angeles,530,329,532,588,539,232
+19650940000000,D,,West Covina Unified,Los Angeles,1230,454,488,507,478,204
+19650940112706,S,California Virtual Academy @ Los Angeles,West Covina Unified,Los Angeles,284,35,549,502,521,23
+19650940122432,S,Edgewood High,West Covina Unified,Los Angeles,186,104,503,522,493,57
+19650940125393,S,Insight @ Los Angeles,West Covina Unified,Los Angeles,25,19,453,437,425,4
+19650941939537,S,West Covina High,West Covina Unified,Los Angeles,582,296,477,506,471,120
+19651280000000,D,,Whittier Union High,Los Angeles,3408,1500,451,460,446,399
+19651281931302,S,California High,Whittier Union High,Los Angeles,748,338,450,456,439,85
+19651281934868,S,La Serna High,Whittier Union High,Los Angeles,666,410,486,488,470,158
+19651281936889,S,Pioneer High,Whittier Union High,Los Angeles,334,176,410,451,422,26
+19651281937903,S,Santa Fe High,Whittier Union High,Los Angeles,604,351,434,442,438,74
+19651281939701,S,Whittier High,Whittier Union High,Los Angeles,506,224,450,452,442,55
+19651281995653,S,Sierra Vista High (Alternative),Whittier Union High,Los Angeles,232,1,,,,
+19651360000000,D,,William S. Hart Union High,Los Angeles,5302,2127,524,535,519,1251
+19651360102459,S,Golden Valley High,William S. Hart Union High,Los Angeles,513,245,504,510,500,117
+19651360102475,S,West Ranch High,William S. Hart Union High,Los Angeles,556,395,530,554,539,268
+19651360114439,S,Mission View Public,William S. Hart Union High,Los Angeles,779,10,,,,
+19651360117234,S,Santa Clarita Valley International,William S. Hart Union High,Los Angeles,40,18,464,423,443,4
+19651360121731,S,"Albert Einstein Academy for Letters, Arts and Scie",William S. Hart Union High,Los Angeles,68,0,,,,
+19651361931492,S,Canyon High,William S. Hart Union High,Los Angeles,532,291,497,509,492,147
+19651361931740,S,Saugus High,William S. Hart Union High,Los Angeles,582,280,535,541,518,174
+19651361932532,S,Learning Post High (Alternative),William S. Hart Union High,Los Angeles,57,7,,,,
+19651361933902,S,William S. Hart High,William S. Hart Union High,Los Angeles,490,287,523,534,510,161
+19651361934421,S,Bowman (Jereann) High (Continuation),William S. Hart Union High,Los Angeles,361,1,,,,
+19651361995802,S,Valencia High,William S. Hart Union High,Los Angeles,806,493,529,544,528,298
+19651361996263,S,Opportunities for Learning - Santa Clarita,William S. Hart Union High,Los Angeles,401,18,492,439,489,8
+19651361996321,S,Academy of the Canyons,William S. Hart Union High,Los Angeles,95,82,610,591,596,67
+19734370000000,D,,Compton Unified,Los Angeles,1359,386,396,386,396,31
+19734371931567,S,Centennial High,Compton Unified,Los Angeles,200,83,366,362,372,2
+19734371931963,S,Compton High,Compton Unified,Los Angeles,409,146,394,378,394,11
+19734371932326,S,Dominguez High,Compton Unified,Los Angeles,453,153,413,406,410,17
+19734371996057,S,Thurgood Marshall,Compton Unified,Los Angeles,14,4,,,,
+19734450000000,D,,Hacienda la Puente Unified,Los Angeles,1741,758,473,497,473,290
+19734451933316,S,Puente Hills High,Hacienda la Puente Unified,Los Angeles,97,0,,,,
+19734451934801,S,La Puente High,Hacienda la Puente Unified,Los Angeles,370,139,424,429,423,24
+19734451935246,S,Los Altos High,Hacienda la Puente Unified,Los Angeles,491,276,471,475,464,92
+19734451939834,S,Glen A. Wilson High,Hacienda la Puente Unified,Los Angeles,417,253,520,575,531,161
+19734451939925,S,William Workman High,Hacienda la Puente Unified,Los Angeles,268,90,420,451,415,13
+19734520000000,D,,Rowland Unified,Los Angeles,1255,495,501,551,503,267
+19734520120600,S,iQ Academy California-Los Angeles,Rowland Unified,Los Angeles,47,2,,,,
+19734521936228,S,Nogales High,Rowland Unified,Los Angeles,428,176,442,470,436,46
+19734521937564,S,John A. Rowland High,Rowland Unified,Los Angeles,620,317,535,597,541,221
+19734600000000,D,,Walnut Valley Unified,Los Angeles,1484,1178,558,607,564,882
+19734601932862,S,Diamond Bar High,Walnut Valley Unified,Los Angeles,726,595,558,615,568,453
+19734601939149,S,Walnut High,Walnut Valley Unified,Los Angeles,742,583,558,598,559,429
+19752910000000,D,,San Gabriel Unified,Los Angeles,751,309,517,544,512,181
+19752911995810,S,Gabrielino High,San Gabriel Unified,Los Angeles,451,282,522,557,518,176
+19752911996016,S,Options for Youth San Gabriel,San Gabriel Unified,Los Angeles,262,26,474,413,455,5
+19752911996081,S,Del Mar High,San Gabriel Unified,Los Angeles,38,1,,,,
+19753090000000,D,,Acton-Agua Dulce Unified,Los Angeles,652,40,514,478,496,20
+19753090127100,S,Assurance Learning Academy,Acton-Agua Dulce Unified,Los Angeles,385,2,,,,
+19753090129742,S,Hope Charter Academy,Acton-Agua Dulce Unified,Los Angeles,18,0,,,,
+19753090130781,S,Academy of Arts and Sciences: Los Angeles (9-12),Acton-Agua Dulce Unified,Los Angeles,89,0,,,,
+19753090131383,S,SIATech Academy South,Acton-Agua Dulce Unified,Los Angeles,61,0,,,,
+19753091995786,S,Vasquez High,Acton-Agua Dulce Unified,Los Angeles,96,38,517,486,500,20
+19753330000000,D,,Manhattan Beach Unified,Los Angeles,631,415,571,584,577,338
+19753331935808,S,Mira Costa High,Manhattan Beach Unified,Los Angeles,620,415,571,584,577,338
+19753410000000,D,,Redondo Beach Unified,Los Angeles,716,392,526,540,519,238
+19753411937143,S,Redondo Union High,Redondo Beach Unified,Los Angeles,646,391,526,540,520,238
+19753411995752,S,Redondo Shores High (Continuation),Redondo Beach Unified,Los Angeles,55,1,,,,
+19756970000000,D,,SBE - The School of Arts and Enterprise,Los Angeles,97,40,453,427,473,10
+19756971996693,S,School of Arts and Enterprise,SBE - The School of Arts and Enterprise,Los Angeles,97,40,453,427,473,10
+19757130000000,D,,Alhambra Unified,Los Angeles,2036,1166,494,554,492,626
+19757131930122,S,Century High,Alhambra Unified,Los Angeles,126,2,,,,
+19757131930163,S,Alhambra High,Alhambra Unified,Los Angeles,640,388,480,524,470,178
+19757131934553,S,Mark Keppel High,Alhambra Unified,Los Angeles,628,436,521,595,526,289
+19757131937697,S,San Gabriel High,Alhambra Unified,Los Angeles,561,339,475,535,473,159
+19757131995430,S,Independence High (Alternative),Alhambra Unified,Los Angeles,53,1,,,,
+19764970000000,D,,SBE - Lifeline Education Charter,Los Angeles,55,33,346,306,359,0
+19764970115725,S,Lifeline Education Charter,SBE - Lifeline Education Charter,Los Angeles,55,33,346,306,359,0
+19768690000000,D,,Wiseburn Unified,Los Angeles,247,201,466,460,463,59
+19768690119016,S,Da Vinci Science,Wiseburn Unified,Los Angeles,132,104,472,478,467,31
+19768690119636,S,Da Vinci Design,Wiseburn Unified,Los Angeles,115,97,459,442,459,28
+19768850000000,D,,SBE - Anahuacalmecac International Preparatory Hig,Los Angeles,30,0,,,,
+19768850130799,S,Anahuacalmecac International University Preparator,SBE - Anahuacalmecac International Preparatory Hig,Los Angeles,30,0,,,,
+20102070000000,D,,Madera County Office of Education,Madera,346,0,,,,
+20102070117184,S,Madera County Independent Academy,Madera County Office of Education,Madera,158,0,,,,
+20102072030229,S,Pioneer Technical Center,Madera County Office of Education,Madera,84,0,,,,
+20652010000000,D,,Chowchilla Union High,Madera,245,87,443,440,439,16
+20652012032357,S,Chowchilla Union High,Chowchilla Union High,Madera,234,87,443,440,439,16
+20652430000000,D,,Madera Unified,Madera,1266,480,432,434,433,93
+20652430110965,S,Madera South High,Madera Unified,Madera,597,264,414,417,414,27
+20652430118950,S,Sherman Thomas Charter High,Madera Unified,Madera,7,2,,,,
+20652432035640,S,Furman (Duane E.) High (Independent Study Program),Madera Unified,Madera,65,0,,,,
+20652432035707,S,Madera High,Madera Unified,Madera,485,214,453,455,455,64
+20755800000000,D,,Golden Valley Unified,Madera,151,82,494,467,472,30
+20755802030203,S,Liberty High,Golden Valley Unified,Madera,135,82,494,467,472,30
+20756060000000,D,,Chawanakee Unified,Madera,140,63,505,461,468,23
+20756060117010,S,Minarets High,Chawanakee Unified,Madera,57,36,516,469,472,15
+20756066114862,S,Chawanakee Academy,Chawanakee Unified,Madera,16,1,,,,
+20764140000000,D,,Yosemite Unified,Madera,203,70,516,524,498,43
+20764142030013,S,Yosemite High,Yosemite Unified,Madera,157,64,516,524,500,39
+20764142030104,S,Evergreen High,Yosemite Unified,Madera,17,0,,,,
+20764142030237,S,Glacier High School Charter,Yosemite Unified,Madera,23,6,,,,
+21102150000000,D,,Marin County Office of Education,Marin,30,0,,,,
+21654170000000,D,,Novato Unified,Marin,615,318,533,533,531,202
+21654172130045,S,Nova Education Center,Novato Unified,Marin,32,4,,,,
+21654172132264,S,Marin Oaks High,Novato Unified,Marin,31,1,,,,
+21654172132272,S,Novato High,Novato Unified,Marin,319,207,534,533,533,133
+21654172133056,S,San Marin High,Novato Unified,Marin,224,106,528,532,526,65
+21654660000000,D,,San Rafael City High,Marin,528,283,509,518,517,154
+21654662133262,S,San Rafael High,San Rafael City High,Marin,240,135,494,518,503,69
+21654662134005,S,Terra Linda High,San Rafael City High,Marin,260,148,522,518,529,85
+21654820000000,D,,Tamalpais Union High,Marin,938,609,579,578,574,500
+21654822130078,S,Tamiscal High (Alternative),Tamalpais Union High,Marin,43,27,574,554,559,23
+21654822131340,S,Sir Francis Drake High,Tamalpais Union High,Marin,208,134,576,569,566,105
+21654822132587,S,Redwood High,Tamalpais Union High,Marin,354,241,583,593,579,206
+21654822133692,S,Tamalpais High,Tamalpais Union High,Marin,290,205,578,571,576,165
+21654822134419,S,San Andreas High (Continuation),Tamalpais Union High,Marin,39,2,,,,
+21733610000000,D,,Shoreline Unified,Marin,54,23,471,491,468,9
+21733612134310,S,Tomales High,Shoreline Unified,Marin,54,23,471,491,468,9
+22655320000000,D,,Mariposa County Unified,Mariposa,133,39,534,550,513,28
+22655322230068,S,Sierra Home,Mariposa County Unified,Mariposa,11,0,,,,
+22655322235356,S,Mariposa County High,Mariposa County Unified,Mariposa,121,39,534,550,513,28
+23102310000000,D,,Mendocino County Office of Education,Mendocino,19,0,,,,
+23655400000000,D,,Anderson Valley Unified,Mendocino,52,18,463,526,484,7
+23655402330900,S,Anderson Valley Junior-Senior High,Anderson Valley Unified,Mendocino,44,18,463,526,484,7
+23655650000000,D,,Fort Bragg Unified,Mendocino,126,51,510,485,495,24
+23655652331361,S,Fort Bragg High,Fort Bragg Unified,Mendocino,110,51,510,485,495,24
+23655810000000,D,,Mendocino Unified,Mendocino,43,18,582,522,527,15
+23655812333185,S,Mendocino High,Mendocino Unified,Mendocino,38,18,582,522,527,15
+23655990000000,D,,Point Arena Joint Union High,Mendocino,41,12,472,448,440,3
+23655992333649,S,Point Arena High,Point Arena Joint Union High,Mendocino,29,12,472,448,440,3
+23656070000000,D,,Round Valley Unified,Mendocino,30,3,,,,
+23656072334563,S,Round Valley High,Round Valley Unified,Mendocino,21,3,,,,
+23656150000000,D,,Ukiah Unified,Mendocino,523,119,524,535,517,71
+23656150128280,S,Ukiah Independent Study Academy,Ukiah Unified,Mendocino,30,0,,,,
+23656152330413,S,Redwood Academy of Ukiah,Ukiah Unified,Mendocino,18,13,566,552,540,11
+23656152330454,S,Accelerated Achievement Academy,Ukiah Unified,Mendocino,15,0,,,,
+23656152335024,S,Ukiah High,Ukiah Unified,Mendocino,333,106,519,533,515,60
+23656230000000,D,,Willits Unified,Mendocino,163,36,523,486,488,16
+23656232330314,S,New Horizons,Willits Unified,Mendocino,16,2,,,,
+23656232330363,S,Willits Charter,Willits Unified,Mendocino,16,3,,,,
+23656232335487,S,Willits High,Willits Unified,Mendocino,107,31,503,475,473,12
+23738660000000,D,,Potter Valley Community Unified,Mendocino,20,11,491,439,456,3
+23738662330041,S,Potter Valley High,Potter Valley Community Unified,Mendocino,19,11,491,439,456,3
+23739160000000,D,,Laytonville Unified,Mendocino,25,10,,,,
+23739162332260,S,Laytonville High,Laytonville Unified,Mendocino,24,10,,,,
+23752180000000,D,,Leggett Valley Unified,Mendocino,5,1,,,,
+23752182332724,S,Leggett Valley High,Leggett Valley Unified,Mendocino,2,1,,,,
+24102490000000,D,,Merced County Office of Education,Merced,343,3,,,,
+24102490106518,S,Merced Scholars Charter,Merced County Office of Education,Merced,14,3,,,,
+24656980000000,D,,Hilmar Unified,Merced,177,57,462,453,447,17
+24656982432409,S,Hilmar High,Hilmar Unified,Merced,150,57,462,453,447,17
+24657300000000,D,,Le Grand Union High,Merced,126,59,415,413,425,5
+24657302433001,S,Le Grand High,Le Grand Union High,Merced,98,59,415,413,425,5
+24657550000000,D,,Los Banos Unified,Merced,766,260,450,456,448,68
+24657550119073,S,Crossroads Alternative Education Center,Los Banos Unified,Merced,36,0,,,,
+24657550120923,S,Pacheco High,Los Banos Unified,Merced,363,157,445,451,441,39
+24657552434207,S,Los Banos High,Los Banos Unified,Merced,271,103,457,465,458,29
+24657890000000,D,,Merced Union High,Merced,2488,912,454,458,444,243
+24657892430049,S,Independence High (Alternative),Merced Union High,Merced,17,0,,,,
+24657892430098,S,Golden Valley High,Merced Union High,Merced,459,179,434,446,436,51
+24657892430205,S,Buhach Colony High,Merced Union High,Merced,391,197,443,447,438,44
+24657892430601,S,Atwater High,Merced Union High,Merced,470,187,451,446,433,40
+24657892433605,S,Livingston High,Merced Union High,Merced,264,108,448,442,442,18
+24657892435204,S,Merced High,Merced Union High,Merced,645,241,482,491,465,90
+24736190000000,D,,Gustine Unified,Merced,135,52,443,444,452,15
+24736192431807,S,Gustine High,Gustine Unified,Merced,124,52,443,444,452,15
+24753170000000,D,,Dos Palos Oro Loma Joint Unified,Merced,177,63,431,429,422,9
+24753172431203,S,Dos Palos High,Dos Palos Oro Loma Joint Unified,Merced,156,63,431,429,422,9
+24753660000000,D,,Delhi Unified,Merced,182,88,399,403,419,8
+24753660114538,S,Shattuck Independent Study,Delhi Unified,Merced,12,0,,,,
+24753662430114,S,Delhi High,Delhi Unified,Merced,149,88,399,403,419,8
+25658960000000,D,,Surprise Valley Joint Unified,Modoc,6,3,,,,
+25658962537702,S,Surprise Valley High,Surprise Valley Joint Unified,Modoc,6,3,,,,
+25735850000000,D,,Modoc Joint Unified,Modoc,53,13,515,518,500,8
+25735852535409,S,Modoc High,Modoc Joint Unified,Modoc,52,13,515,518,500,8
+25735930000000,D,,Tulelake Basin Joint Unified,Modoc,30,8,,,,
+25735934737250,S,Tulelake High,Tulelake Basin Joint Unified,Modoc,26,8,,,,
+26102640000000,D,,Mono County Office of Education,Mono,489,0,,,,
+26102640124990,S,Urban Corps of San Diego County Charter,Mono County Office of Education,Mono,279,0,,,,
+26102640126698,S,Orange County Conservation Corps Charter,Mono County Office of Education,Mono,139,0,,,,
+26736680000000,D,,Eastern Sierra Unified,Mono,33,27,466,447,467,6
+26736682633006,S,Coleville High,Eastern Sierra Unified,Mono,9,10,,,,
+26736682635001,S,Lee Vining High,Eastern Sierra Unified,Mono,24,17,481,452,489,6
+26736920000000,D,,Mammoth Unified,Mono,68,39,500,505,492,20
+26736922630010,S,Mammoth High,Mammoth Unified,Mono,66,39,500,505,492,20
+27102720000000,D,,Monterey County Office of Education,Monterey,255,3,,,,
+27102722730232,S,Monterey County Home Charter,Monterey County Office of Education,Monterey,94,3,,,,
+27659870000000,D,,Carmel Unified,Monterey,202,40,601,584,575,32
+27659872730414,S,Carmel High,Carmel Unified,Monterey,193,40,601,584,575,32
+27660680000000,D,,South Monterey County Joint Union High,Monterey,476,95,449,425,442,20
+27660682730174,S,Greenfield High,South Monterey County Joint Union High,Monterey,211,49,429,389,427,5
+27660682732170,S,King City High,South Monterey County Joint Union High,Monterey,183,46,470,463,457,15
+27660920000000,D,,Monterey Peninsula Unified,Monterey,761,346,471,477,462,125
+27660920111435,S,Marina High,Monterey Peninsula Unified,Monterey,134,59,479,478,454,20
+27660922730240,S,Learning for Life Charter,Monterey Peninsula Unified,Monterey,32,1,,,,
+27660922732808,S,Monterey High,Monterey Peninsula Unified,Monterey,300,172,493,492,491,81
+27660922735348,S,Seaside High,Monterey Peninsula Unified,Monterey,253,114,433,452,423,23
+27661340000000,D,,Pacific Grove Unified,Monterey,145,88,561,547,542,61
+27661342733657,S,Pacific Grove High,Pacific Grove Unified,Monterey,133,88,561,547,542,61
+27661590000000,D,,Salinas Union High,Monterey,2562,815,461,462,454,248
+27661590124610,S,El Puente,Salinas Union High,Monterey,288,3,,,,
+27661592730109,S,Alisal High,Salinas Union High,Monterey,546,224,437,449,431,51
+27661592730166,S,Everett Alvarez High,Salinas Union High,Monterey,567,215,450,438,446,44
+27661592733178,S,North Salinas High,Salinas Union High,Monterey,414,129,453,445,448,32
+27661592734556,S,Salinas High,Salinas Union High,Monterey,595,244,499,504,487,121
+27738250000000,D,,North Monterey County Unified,Monterey,347,96,451,427,438,25
+27738252730034,S,North Monterey County High,North Monterey County Unified,Monterey,252,94,449,424,437,24
+27738252730125,S,North Monterey County Center for Independent Study,North Monterey County Unified,Monterey,66,2,,,,
+27754400000000,D,,Soledad Unified,Monterey,366,117,447,449,428,25
+27754402730190,S,Soledad High,Soledad Unified,Monterey,342,117,447,449,428,25
+27754730000000,D,,Gonzales Unified,Monterey,196,79,428,397,425,11
+27754732730885,S,Gonzales High,Gonzales Unified,Monterey,171,79,428,397,425,11
+28102800000000,D,,Napa County Office of Education,Napa,30,0,,,,
+28662410000000,D,,Calistoga Joint Unified,Napa,58,26,428,430,432,2
+28662412831758,S,Calistoga Junior-Senior High,Calistoga Joint Unified,Napa,57,26,428,430,432,2
+28662660000000,D,,Napa Valley Unified,Napa,1432,575,494,492,488,255
+28662660101964,S,Napa Valley Independent Studies,Napa Valley Unified,Napa,66,3,,,,
+28662660121087,S,American Canyon High,Napa Valley Unified,Napa,355,160,469,463,470,57
+28662662830016,S,Vintage High,Napa Valley Unified,Napa,389,201,491,494,489,92
+28662662830115,S,New Technology High,Napa Valley Unified,Napa,80,43,522,469,500,22
+28662662835601,S,Napa High,Napa Valley Unified,Napa,409,168,513,521,500,83
+28662900000000,D,,Saint Helena Unified,Napa,136,51,523,471,513,24
+28662902837102,S,Saint Helena High,Saint Helena Unified,Napa,136,51,523,471,513,24
+29102980000000,D,,Nevada County Office of Education,Nevada,1799,55,512,486,496,29
+29102980114314,S,Bitney College Preparatory High,Nevada County Office of Education,Nevada,27,24,506,473,482,11
+29102980126219,S,Forest Charter,Nevada County Office of Education,Nevada,92,30,522,500,508,18
+29102982930147,S,Muir Charter,Nevada County Office of Education,Nevada,1587,1,,,,
+29663570000000,D,,Nevada Joint Union High,Nevada,755,224,562,561,542,169
+29663570112367,S,William & Marian Ghidotti High,Nevada Joint Union High,Nevada,32,32,622,608,576,29
+29663572930030,S,North Point Academy,Nevada Joint Union High,Nevada,38,0,,,,
+29663572930048,S,Bear River High,Nevada Joint Union High,Nevada,156,70,555,555,540,57
+29663572935500,S,Nevada Union High,Nevada Joint Union High,Nevada,419,122,550,552,534,83
+29768770000000,D,,Penn Valley Union Elementary,Nevada,15,0,,,,
+29768776111371,S,Vantage Point Charter,Penn Valley Union Elementary,Nevada,15,0,,,,
+30103060000000,D,,Orange County Department of Education,Orange,1273,39,531,527,528,26
+30103063030632,S,OCCS:CHEP/PCHS,Orange County Department of Education,Orange,132,39,531,527,528,26
+30664310000000,D,,Anaheim Union High,Orange,5435,2073,483,503,481,868
+30664313030038,S,Cypress High,Anaheim Union High,Orange,681,369,521,551,513,211
+30664313030228,S,Anaheim High,Anaheim Union High,Orange,739,255,436,448,432,56
+30664313030384,S,Polaris High (Alternative),Anaheim Union High,Orange,156,0,,,,
+30664313030616,S,Oxford Academy,Anaheim Union High,Orange,176,167,627,669,634,164
+30664313032786,S,Gilbert High (Continuation),Anaheim Union High,Orange,515,1,,,,
+30664313033057,S,Katella High,Anaheim Union High,Orange,626,268,444,451,428,59
+30664313033115,S,John F. Kennedy High,Anaheim Union High,Orange,592,309,524,551,529,196
+30664313033784,S,Loara High,Anaheim Union High,Orange,566,215,441,455,445,54
+30664313034204,S,Magnolia High,Anaheim Union High,Orange,389,159,442,447,443,38
+30664313036712,S,Savanna High,Anaheim Union High,Orange,486,192,437,455,444,46
+30664313038239,S,Western High,Anaheim Union High,Orange,469,138,462,483,444,44
+30664490000000,D,,Brea-Olinda Unified,Orange,532,252,520,544,521,155
+30664493030624,S,Brea Canyon High (Continuation),Brea-Olinda Unified,Orange,37,1,,,,
+30664493030640,S,Brea-Olinda High,Brea-Olinda Unified,Orange,488,251,520,545,521,155
+30664640000000,D,,Capistrano Unified,Orange,4370,2183,546,551,535,1506
+30664640106765,S,Capistrano Connections Academy,Capistrano Unified,Orange,269,53,537,513,512,34
+30664640113381,S,San Juan Hills High,Capistrano Unified,Orange,523,262,545,533,534,167
+30664640124131,S,California Preparatory Academy,Capistrano Unified,Orange,48,6,,,,
+30664643030210,S,Capistrano Valley High,Capistrano Unified,Orange,650,331,542,558,537,227
+30664643030574,S,Aliso Niguel High,Capistrano Unified,Orange,733,417,563,574,548,312
+30664643030756,S,Tesoro High,Capistrano Unified,Orange,571,339,549,569,545,247
+30664643035987,S,Junipero Serra High,Capistrano Unified,Orange,94,4,,,,
+30664643036001,S,San Clemente High,Capistrano Unified,Orange,737,406,537,530,522,266
+30664643038569,S,Dana Hills High,Capistrano Unified,Orange,690,362,540,541,527,243
+30664646120356,S,Opportunities for Learning - Capistrano,Capistrano Unified,Orange,30,3,,,,
+30665140000000,D,,Fullerton Joint Union High,Orange,3574,1831,534,563,537,1157
+30665143030335,S,La Sierra High (Alternative),Fullerton Joint Union High,Orange,131,1,,,,
+30665143030855,S,Buena Park High,Fullerton Joint Union High,Orange,469,241,456,456,449,68
+30665143032505,S,Fullerton Union High,Fullerton Joint Union High,Orange,502,205,494,518,499,103
+30665143033362,S,La Habra High,Fullerton Joint Union High,Orange,509,235,491,501,474,103
+30665143033610,S,La Vista High (Continuation),Fullerton Joint Union High,Orange,274,2,,,,
+30665143037090,S,Sonora High,Fullerton Joint Union High,Orange,461,219,511,530,517,131
+30665143037348,S,Sunny Hills High,Fullerton Joint Union High,Orange,565,387,538,586,551,281
+30665143037496,S,Troy High,Fullerton Joint Union High,Orange,660,541,611,653,617,470
+30665220000000,D,,Garden Grove Unified,Orange,3870,2094,478,506,478,885
+30665223030434,S,Bolsa Grande High,Garden Grove Unified,Orange,538,359,490,521,491,174
+30665223032752,S,Garden Grove High,Garden Grove Unified,Orange,607,354,475,499,476,140
+30665223033578,S,La Quinta High,Garden Grove Unified,Orange,559,411,495,552,497,236
+30665223033933,S,Los Amigos High,Garden Grove Unified,Orange,405,210,436,455,441,52
+30665223035581,S,Pacifica High,Garden Grove Unified,Orange,447,268,501,522,498,135
+30665223035706,S,Rancho Alamitos High,Garden Grove Unified,Orange,454,213,476,503,478,84
+30665223036555,S,Santiago High,Garden Grove Unified,Orange,550,279,451,455,443,64
+30665480000000,D,,Huntington Beach Union High,Orange,4302,1921,525,550,520,1184
+30665483030145,S,Ocean View High,Huntington Beach Union High,Orange,381,170,481,486,472,64
+30665483030368,S,Coast High,Huntington Beach Union High,Orange,80,4,,,,
+30665483031895,S,Edison High,Huntington Beach Union High,Orange,711,302,541,554,534,208
+30665483032158,S,Fountain Valley High,Huntington Beach Union High,Orange,934,515,542,578,543,362
+30665483032943,S,Huntington Beach High,Huntington Beach Union High,Orange,692,384,542,558,534,266
+30665483034410,S,Marina High,Huntington Beach Union High,Orange,629,272,527,553,520,164
+30665483038445,S,Westminster High,Huntington Beach Union High,Orange,649,274,479,521,472,117
+30665550000000,D,,Laguna Beach Unified,Orange,226,74,572,585,577,62
+30665553033206,S,Laguna Beach High,Laguna Beach Unified,Orange,222,74,572,585,577,62
+30665970000000,D,,Newport-Mesa Unified,Orange,1730,682,508,519,500,355
+30665970111666,S,Early College High,Newport-Mesa Unified,Orange,41,35,463,492,478,11
+30665973030186,S,Monte Vista High,Newport-Mesa Unified,Orange,31,1,,,,
+30665973031697,S,Corona del Mar High,Newport-Mesa Unified,Orange,416,152,570,588,566,115
+30665973031853,S,Costa Mesa High,Newport-Mesa Unified,Orange,248,90,480,492,478,37
+30665973032000,S,Estancia High,Newport-Mesa Unified,Orange,327,154,455,457,431,41
+30665973034907,S,Back Bay High,Newport-Mesa Unified,Orange,94,1,,,,
+30665973035045,S,Newport Harbor High,Newport-Mesa Unified,Orange,568,249,519,529,514,150
+30666210000000,D,,Orange Unified,Orange,2397,909,515,529,513,503
+30666210118174,S,OUSD Home Sch,Orange Unified,Orange,30,2,,,,
+30666213030046,S,Canyon High,Orange Unified,Orange,568,315,533,549,539,204
+30666213031952,S,El Modena High,Orange Unified,Orange,547,201,519,533,513,108
+30666213035409,S,Orange High,Orange Unified,Orange,412,112,459,478,448,31
+30666213038098,S,Villa Park High,Orange Unified,Orange,566,279,515,525,509,158
+30666470000000,D,,Placentia-Yorba Linda Unified,Orange,2140,1028,533,559,528,663
+30666470119404,S,Yorba Linda High,Placentia-Yorba Linda Unified,Orange,437,286,540,571,543,201
+30666473030053,S,Esperanza High,Placentia-Yorba Linda Unified,Orange,456,202,533,556,527,129
+30666473030483,S,La Entrada High,Placentia-Yorba Linda Unified,Orange,29,2,,,,
+30666473031929,S,El Dorado High,Placentia-Yorba Linda Unified,Orange,445,224,523,533,504,134
+30666473031945,S,El Camino Real Continuation High,Placentia-Yorba Linda Unified,Orange,121,1,,,,
+30666473038023,S,Valencia High,Placentia-Yorba Linda Unified,Orange,635,307,533,571,532,194
+30666476119556,S,Parkview,Placentia-Yorba Linda Unified,Orange,12,6,,,,
+30666700000000,D,,Santa Ana Unified,Orange,4181,1911,449,459,446,552
+30666700106567,S,Nova Academy,Santa Ana Unified,Orange,100,66,448,443,448,16
+30666700108365,S,Segerstrom High,Santa Ana Unified,Orange,537,302,471,471,463,99
+30666700114736,S,Hector G. Godinez,Santa Ana Unified,Orange,614,388,440,457,433,98
+30666703030475,S,Cesar E. Chavez High,Santa Ana Unified,Orange,227,1,,,,
+30666703030491,S,Century High,Santa Ana Unified,Orange,430,183,395,404,395,18
+30666703030608,S,Middle College High,Santa Ana Unified,Orange,80,81,497,504,483,34
+30666703030723,S,OCSA,Santa Ana Unified,Orange,360,243,590,565,582,198
+30666703035821,S,Saddleback High,Santa Ana Unified,Orange,451,182,394,422,397,24
+30666703036357,S,Santa Ana High,Santa Ana Unified,Orange,577,239,403,420,401,29
+30666703036456,S,Valley High,Santa Ana Unified,Orange,528,226,403,432,415,36
+30736350000000,D,,Saddleback Valley Unified,Orange,2490,1162,537,554,523,762
+30736353030061,S,El Toro High,Saddleback Valley Unified,Orange,590,298,530,557,521,193
+30736353030244,S,Laguna Hills High,Saddleback Valley Unified,Orange,408,188,543,550,527,125
+30736353030392,S,Trabuco Hills High,Saddleback Valley Unified,Orange,682,337,535,554,517,216
+30736353030509,S,Mira Monte High (Alternative),Saddleback Valley Unified,Orange,32,1,,,,
+30736353034956,S,Mission Viejo High,Saddleback Valley Unified,Orange,618,338,541,553,528,227
+30736430000000,D,,Tustin Unified,Orange,1859,1026,522,537,523,596
+30736430102871,S,Arnold O. Beckman High,Tustin Unified,Orange,590,384,565,595,572,284
+30736433032109,S,Foothill High,Tustin Unified,Orange,598,337,532,542,532,218
+30736433037553,S,Tustin High,Tustin Unified,Orange,569,305,458,457,453,94
+30736500000000,D,,Irvine Unified,Orange,2343,1374,592,639,603,1176
+30736503030152,S,Irvine High,Irvine Unified,Orange,461,249,568,609,583,192
+30736503030285,S,Woodbridge High,Irvine Unified,Orange,615,373,571,614,577,298
+30736503030467,S,Alternative Education-San Joaquin High,Irvine Unified,Orange,12,2,,,,
+30736503030657,S,Northwood High,Irvine Unified,Orange,537,358,604,656,621,329
+30736503035102,S,University High,Irvine Unified,Orange,648,392,617,666,624,355
+30739240000000,D,,Los Alamitos Unified,Orange,728,517,528,541,517,308
+30739243033917,S,Los Alamitos High,Los Alamitos Unified,Orange,721,517,528,541,517,308
+31103140000000,D,,Placer County Office of Education,Placer,80,2,,,,
+31103140119214,S,CORE Placer Charter,Placer County Office of Education,Placer,30,2,,,,
+31668450000000,D,,Loomis Union Elementary,Placer,13,11,594,550,576,8
+31668450121418,S,John Adams Academy,Loomis Union Elementary,Placer,13,11,594,550,576,8
+31668940000000,D,,Placer Union High,Placer,1026,437,535,541,523,278
+31668940102293,S,Foresthill High,Placer Union High,Placer,45,17,505,535,490,9
+31668943130135,S,Maidu High Independent Study,Placer Union High,Placer,45,3,,,,
+31668943131851,S,Colfax High,Placer Union High,Placer,171,75,536,527,531,48
+31668943132453,S,Del Oro High,Placer Union High,Placer,398,225,534,545,519,146
+31668943135704,S,Placer High,Placer Union High,Placer,308,117,539,542,530,73
+31669280000000,D,,Roseville Joint Union High,Placer,2558,1503,521,532,509,876
+31669280116459,S,Antelope High,Roseville Joint Union High,Placer,408,275,485,483,469,107
+31669283130119,S,Independence High (Alternative),Roseville Joint Union High,Placer,82,3,,,,
+31669283130176,S,Woodcreek High,Roseville Joint Union High,Placer,545,313,519,529,501,183
+31669283130184,S,Granite Bay High,Roseville Joint Union High,Placer,550,418,555,575,551,314
+31669283135308,S,Oakmont High,Roseville Joint Union High,Placer,413,230,527,532,510,136
+31669283136504,S,Roseville High,Roseville Joint Union High,Placer,468,264,502,517,493,135
+31669440000000,D,,Tahoe-Truckee Unified,Placer,241,136,527,529,509,81
+31669443130010,S,North Tahoe High,Tahoe-Truckee Unified,Placer,71,55,518,512,508,34
+31669443130192,S,Cold Stream Alternative,Tahoe-Truckee Unified,Placer,2,1,,,,
+31669443138500,S,Tahoe Truckee High,Tahoe-Truckee Unified,Placer,143,80,533,540,511,46
+31669510000000,D,,Western Placer Unified,Placer,807,158,493,490,474,63
+31669510122507,S,Partnerships for Student-Centered Learning,Western Placer Unified,Placer,192,8,,,,
+31669513130036,S,Phoenix High (Continuation),Western Placer Unified,Placer,45,1,,,,
+31669513130168,S,Horizon Charter,Western Placer Unified,Placer,239,16,484,452,456,5
+31669513134657,S,Lincoln High,Western Placer Unified,Placer,331,133,492,497,476,52
+31750850000000,D,,Rocklin Unified,Placer,1037,604,533,544,517,390
+31750850108084,S,Whitney High,Rocklin Unified,Placer,440,279,523,530,502,168
+31750850119487,S,Western Sierra Collegiate Academy,Rocklin Unified,Placer,67,41,571,536,547,31
+31750850128561,S,Rocklin Independent Charter Academy,Rocklin Unified,Placer,44,0,,,,
+31750853130150,S,Rocklin High,Rocklin Unified,Placer,428,283,537,560,527,190
+31750853130200,S,Victory High,Rocklin Unified,Placer,57,1,,,,
+32669690000000,D,,Plumas Unified,Plumas,170,63,517,529,494,40
+32669693230083,S,Plumas Charter,Plumas Unified,Plumas,22,6,,,,
+32669693232006,S,Chester Junior/Senior High,Plumas Unified,Plumas,38,16,481,528,471,7
+32669693233509,S,Greenville Junior/Senior High,Plumas Unified,Plumas,15,4,,,,
+32669693235603,S,Portola Junior/Senior High,Plumas Unified,Plumas,27,13,516,529,498,8
+32669693236007,S,Quincy Junior/Senior High,Plumas Unified,Plumas,59,24,550,540,523,20
+33103300000000,D,,Riverside County Office of Education,Riverside,1025,54,488,456,479,20
+33103300110833,S,River Springs Charter,Riverside County Office of Education,Riverside,198,53,489,458,478,20
+33103300125237,S,Riverside County Education Academy,Riverside County Office of Education,Riverside,30,1,,,,
+33103300128397,S,Come Back Kids,Riverside County Office of Education,Riverside,387,0,,,,
+33103300128777,S,Gateway College and Career Academy,Riverside County Office of Education,Riverside,156,0,,,,
+33316253330834,S,California School for the Deaf-Riverside,California School for the Deaf-Riverside (State Sp,Riverside,71,1,,,,
+33669770000000,D,,Alvord Unified,Riverside,1427,508,459,466,447,150
+33669770126896,S,Alvord Alternative Continuation High,Alvord Unified,Riverside,80,0,,,,
+33669773330008,S,La Sierra High,Alvord Unified,Riverside,700,298,473,478,458,103
+33669773334299,S,Norte Vista High,Alvord Unified,Riverside,490,210,439,450,432,47
+33669850000000,D,,Banning Unified,Riverside,344,97,419,407,414,14
+33669853330214,S,Banning High,Banning Unified,Riverside,239,97,419,407,414,14
+33669853330974,S,Banning Independent Study,Banning Unified,Riverside,36,0,,,,
+33669930000000,D,,Beaumont Unified,Riverside,654,242,474,465,474,90
+33669930129882,S,21st Century Learning Institute,Beaumont Unified,Riverside,27,0,,,,
+33669933330479,S,Beaumont Senior High,Beaumont Unified,Riverside,578,242,474,465,474,90
+33670330000000,D,,Corona-Norco Unified,Riverside,4370,2109,489,500,485,970
+33670330110627,S,Eleanor Roosevelt High,Corona-Norco Unified,Riverside,800,486,486,490,486,218
+33670330110759,S,John F. Kennedy High,Corona-Norco Unified,Riverside,200,134,509,499,497,70
+33670333330131,S,Corona-Norco Alternative,Corona-Norco Unified,Riverside,64,0,,,,
+33670333330446,S,Centennial High,Corona-Norco Unified,Riverside,737,418,494,514,482,203
+33670333330586,S,Lee V. Pollard High,Corona-Norco Unified,Riverside,516,2,,,,
+33670333330701,S,Santiago High,Corona-Norco Unified,Riverside,822,523,498,512,499,259
+33670333331600,S,Corona High,Corona-Norco Unified,Riverside,622,288,470,480,468,109
+33670333334232,S,Norco High,Corona-Norco Unified,Riverside,528,258,482,496,476,111
+33670580000000,D,,Desert Sands Unified,Riverside,2489,1037,468,462,463,344
+33670580118885,S,Shadow Hills High,Desert Sands Unified,Riverside,371,179,436,428,434,36
+33670583330388,S,Palm Desert High,Desert Sands Unified,Riverside,466,259,516,510,508,137
+33670583330669,S,La Quinta High,Desert Sands Unified,Riverside,697,397,474,477,462,140
+33670583330909,S,Horizon,Desert Sands Unified,Riverside,71,2,,,,
+33670583331113,S,Amistad High (Continuation),Desert Sands Unified,Riverside,200,1,,,,
+33670583333192,S,Indio High,Desert Sands Unified,Riverside,452,199,424,403,430,30
+33670820000000,D,,Hemet Unified,Riverside,1781,477,468,470,462,160
+33670820106716,S,Hamilton High,Hemet Unified,Riverside,84,15,506,506,481,6
+33670820113159,S,Tahquitz High,Hemet Unified,Riverside,318,125,443,443,445,34
+33670820128363,S,College Prep High,Hemet Unified,Riverside,26,13,495,484,463,5
+33670823330503,S,Helen Hunt Jackson Alternative High,Hemet Unified,Riverside,72,3,,,,
+33670823330537,S,West Valley High,Hemet Unified,Riverside,358,122,460,461,462,39
+33670823332673,S,Hemet High,Hemet Unified,Riverside,584,199,483,488,470,74
+33670900000000,D,,Jurupa Unified,Riverside,1519,462,448,460,446,126
+33670900114157,S,Patriot High,Jurupa Unified,Riverside,437,173,467,481,463,60
+33670900127720,S,Rivercrest Preparatory,Jurupa Unified,Riverside,16,2,,,,
+33670903330412,S,Jurupa Valley High,Jurupa Unified,Riverside,386,159,438,447,439,37
+33670903337136,S,Rubidoux High,Jurupa Unified,Riverside,413,128,434,445,433,28
+33671160000000,D,,Menifee Union Elementary,Riverside,77,34,531,506,503,21
+33671160109843,S,Santa Rosa Academy,Menifee Union Elementary,Riverside,77,34,531,506,503,21
+33671240000000,D,,Moreno Valley Unified,Riverside,2556,942,435,442,433,200
+33671240128868,S,Moreno Valley Online Academy,Moreno Valley Unified,Riverside,55,0,,,,
+33671243330396,S,Canyon Springs High,Moreno Valley Unified,Riverside,606,272,444,443,440,71
+33671243330438,S,Valley View High,Moreno Valley Unified,Riverside,580,259,440,464,445,65
+33671243331071,S,Vista del Lago High,Moreno Valley Unified,Riverside,497,199,436,434,424,35
+33671243333770,S,Moreno Valley High,Moreno Valley Unified,Riverside,509,212,417,421,419,29
+33671570000000,D,,Nuview Union,Riverside,134,110,473,488,471,41
+33671573331014,S,Nuview Bridge Early College High,Nuview Union,Riverside,132,110,473,488,471,41
+33671730000000,D,,Palm Springs Unified,Riverside,1733,636,447,445,438,170
+33671733330578,S,Cathedral City High,Palm Springs Unified,Riverside,573,236,443,440,432,56
+33671733330818,S,Desert Hot Springs High,Palm Springs Unified,Riverside,402,124,432,427,429,25
+33671733335130,S,Palm Springs High,Palm Springs Unified,Riverside,463,276,458,457,447,89
+33671810000000,D,,Palo Verde Unified,Riverside,270,60,453,465,438,17
+33671813331139,S,Twin Palms Continuation,Palo Verde Unified,Riverside,55,1,,,,
+33671813335759,S,Palo Verde High,Palo Verde Unified,Riverside,215,59,451,462,437,16
+33672070000000,D,,Perris Union High,Riverside,2105,766,444,447,435,180
+33672070101170,S,California Military Institute,Perris Union High,Riverside,88,70,437,441,423,13
+33672070113191,S,Heritage High,Perris Union High,Riverside,617,283,452,448,444,78
+33672073330172,S,Perris Lake High (Continuation),Perris Union High,Riverside,217,1,,,,
+33672073330727,S,Paloma Valley High,Perris Union High,Riverside,597,213,468,474,450,68
+33672073335973,S,Perris High,Perris Union High,Riverside,570,199,410,420,410,21
+33672150000000,D,,Riverside Unified,Riverside,3420,1432,473,483,468,518
+33672150115709,S,Riverside Virtual,Riverside Unified,Riverside,18,6,,,,
+33672153330024,S,Arlington High,Riverside Unified,Riverside,467,221,449,453,445,53
+33672153330362,S,Summit View Independent Study,Riverside Unified,Riverside,176,2,,,,
+33672153330511,S,Opportunity Program,Riverside Unified,Riverside,24,0,,,,
+33672153330859,S,Martin Luther King Jr. High,Riverside Unified,Riverside,771,402,500,524,494,198
+33672153334406,S,John W. North High,Riverside Unified,Riverside,501,265,461,471,458,85
+33672153336237,S,Polytechnic High,Riverside Unified,Riverside,615,306,489,484,477,129
+33672153336492,S,Ramona High,Riverside Unified,Riverside,560,230,440,452,442,48
+33672490000000,D,,San Jacinto Unified,Riverside,804,224,444,438,429,50
+33672493331006,S,Mountain Heights Academy,San Jacinto Unified,Riverside,75,1,,,,
+33672493337649,S,Mountain View High,San Jacinto Unified,Riverside,152,1,,,,
+33672493337656,S,San Jacinto High,San Jacinto Unified,Riverside,539,200,440,432,425,38
+33672496114748,S,San Jacinto Valley Academy,San Jacinto Unified,Riverside,37,22,480,498,466,11
+33736760000000,D,,Coachella Valley Unified,Riverside,1298,425,409,419,409,50
+33736760100255,S,Desert Mirage High,Coachella Valley Unified,Riverside,466,144,412,404,414,14
+33736760121673,S,NOVA Academy - Coachella,Coachella Valley Unified,Riverside,47,27,406,408,403,3
+33736763330032,S,La Familia Continuation High,Coachella Valley Unified,Riverside,76,1,,,,
+33736763330354,S,West Shores High,Coachella Valley Unified,Riverside,73,36,400,399,396,4
+33736763330990,S,Coachella Valley High,Coachella Valley Unified,Riverside,634,217,408,433,409,29
+33751760000000,D,,Lake Elsinore Unified,Riverside,1799,593,476,481,466,218
+33751760107920,S,Lakeside High,Lake Elsinore Unified,Riverside,446,198,457,460,454,55
+33751760116343,S,Keith McCarthy Academy,Lake Elsinore Unified,Riverside,106,0,,,,
+33751760124859,S,Southern California Online Academy,Lake Elsinore Unified,Riverside,45,5,,,,
+33751763330487,S,Temescal Canyon High,Lake Elsinore Unified,Riverside,485,204,486,494,472,91
+33751763332350,S,Elsinore High,Lake Elsinore Unified,Riverside,518,186,483,489,472,70
+33751920000000,D,,Temecula Valley Unified,Riverside,2483,1324,511,505,496,679
+33751920105734,S,Great Oak High,Temecula Valley Unified,Riverside,873,506,523,521,505,291
+33751923330370,S,Temecula Valley High,Temecula Valley Unified,Riverside,657,352,499,487,485,161
+33751923330636,S,Susan H. Nelson,Temecula Valley Unified,Riverside,82,3,,,,
+33751923330743,S,Chaparral High,Temecula Valley Unified,Riverside,693,419,501,498,491,196
+33751923330917,S,Temecula Preparatory,Temecula Valley Unified,Riverside,54,44,548,524,539,30
+33752000000000,D,,Murrieta Valley Unified,Riverside,1974,1079,498,503,492,508
+33752000100420,S,Vista Murrieta High,Murrieta Valley Unified,Riverside,740,428,494,495,491,197
+33752000102079,S,Tenaja Canyon Academy,Murrieta Valley Unified,Riverside,52,3,,,,
+33752000118794,S,Murrieta Mesa High,Murrieta Valley Unified,Riverside,503,309,488,493,478,124
+33752003330529,S,Murrieta Valley High,Murrieta Valley Unified,Riverside,574,339,512,523,506,185
+33752420000000,D,,Val Verde Unified,Riverside,1510,814,428,435,420,136
+33752420109108,S,Citrus Hill High,Val Verde Unified,Riverside,520,338,415,427,405,43
+33752420123190,S,Val Verde Academy,Val Verde Unified,Riverside,22,0,,,,
+33752423330552,S,Rancho Verde High,Val Verde Unified,Riverside,751,474,438,441,430,93
+33752423330560,S,Val Verde High,Val Verde Unified,Riverside,210,2,,,,
+34103480000000,D,,Sacramento County Office of Education,Sacramento,257,0,,,,
+34673140000000,D,,Elk Grove Unified,Sacramento,5035,2621,491,509,481,1200
+34673140105916,S,Monterey Trail High,Elk Grove Unified,Sacramento,526,326,459,471,444,89
+34673140108753,S,Pleasant Grove High,Elk Grove Unified,Sacramento,619,363,530,563,513,240
+34673140116897,S,Cosumnes Oaks High,Elk Grove Unified,Sacramento,504,309,508,514,491,156
+34673143430170,S,Valley High,Elk Grove Unified,Sacramento,324,184,427,433,426,40
+34673143430352,S,Las Flores High (Alternative),Elk Grove Unified,Sacramento,58,0,,,,
+34673143430477,S,Florin High,Elk Grove Unified,Sacramento,346,157,425,449,420,30
+34673143430592,S,Laguna Creek High,Elk Grove Unified,Sacramento,439,257,494,505,483,122
+34673143430618,S,Sheldon High,Elk Grove Unified,Sacramento,526,279,486,500,472,110
+34673143430873,S,Franklin High,Elk Grove Unified,Sacramento,682,511,514,536,512,289
+34673143432572,S,Elk Grove High,Elk Grove Unified,Sacramento,418,231,501,527,493,123
+34673146112254,S,Elk Grove Charter,Elk Grove Unified,Sacramento,95,4,,,,
+34673300000000,D,,Folsom-Cordova Unified,Sacramento,1389,635,542,558,532,443
+34673300113571,S,Vista del Lago High,Folsom-Cordova Unified,Sacramento,339,231,554,571,552,170
+34673303430501,S,Walnutwood High (Independent Study),Folsom-Cordova Unified,Sacramento,56,3,,,,
+34673303431533,S,Cordova High,Folsom-Cordova Unified,Sacramento,376,100,488,488,466,41
+34673303433216,S,Folsom High,Folsom-Cordova Unified,Sacramento,486,300,550,573,538,228
+34673303434792,S,Kinney High (Continuation),Folsom-Cordova Unified,Sacramento,77,1,,,,
+34673550000000,D,,Galt Joint Union High,Sacramento,591,140,490,506,480,69
+34673550119131,S,Liberty Ranch High,Galt Joint Union High,Sacramento,275,94,504,519,496,54
+34673553433471,S,Galt High,Galt Joint Union High,Sacramento,210,46,462,480,448,15
+34674130000000,D,,River Delta Joint Unified,Sacramento,175,79,481,460,477,27
+34674134835302,S,Rio Vista High,River Delta Joint Unified,Sacramento,87,45,477,461,484,16
+34674135731708,S,Delta High,River Delta Joint Unified,Sacramento,62,34,486,459,467,11
+34674390000000,D,,Sacramento City Unified,Sacramento,3208,1281,463,476,456,425
+34674390101881,S,New Technology High,Sacramento City Unified,Sacramento,49,30,450,449,432,8
+34674390101899,S,George Washington Carver School of Arts and Scienc,Sacramento City Unified,Sacramento,61,28,548,504,526,16
+34674390101907,S,The MET,Sacramento City Unified,Sacramento,66,33,486,457,468,11
+34674390101972,S,Rosemont High,Sacramento City Unified,Sacramento,313,96,467,488,452,29
+34674390102038,S,Sacramento Charter High,Sacramento City Unified,Sacramento,181,156,410,405,403,11
+34674390108951,S,Arthur A. Benjamin Health Professions High,Sacramento City Unified,Sacramento,49,23,447,440,449,8
+34674390114546,S,School of Engineering & Sciences,Sacramento City Unified,Sacramento,26,12,448,469,420,2
+34674393430154,S,American Legion High (Continuation),Sacramento City Unified,Sacramento,202,1,,,,
+34674393430519,S,Capital City Independent Study,Sacramento City Unified,Sacramento,260,2,,,,
+34674393430865,S,West Campus,Sacramento City Unified,Sacramento,203,165,497,514,500,79
+34674393431012,S,Luther Burbank High,Sacramento City Unified,Sacramento,421,187,399,427,397,20
+34674393434636,S,Hiram W. Johnson High,Sacramento City Unified,Sacramento,323,91,410,423,401,11
+34674393434768,S,John F. Kennedy High,Sacramento City Unified,Sacramento,468,236,480,505,471,101
+34674393435419,S,C. K. McClatchy High,Sacramento City Unified,Sacramento,506,221,524,532,512,129
+34674470000000,D,,San Juan Unified,Sacramento,4419,1402,526,532,514,806
+34674470121467,S,Aspire Alexander Twilight Secondary Academy,San Juan Unified,Sacramento,11,12,420,418,403,2
+34674473430048,S,Mesa Verde High,San Juan Unified,Sacramento,209,54,457,434,449,14
+34674473430097,S,La Entrada Continuation High,San Juan Unified,Sacramento,48,3,,,,
+34674473430386,S,El Sereno Alternative Education,San Juan Unified,Sacramento,137,6,,,,
+34674473430493,S,Bella Vista High,San Juan Unified,Sacramento,420,242,549,562,530,173
+34674473430691,S,Options for Youth-San Juan,San Juan Unified,Sacramento,185,15,451,422,431,4
+34674473430717,S,Visions In Education,San Juan Unified,Sacramento,870,43,571,527,533,29
+34674473430758,S,San Juan Choices Charter,San Juan Unified,Sacramento,68,1,,,,
+34674473431111,S,Casa Roble Fundamental High,San Juan Unified,Sacramento,318,137,495,491,486,62
+34674473432051,S,Del Campo High,San Juan Unified,Sacramento,417,180,501,488,489,80
+34674473432317,S,El Camino Fundamental High,San Juan Unified,Sacramento,391,209,512,515,496,113
+34674473432838,S,Encina Preparatory High,San Juan Unified,Sacramento,196,28,391,413,389,3
+34674473435930,S,Mira Loma High,San Juan Unified,Sacramento,418,236,594,624,583,189
+34674473436714,S,Rio Americano High,San Juan Unified,Sacramento,371,202,539,548,536,131
+34674473438504,S,San Juan High,San Juan Unified,Sacramento,190,34,414,449,420,3
+34739730000000,D,,Center Joint Unified,Sacramento,349,97,495,522,465,44
+34739730106377,S,Global Youth Charter,Center Joint Unified,Sacramento,12,1,,,,
+34739733430378,S,Center High,Center Joint Unified,Sacramento,292,96,496,524,466,44
+34739733430816,S,Antelope View Charter,Center Joint Unified,Sacramento,11,0,,,,
+34752830000000,D,,Natomas Unified,Sacramento,931,389,476,474,469,143
+34752830102236,S,Inderkum High,Natomas Unified,Sacramento,369,161,459,462,449,44
+34752830112425,S,Natomas Pacific Pathways Prep,Natomas Unified,Sacramento,128,85,482,496,477,37
+34752833430584,S,Natomas High,Natomas Unified,Sacramento,227,74,459,451,454,26
+34752833430659,S,Natomas Charter,Natomas Unified,Sacramento,86,69,528,500,524,36
+34765050000000,D,,Twin Rivers Unified,Sacramento,2554,536,431,435,421,112
+34765050101832,S,Futures High,Twin Rivers Unified,Sacramento,51,17,457,492,489,6
+34765050108415,S,Heritage Peak Charter,Twin Rivers Unified,Sacramento,223,25,478,462,458,9
+34765050108795,S,Creative Connections Arts Academy,Twin Rivers Unified,Sacramento,33,8,,,,
+34765050108837,S,Community Collaborative Charter,Twin Rivers Unified,Sacramento,190,2,,,,
+34765050114272,S,SAVA: Sacramento Academic and Vocational Academy,Twin Rivers Unified,Sacramento,368,1,,,,
+34765050130757,S,Highlands Community Charter,Twin Rivers Unified,Sacramento,56,0,,,,
+34765053430634,S,Elwood J. Keema High,Twin Rivers Unified,Sacramento,235,0,,,,
+34765053430881,S,Vista Nueva Career and Technology High,Twin Rivers Unified,Sacramento,104,1,,,,
+34765053433265,S,Foothill High,Twin Rivers Unified,Sacramento,212,92,446,445,430,22
+34765053433794,S,Grant Union High,Twin Rivers Unified,Sacramento,401,208,400,401,395,22
+34765053434370,S,Highlands High,Twin Rivers Unified,Sacramento,172,54,435,440,407,11
+34765053436979,S,Rio Linda High,Twin Rivers Unified,Sacramento,341,128,449,468,443,38
+35103550000000,D,,San Benito County Office of Education,San Benito,40,0,,,,
+35675380000000,D,,San Benito High,San Benito,764,266,477,472,476,100
+35675383537008,S,San Benito High,San Benito High,San Benito,703,266,477,472,476,100
+35752590000000,D,,Aromas/San Juan Unified,San Benito,79,39,496,506,479,16
+35752593530060,S,Anzar High,Aromas/San Juan Unified,San Benito,79,39,496,506,479,16
+36103630000000,D,,San Bernardino County Office of Education,San Bernardino,521,0,,,,
+36675870000000,D,,Adelanto Elementary,San Bernardino,821,2,,,,
+36675870120592,S,Alta Vista Public,Adelanto Elementary,San Bernardino,815,2,,,,
+36676110000000,D,,Barstow Unified,San Bernardino,444,86,450,474,445,24
+36676113630712,S,Central High (Continuation),Barstow Unified,San Bernardino,131,1,,,,
+36676113630803,S,Barstow High,Barstow Unified,San Bernardino,310,85,451,474,445,24
+36676370000000,D,,Bear Valley Unified,San Bernardino,217,71,502,519,491,37
+36676373631066,S,Big Bear High,Bear Valley Unified,San Bernardino,190,71,502,519,491,37
+36676520000000,D,,Chaffey Joint Union High,San Bernardino,6214,2989,477,490,468,1166
+36676520126243,S,Chaffey District Online High,Chaffey Joint Union High,San Bernardino,40,8,,,,
+36676523630225,S,Alta Loma High,Chaffey Joint Union High,San Bernardino,652,348,482,488,466,130
+36676523630373,S,Etiwanda High,Chaffey Joint Union High,San Bernardino,799,455,489,501,478,205
+36676523630571,S,Rancho Cucamonga High,Chaffey Joint Union High,San Bernardino,815,519,493,501,489,236
+36676523631058,S,Los Osos High,Chaffey Joint Union High,San Bernardino,786,522,523,544,511,307
+36676523631157,S,Colony High,Chaffey Joint Union High,San Bernardino,508,240,457,466,450,77
+36676523632205,S,Chaffey High,Chaffey Joint Union High,San Bernardino,845,277,453,450,445,71
+36676523633906,S,Montclair High,Chaffey Joint Union High,San Bernardino,771,337,438,456,426,75
+36676523634482,S,Ontario High,Chaffey Joint Union High,San Bernardino,655,282,428,458,428,61
+36676523637659,S,Valley View High (Continuation),Chaffey Joint Union High,San Bernardino,308,1,,,,
+36676780000000,D,,Chino Valley Unified,San Bernardino,2688,1358,496,515,494,675
+36676783630035,S,Don Antonio Lugo High,Chino Valley Unified,San Bernardino,455,142,468,462,461,44
+36676783630522,S,Ruben S. Ayala High,Chino Valley Unified,San Bernardino,675,464,513,542,510,273
+36676783631017,S,Chino Hills High,Chino Valley Unified,San Bernardino,811,516,508,531,508,288
+36676783631769,S,Buena Vista Continuation High,Chino Valley Unified,San Bernardino,146,1,,,,
+36676783632502,S,Chino High,Chino Valley Unified,San Bernardino,550,235,456,460,452,70
+36676860000000,D,,Colton Joint Unified,San Bernardino,1611,492,438,448,434,108
+36676860125500,S,Grand Terrace High School at the Ray Abril Jr. Edu,Colton Joint Unified,San Bernardino,458,184,451,451,441,44
+36676863630399,S,Washington High,Colton Joint Unified,San Bernardino,58,0,,,,
+36676863631322,S,Bloomington High,Colton Joint Unified,San Bernardino,461,177,432,442,430,40
+36676863632742,S,Colton High,Colton Joint Unified,San Bernardino,456,131,427,452,428,24
+36677100000000,D,,Fontana Unified,San Bernardino,3322,1250,436,439,425,240
+36677100108191,S,Summit High,Fontana Unified,San Bernardino,620,326,439,439,425,62
+36677100120758,S,Jurupa Hills High,Fontana Unified,San Bernardino,536,282,437,436,424,61
+36677103630555,S,Fontana A. B. Miller High,Fontana Unified,San Bernardino,563,185,448,447,432,42
+36677103630902,S,Henry J. Kaiser High,Fontana Unified,San Bernardino,545,236,425,427,417,28
+36677103633302,S,Fontana High,Fontana Unified,San Bernardino,541,221,435,448,429,47
+36677360000000,D,,Helendale Elementary,San Bernardino,179,17,454,495,462,7
+36677360116723,S,Academy of Careers and Exploration,Helendale Elementary,San Bernardino,38,17,454,495,462,7
+36677360128439,S,Empire Springs Charter,Helendale Elementary,San Bernardino,21,0,,,,
+36677360130948,S,Independence Charter Academy,Helendale Elementary,San Bernardino,13,0,,,,
+36677360131151,S,Alta Vista South Public Charter,Helendale Elementary,San Bernardino,107,0,,,,
+36677770000000,D,,Morongo Unified,San Bernardino,761,152,490,501,486,72
+36677770124214,S,Hope Academy Charter,Morongo Unified,San Bernardino,197,1,,,,
+36677773636743,S,Twentynine Palms High,Morongo Unified,San Bernardino,164,72,486,503,478,31
+36677773638616,S,Yucca Valley High,Morongo Unified,San Bernardino,314,79,493,497,494,40
+36678010000000,D,,Needles Unified,San Bernardino,50,16,446,453,409,5
+36678013634169,S,Needles High,Needles Unified,San Bernardino,49,16,446,453,409,5
+36678270000000,D,,Oro Grande Elementary,San Bernardino,679,107,463,454,447,30
+36678270111807,S,Mojave River Academy,Oro Grande Elementary,San Bernardino,522,8,,,,
+36678270113928,S,Riverside Preparatory,Oro Grande Elementary,San Bernardino,157,99,460,452,447,28
+36678430000000,D,,Redlands Unified,San Bernardino,1933,844,506,512,495,438
+36678430118802,S,Citrus Valley High,Redlands Unified,San Bernardino,559,293,488,492,473,135
+36678430127837,S,Redlands eAcademy,Redlands Unified,San Bernardino,9,5,,,,
+36678433630779,S,Redlands East Valley High,Redlands Unified,San Bernardino,525,256,506,511,498,134
+36678433630928,S,Grove,Redlands Unified,San Bernardino,32,28,552,506,535,17
+36678433635042,S,Redlands Senior High,Redlands Unified,San Bernardino,549,262,523,538,515,150
+36678500000000,D,,Rialto Unified,San Bernardino,2130,772,430,442,428,144
+36678500102830,S,Wilmer Amina Carter High,Rialto Unified,San Bernardino,556,265,429,436,436,48
+36678503630530,S,Zupanic High,Rialto Unified,San Bernardino,79,1,,,,
+36678503630597,S,Rialto High,Rialto Unified,San Bernardino,675,296,428,437,421,54
+36678503633005,S,Eisenhower Senior High,Rialto Unified,San Bernardino,582,210,433,456,427,42
+36678680000000,D,,Rim of the World Unified,San Bernardino,342,118,506,496,484,57
+36678683635265,S,Rim of the World Senior High,Rim of the World Unified,San Bernardino,274,118,506,496,484,57
+36678760000000,D,,San Bernardino City Unified,San Bernardino,3770,1265,433,437,426,259
+36678760107730,S,ASA Charter,San Bernardino City Unified,San Bernardino,15,1,,,,
+36678760109850,S,Public Safety Academy,San Bernardino City Unified,San Bernardino,24,9,,,,
+36678760120568,S,Options for Youth-San Bernardino,San Bernardino City Unified,San Bernardino,115,23,456,436,457,3
+36678760125450,S,Indian Springs High,San Bernardino City Unified,San Bernardino,291,116,404,404,400,11
+36678763630308,S,San Andreas High,San Bernardino City Unified,San Bernardino,344,1,,,,
+36678763630548,S,Alternative Learning Center,San Bernardino City Unified,San Bernardino,15,0,,,,
+36678763630993,S,Provisional Accelerated Learning Academy,San Bernardino City Unified,San Bernardino,126,0,,,,
+36678763631082,S,Arroyo Valley High,San Bernardino City Unified,San Bernardino,568,243,415,423,406,39
+36678763631090,S,Middle College High,San Bernardino City Unified,San Bernardino,55,60,466,477,469,17
+36678763632221,S,Cajon High,San Bernardino City Unified,San Bernardino,595,330,465,467,456,107
+36678763634680,S,Pacific High,San Bernardino City Unified,San Bernardino,347,156,415,426,403,20
+36678763635844,S,San Bernardino High,San Bernardino City Unified,San Bernardino,363,159,424,426,415,25
+36678763636081,S,San Gorgonio High,San Bernardino City Unified,San Bernardino,455,167,426,434,424,37
+36678920000000,D,,Trona Joint Unified,San Bernardino,18,4,,,,
+36678923636487,S,Trona High,Trona Joint Unified,San Bernardino,18,4,,,,
+36679340000000,D,,Victor Valley Union High,San Bernardino,2475,753,453,450,444,195
+36679340110064,S,University Preparatory,Victor Valley Union High,San Bernardino,165,164,500,507,500,83
+36679340125419,S,Adelanto High,Victor Valley Union High,San Bernardino,333,111,423,418,421,15
+36679343630100,S,Goodwill High,Victor Valley Union High,San Bernardino,126,1,,,,
+36679343630670,S,Options for Youth-Victorville Charter,Victor Valley Union High,San Bernardino,526,69,436,409,419,8
+36679343630761,S,Excelsior Charter,Victor Valley Union High,San Bernardino,277,74,511,475,473,31
+36679343630787,S,Silverado High,Victor Valley Union High,San Bernardino,573,204,431,431,422,36
+36679343638012,S,Victor Valley High,Victor Valley Union High,San Bernardino,475,130,430,442,428,22
+36679590000000,D,,Yucaipa-Calimesa Joint Unified,San Bernardino,732,268,483,490,481,111
+36679593633351,S,Green Valley High,Yucaipa-Calimesa Joint Unified,San Bernardino,59,1,,,,
+36679593638509,S,Yucaipa High,Yucaipa-Calimesa Joint Unified,San Bernardino,622,267,482,489,481,110
+36738580000000,D,,Baker Valley Unified,San Bernardino,10,6,,,,
+36738583630076,S,Baker High,Baker Valley Unified,San Bernardino,10,6,,,,
+36738900000000,D,,Silver Valley Unified,San Bernardino,104,33,505,498,485,15
+36738903630274,S,Silver Valley High,Silver Valley Unified,San Bernardino,89,32,507,497,486,15
+36738903631199,S,Silver Valley Academy,Silver Valley Unified,San Bernardino,9,1,,,,
+36739570000000,D,,Snowline Joint Unified,San Bernardino,632,181,504,509,494,94
+36739573630233,S,Serrano High,Snowline Joint Unified,San Bernardino,497,179,503,508,493,92
+36739573630589,S,Snowline Virtual,Snowline Joint Unified,San Bernardino,5,2,,,,
+36750440000000,D,,Hesperia Unified,San Bernardino,2122,615,453,452,445,166
+36750440107516,S,Summit Leadership Academy-High Desert,Hesperia Unified,San Bernardino,48,17,394,388,370,0
+36750440114389,S,Mirus Secondary,Hesperia Unified,San Bernardino,135,1,,,,
+36750440116707,S,Encore Jr./Sr. High School for the Performing and,Hesperia Unified,San Bernardino,102,40,491,464,486,18
+36750440119115,S,Oak Hills High,Hesperia Unified,San Bernardino,529,227,456,461,450,69
+36750443630407,S,Hesperia High,Hesperia Unified,San Bernardino,474,143,440,432,434,29
+36750443630746,S,Sultana High,Hesperia Unified,San Bernardino,471,184,459,461,448,50
+36750443630811,S,Shadow Ridge,Hesperia Unified,San Bernardino,71,3,,,,
+36750510000000,D,,Lucerne Valley Unified,San Bernardino,75,20,477,446,453,6
+36750510115089,S,Sky Mountain Charter,Lucerne Valley Unified,San Bernardino,24,7,,,,
+36750513630563,S,Lucerne Valley High,Lucerne Valley Unified,San Bernardino,51,13,400,395,397,0
+36750690000000,D,,Upland Unified,San Bernardino,931,415,495,505,490,187
+36750693637584,S,Upland High,Upland Unified,San Bernardino,814,415,495,505,490,187
+36750770000000,D,,Apple Valley Unified,San Bernardino,1217,359,490,475,480,155
+36750773630423,S,Apple Valley High,Apple Valley Unified,San Bernardino,592,169,481,473,471,65
+36750773630894,S,Granite Hills High,Apple Valley Unified,San Bernardino,422,133,488,468,479,59
+36750773631009,S,High Desert Premier Academy,Apple Valley Unified,San Bernardino,102,0,,,,
+36750773631207,S,Academy for Academic Excellence,Apple Valley Unified,San Bernardino,93,57,524,494,505,31
+37103710000000,D,,San Diego County Office of Education,San Diego,999,21,366,349,342,1
+37103710115998,S,San Pasqual Academy,San Diego County Office of Education,San Diego,29,12,395,373,363,1
+37103710120493,S,Monarch,San Diego County Office of Education,San Diego,18,9,,,,
+37103716119119,S,Literacy First Charter,San Diego County Office of Education,San Diego,52,0,,,,
+37679830000000,D,,Borrego Springs Unified,San Diego,88,16,459,445,434,3
+37679830117887,S,Juan Bautista de Anza,Borrego Springs Unified,San Diego,11,0,,,,
+37679830131144,S,Diego Springs Academy,Borrego Springs Unified,San Diego,46,0,,,,
+37679833730447,S,Borrego Springs High,Borrego Springs Unified,San Diego,29,16,459,445,434,3
+37680310000000,D,,Coronado Unified,San Diego,318,247,543,549,532,170
+37680310126110,S,Coronado Pathways Charter,Coronado Unified,San Diego,9,2,,,,
+37680313731478,S,Coronado High,Coronado Unified,San Diego,302,245,543,549,532,168
+37680490000000,D,,Dehesa Elementary,San Diego,695,24,541,463,494,11
+37680490119990,S,Diego Hills Charter,Dehesa Elementary,San Diego,627,7,,,,
+37680496119564,S,Dehesa Charter,Dehesa Elementary,San Diego,65,17,588,496,529,11
+37681060000000,D,,Escondido Union High,San Diego,2358,880,504,505,490,450
+37681060111195,S,Classical Academy High,Escondido Union High,San Diego,215,112,568,557,548,84
+37681063730058,S,San Pasqual High,Escondido Union High,San Diego,536,244,530,540,522,165
+37681063731023,S,Escondido Charter High,Escondido Union High,San Diego,230,105,533,536,513,67
+37681063732062,S,Escondido High,Escondido Union High,San Diego,601,219,484,480,465,94
+37681063735313,S,Orange Glen High,Escondido Union High,San Diego,522,200,445,445,435,40
+37681220000000,D,,Fallbrook Union High,San Diego,652,235,490,497,475,95
+37681223730967,S,Oasis High (Alternative),Fallbrook Union High,San Diego,38,7,,,,
+37681223732179,S,Fallbrook High,Fallbrook Union High,San Diego,519,228,489,498,474,91
+37681300000000,D,,Grossmont Union High,San Diego,5931,2212,491,503,480,994
+37681303730066,S,Valhalla High,Grossmont Union High,San Diego,550,220,528,540,516,144
+37681303730702,S,West Hills High,Grossmont Union High,San Diego,455,207,508,529,494,113
+37681303731262,S,Steele Canyon High,Grossmont Union High,San Diego,508,284,502,504,492,135
+37681303731536,S,Grossmont Middle College High,Grossmont Union High,San Diego,37,40,552,534,525,26
+37681303731692,S,El Cajon Valley High,Grossmont Union High,San Diego,516,107,443,456,455,37
+37681303731809,S,El Capitan High,Grossmont Union High,San Diego,424,122,475,484,463,42
+37681303732336,S,Granite Hills High,Grossmont Union High,San Diego,690,258,500,519,490,134
+37681303732625,S,Grossmont High,Grossmont Union High,San Diego,659,227,507,507,490,102
+37681303732732,S,Helix High,Grossmont Union High,San Diego,569,337,475,491,464,125
+37681303734548,S,Monte Vista High,Grossmont Union High,San Diego,476,148,459,473,443,40
+37681303734761,S,Mount Miguel High,Grossmont Union High,San Diego,392,115,420,446,414,15
+37681303737905,S,Santana High,Grossmont Union High,San Diego,376,147,509,527,501,81
+37681550000000,D,,Jamul-Dulzura Union Elementary,San Diego,32,4,,,,
+37681556117303,S,Greater San Diego Academy,Jamul-Dulzura Union Elementary,San Diego,32,4,,,,
+37681630000000,D,,Julian Union Elementary,San Diego,794,57,533,507,515,33
+37681630124271,S,Diego Valley Charter,Julian Union Elementary,San Diego,600,1,,,,
+37681633731239,S,Julian Charter,Julian Union Elementary,San Diego,188,56,534,509,517,33
+37681710000000,D,,Julian Union High,San Diego,29,8,,,,
+37681713733219,S,Julian High,Julian Union High,San Diego,28,8,,,,
+37681890000000,D,,Lakeside Union Elementary,San Diego,144,37,556,546,555,29
+37681890118323,S,National University Academy,Lakeside Union Elementary,San Diego,87,0,,,,
+37681893731072,S,River Valley Charter,Lakeside Union Elementary,San Diego,57,37,556,546,555,29
+37682130000000,D,,Mountain Empire Unified,San Diego,393,41,487,475,477,21
+37682130123240,S,Pivot Charter School - San Diego,Mountain Empire Unified,San Diego,18,4,,,,
+37682130127050,S,Academy of Arts and Sciences: El Cajon Middle and,Mountain Empire Unified,San Diego,107,0,,,,
+37682130127084,S,Academy of Arts and Sciences: Del Mar Middle & Hig,Mountain Empire Unified,San Diego,27,0,,,,
+37682133734878,S,Mountain Empire High,Mountain Empire Unified,San Diego,95,32,468,470,466,15
+37682960000000,D,,Poway Unified,San Diego,2694,1823,565,588,560,1366
+37682960118935,S,Del Norte High,Poway Unified,San Diego,435,350,566,594,565,264
+37682963730074,S,Mt. Carmel High,Poway Unified,San Diego,501,345,551,568,536,243
+37682963730819,S,Rancho Bernardo High,Poway Unified,San Diego,522,356,563,593,559,268
+37682963731528,S,Westview High,Poway Unified,San Diego,560,438,583,608,581,343
+37682963735842,S,Abraxas Continuation High,Poway Unified,San Diego,115,1,,,,
+37682963735867,S,Poway High,Poway Unified,San Diego,506,333,557,571,552,248
+37683040000000,D,,Ramona City Unified,San Diego,510,163,516,530,501,100
+37683040102178,S,Future Bound Independent Study Secondary,Ramona City Unified,San Diego,18,0,,,,
+37683040131250,S,Mountain Valley Academy,Ramona City Unified,San Diego,25,0,,,,
+37683043735974,S,Ramona High,Ramona City Unified,San Diego,395,163,516,530,501,100
+37683380000000,D,,San Diego Unified,San Diego,10180,4942,484,496,474,2125
+37683380106732,S,High Tech High International,San Diego Unified,San Diego,99,94,488,499,477,43
+37683380106799,S,Learning Choice Academy,San Diego Unified,San Diego,87,9,,,,
+37683380107029,S,San Diego International Studies,San Diego Unified,San Diego,170,148,531,529,523,87
+37683380107052,S,San Diego Business/Leadership,San Diego Unified,San Diego,184,103,406,410,402,11
+37683380107060,S,San Diego MVP Arts,San Diego Unified,San Diego,103,34,401,393,405,4
+37683380107078,S,Kearny Digital Media & Design,San Diego Unified,San Diego,83,45,490,452,482,16
+37683380107086,S,Kearny SCT,San Diego Unified,San Diego,89,54,464,493,452,20
+37683380107094,S,Kearny International Business,San Diego Unified,San Diego,105,54,455,471,450,15
+37683380107102,S,"Kearny Eng, Innov & Design",San Diego Unified,San Diego,59,34,436,438,426,5
+37683380107177,S,Crawford High,San Diego Unified,San Diego,246,105,380,411,380,11
+37683380107219,S,San Diego Science and Technology,San Diego Unified,San Diego,99,56,432,428,423,10
+37683380107482,S,San Diego Metro Career and Tech,San Diego Unified,San Diego,20,15,480,462,489,8
+37683380108787,S,High Tech High Media Arts,San Diego Unified,San Diego,95,88,485,480,457,35
+37683380114025,S,Lincoln High,San Diego Unified,San Diego,383,170,386,411,389,10
+37683380114462,S,Health Sciences High,San Diego Unified,San Diego,130,105,447,437,422,21
+37683380114520,S,Arroyo Paseo Charter High,San Diego Unified,San Diego,46,10,,,,
+37683380118315,S,San Diego Early/Middle College,San Diego Unified,San Diego,27,22,529,517,483,11
+37683380118851,S,King-Chavez Community High,San Diego Unified,San Diego,153,90,375,382,369,2
+37683380119610,S,Gompers Preparatory Academy,San Diego Unified,San Diego,100,96,367,357,363,4
+37683380120410,S,iHigh Virtual Academy,San Diego Unified,San Diego,20,9,,,,
+37683380122788,S,Coleman Tech Charter High,San Diego Unified,San Diego,43,20,503,492,453,9
+37683380126938,S,Home & Hosp/Transition Support,San Diego Unified,San Diego,12,0,,,,
+37683380128744,S,Laurel Preparatory Academy,San Diego Unified,San Diego,67,2,,,,
+37683383730116,S,John Muir,San Diego Unified,San Diego,11,7,,,,
+37683383730173,S,Serra High,San Diego Unified,San Diego,420,312,457,480,452,114
+37683383730181,S,Mira Mesa High,San Diego Unified,San Diego,627,370,499,525,480,184
+37683383730231,S,Twain High,San Diego Unified,San Diego,151,1,,,,
+37683383730314,S,University City High,San Diego Unified,San Diego,439,337,516,525,501,179
+37683383730371,S,San Diego SCPA,San Diego Unified,San Diego,183,128,494,474,484,51
+37683383730751,S,Mt. Everest Academy,San Diego Unified,San Diego,29,15,533,531,521,9
+37683383730884,S,Scripps Ranch High,San Diego Unified,San Diego,540,431,565,594,564,327
+37683383730959,S,Charter School of San Diego,San Diego Unified,San Diego,1072,30,498,443,479,13
+37683383731189,S,Preuss School UCSD,San Diego Unified,San Diego,104,107,512,539,520,68
+37683383731213,S,Clairemont High,San Diego Unified,San Diego,255,107,486,485,473,48
+37683383731247,S,High Tech High,San Diego Unified,San Diego,139,122,505,503,477,55
+37683383731395,S,Audeo Charter,San Diego Unified,San Diego,330,12,499,451,483,4
+37683383732781,S,Henry High,San Diego Unified,San Diego,538,356,520,533,495,204
+37683383732997,S,Hoover High,San Diego Unified,San Diego,440,215,408,427,411,27
+37683383733508,S,La Jolla High,San Diego Unified,San Diego,361,256,567,591,554,191
+37683383733698,S,Madison High,San Diego Unified,San Diego,246,146,450,455,443,42
+37683383734431,S,Mission Bay High,San Diego Unified,San Diego,265,128,437,446,430,28
+37683383734654,S,Morse High,San Diego Unified,San Diego,379,188,456,487,455,70
+37683383735750,S,Point Loma High,San Diego Unified,San Diego,459,311,523,521,506,175
+37683460000000,D,,San Dieguito Union High,San Diego,2124,1422,586,609,586,1178
+37683460106328,S,Canyon Crest Academy,San Dieguito Union High,San Diego,437,328,611,626,611,299
+37683463730033,S,Torrey Pines High,San Dieguito Union High,San Diego,719,492,612,639,617,432
+37683463730769,S,North Coast Alternative High,San Dieguito Union High,San Diego,7,1,,,,
+37683463731007,S,La Costa Canyon High,San Dieguito Union High,San Diego,537,357,542,574,542,264
+37683463737384,S,Sunset High (Continuation),San Dieguito Union High,San Diego,72,4,,,,
+37683463737418,S,San Dieguito High Academy,San Dieguito Union High,San Diego,341,240,562,580,553,179
+37684030000000,D,,Spencer Valley Elementary,San Diego,285,34,550,520,509,24
+37684030125401,S,Insight @ San Diego,Spencer Valley Elementary,San Diego,7,5,,,,
+37684036120893,S,California Virtual Academy @ San Diego,Spencer Valley Elementary,San Diego,278,29,562,538,517,22
+37684110000000,D,,Sweetwater Union High,San Diego,7972,3070,477,484,462,1127
+37684110111831,S,Olympian High,Sweetwater Union High,San Diego,455,290,495,500,476,130
+37684113730124,S,Southwest Senior High,Sweetwater Union High,San Diego,446,131,441,447,437,26
+37684113730405,S,Bonita Vista Senior High,Sweetwater Union High,San Diego,644,318,503,512,484,150
+37684113730801,S,Castle Park Senior High,Sweetwater Union High,San Diego,410,140,449,449,426,33
+37684113730843,S,Eastlake High,Sweetwater Union High,San Diego,784,487,507,520,498,261
+37684113731064,S,Chula Vista Senior High,Sweetwater Union High,San Diego,680,271,460,461,441,74
+37684113731155,S,Options Secondary,Sweetwater Union High,San Diego,44,2,,,,
+37684113731304,S,MAAC Community Charter,Sweetwater Union High,San Diego,234,0,,,,
+37684113731460,S,Alta Vista Academy,Sweetwater Union High,San Diego,10,1,,,,
+37684113731502,S,San Ysidro High,Sweetwater Union High,San Diego,652,229,444,462,431,57
+37684113731627,S,Otay Ranch Senior High,Sweetwater Union High,San Diego,739,404,493,498,474,172
+37684113732849,S,Hilltop Senior High,Sweetwater Union High,San Diego,576,234,481,472,458,74
+37684113733953,S,Mar Vista Senior High,Sweetwater Union High,San Diego,413,121,479,481,462,47
+37684113738226,S,Sweetwater High,Sweetwater Union High,San Diego,756,285,437,459,437,66
+37684113738234,S,Montgomery Senior High,Sweetwater Union High,San Diego,480,157,451,450,438,37
+37684370000000,D,,Vallecitos Elementary,San Diego,29,6,,,,
+37684370101220,S,RAI Online Charter,Vallecitos Elementary,San Diego,13,5,,,,
+37684370128470,S,Taylion San Diego Academy,Vallecitos Elementary,San Diego,16,1,,,,
+37684520000000,D,,Vista Unified,San Diego,3135,780,506,508,493,388
+37684520106120,S,SIATech,Vista Unified,San Diego,1154,0,,,,
+37684520114264,S,North County Trade Tech High,Vista Unified,San Diego,40,0,,,,
+37684520118430,S,Mission Vista High,Vista Unified,San Diego,382,234,516,507,501,123
+37684520124917,S,Guajome Learning Center,Vista Unified,San Diego,15,1,,,,
+37684520126300,S,Vista Visions Academy,Vista Unified,San Diego,17,0,,,,
+37684523730728,S,Rancho Buena Vista High,Vista Unified,San Diego,570,255,501,518,495,138
+37684523730942,S,Guajome Park Academy Charter,Vista Unified,San Diego,95,49,541,523,531,25
+37684523738705,S,Vista High,Vista Unified,San Diego,572,241,493,496,475,102
+37735510000000,D,,Carlsbad Unified,San Diego,777,414,555,564,538,298
+37735513730694,S,Carlsbad High,Carlsbad Unified,San Diego,711,414,555,564,538,298
+37735513731163,S,Carlsbad Seaside Academy,Carlsbad Unified,San Diego,16,0,,,,
+37735690000000,D,,Oceanside Unified,San Diego,1509,510,491,509,476,239
+37735693731221,S,Pacific View Charter,Oceanside Unified,San Diego,117,5,,,,
+37735693735206,S,Oceanside High,Oceanside Unified,San Diego,510,159,472,505,454,64
+37735693739018,S,El Camino High,Oceanside Unified,San Diego,787,345,500,511,486,173
+37735693739026,S,Ocean Shores High (Continuation),Oceanside Unified,San Diego,91,1,,,,
+37737910000000,D,,San Marcos Unified,San Diego,1338,711,516,511,501,379
+37737910105726,S,Mission Hills High,San Marcos Unified,San Diego,587,345,508,497,495,167
+37737910109785,S,Bayshore Preparatory Charter,San Marcos Unified,San Diego,37,5,,,,
+37737913730215,S,Twin Oaks High,San Marcos Unified,San Diego,87,1,,,,
+37737913730793,S,Foothills High,San Marcos Unified,San Diego,55,3,,,,
+37737913737632,S,San Marcos High,San Marcos Unified,San Diego,560,357,523,525,508,208
+37754160000000,D,,Warner Unified,San Diego,21,6,,,,
+37754163730975,S,Warner Junior/Senior High,Warner Unified,San Diego,14,6,,,,
+37756140000000,D,,Valley Center-Pauma Unified,San Diego,308,131,488,497,474,55
+37756143731114,S,Valley Center High,Valley Center-Pauma Unified,San Diego,255,128,489,499,474,54
+37756143731601,S,Valley Center Prep,Valley Center-Pauma Unified,San Diego,22,3,,,,
+37764710000000,D,,SBC - High Tech High,San Diego,267,248,495,485,489,102
+37764710114678,S,High Tech High Chula Vista,SBC - High Tech High,San Diego,138,136,478,469,471,46
+37764710114694,S,High Tech High North County,SBC - High Tech High,San Diego,129,112,516,503,511,56
+38103890000000,D,,San Francisco County Office of Education,San Francisco,61,0,,,,
+38103893830395,S,S.F. County Opportunity (Hilltop),San Francisco County Office of Education,San Francisco,13,0,,,,
+38684780000000,D,,San Francisco Unified,San Francisco,4685,2956,482,526,477,1412
+38684780101774,S,Five Keys Charter (SF Sheriff's),San Francisco Unified,San Francisco,69,0,,,,
+38684780102103,S,Jordan (June) School for Equity,San Francisco Unified,San Francisco,65,4,,,,
+38684780107300,S,City Arts and Tech High,San Francisco Unified,San Francisco,88,85,410,413,395,11
+38684780118133,S,Five Keys Adult School (SF Sheriff's),San Francisco Unified,San Francisco,19,0,,,,
+38684780118141,S,Five Keys Independence HS (SF Sheriff's),San Francisco Unified,San Francisco,235,0,,,,
+38684780119875,S,S.F. International High,San Francisco Unified,San Francisco,103,66,321,450,318,3
+38684780119958,S,Academy of Arts and Sciences,San Francisco Unified,San Francisco,74,44,447,413,456,9
+38684780128876,S,Gateway to College,San Francisco Unified,San Francisco,103,0,,,,
+38684783830031,S,Wells (Ida B.) High,San Francisco Unified,San Francisco,44,1,,,,
+38684783830064,S,Downtown High,San Francisco Unified,San Francisco,31,1,,,,
+38684783830197,S,Independence High,San Francisco Unified,San Francisco,81,16,546,459,504,6
+38684783830205,S,Wallenberg (Raoul) Traditional High,San Francisco Unified,San Francisco,174,113,468,514,456,47
+38684783830254,S,Burton (Phillip and Sala) Academic High,San Francisco Unified,San Francisco,279,170,443,480,431,56
+38684783830288,S,Balboa High,San Francisco Unified,San Francisco,297,184,467,504,467,79
+38684783830353,S,International Studies Academy,San Francisco Unified,San Francisco,40,25,430,423,409,5
+38684783830387,S,"Asawa (Ruth) San Francisco School of the Arts, A P",San Francisco Unified,San Francisco,167,107,577,541,553,77
+38684783830403,S,Marshall (Thurgood) High,San Francisco Unified,San Francisco,137,76,364,445,364,10
+38684783830411,S,Leadership High,San Francisco Unified,San Francisco,72,57,399,390,408,8
+38684783830437,S,Gateway High,San Francisco Unified,San Francisco,111,93,495,491,483,43
+38684783831765,S,Galileo High,San Francisco Unified,San Francisco,463,356,445,510,444,128
+38684783833241,S,Lincoln (Abraham) High,San Francisco Unified,San Francisco,459,331,468,529,461,151
+38684783833407,S,Lowell High,San Francisco Unified,San Francisco,709,645,595,636,594,561
+38684783834082,S,Mission High,San Francisco Unified,San Francisco,256,169,400,464,399,40
+38684783834769,S,O'Connell (John) High,San Francisco Unified,San Francisco,109,48,412,418,409,6
+38684783839081,S,Washington (George) High,San Francisco Unified,San Francisco,495,365,464,529,462,172
+38767030000000,D,,SBE - San Francisco Flex Academy,San Francisco,32,15,501,509,502,8
+38767030121814,S,San Francisco Flex Academy,SBE - San Francisco Flex Academy,San Francisco,32,15,501,509,502,8
+39103970000000,D,,San Joaquin County Office of Education,San Joaquin,916,47,491,456,458,13
+39103970120717,S,one.Charter,San Joaquin County Office of Education,San Joaquin,46,0,,,,
+39103970121723,S,San Joaquin Building Futures Academy,San Joaquin County Office of Education,San Joaquin,130,0,,,,
+39103973930476,S,Venture Academy,San Joaquin County Office of Education,San Joaquin,246,47,491,456,458,13
+39685020000000,D,,Escalon Unified,San Joaquin,229,81,493,498,486,40
+39685023932308,S,Escalon High,Escalon Unified,San Joaquin,205,81,493,498,486,40
+39685690000000,D,,Lincoln Unified,San Joaquin,726,251,499,529,498,135
+39685693933801,S,Lincoln High,Lincoln Unified,San Joaquin,653,251,499,529,498,135
+39685770000000,D,,Linden Unified,San Joaquin,178,69,498,483,487,29
+39685773933959,S,Linden High,Linden Unified,San Joaquin,143,69,498,483,487,29
+39685850000000,D,,Lodi Unified,San Joaquin,2296,801,486,502,481,348
+39685850101956,S,Aspire Benjamin Holt College Preparatory Academy,Lodi Unified,San Joaquin,79,71,500,502,503,32
+39685850108225,S,Ronald E. McNair High,Lodi Unified,San Joaquin,395,156,440,451,436,37
+39685850122580,S,Rio Valley Charter,Lodi Unified,San Joaquin,39,2,,,,
+39685853930237,S,Bear Creek High,Lodi Unified,San Joaquin,428,187,478,510,467,81
+39685853930344,S,Independence,Lodi Unified,San Joaquin,109,1,,,,
+39685853930443,S,Middle College High,Lodi Unified,San Joaquin,56,53,569,572,565,46
+39685853934759,S,Tokay High,Lodi Unified,San Joaquin,509,150,493,502,485,60
+39685853934783,S,Lodi High,Lodi Unified,San Joaquin,456,181,498,520,501,92
+39685930000000,D,,Manteca Unified,San Joaquin,1769,648,470,468,458,208
+39685930101576,S,Weston Ranch High,Manteca Unified,San Joaquin,259,96,458,461,454,26
+39685930112565,S,New Vision High,Manteca Unified,San Joaquin,98,1,,,,
+39685930116376,S,Lathrop High,Manteca Unified,San Joaquin,307,143,442,432,432,22
+39685930126094,S,Manteca Unified Vocational Academy,Manteca Unified,San Joaquin,16,0,,,,
+39685933930310,S,Sierra High,Manteca Unified,San Joaquin,311,140,483,478,463,55
+39685933932001,S,East Union High,Manteca Unified,San Joaquin,314,139,482,485,474,56
+39685933935103,S,Manteca High,Manteca Unified,San Joaquin,317,129,481,484,467,49
+39686270000000,D,,New Jerusalem Elementary,San Joaquin,507,40,443,445,443,11
+39686270126755,S,"Humphreys College Academy of Business, Law and Edu",New Jerusalem Elementary,San Joaquin,49,23,420,449,424,4
+39686270127191,S,California Virtual Academy @ San Joaquin,New Jerusalem Elementary,San Joaquin,129,0,,,,
+39686270129361,S,Renew Virtual Academy K12 #1,New Jerusalem Elementary,San Joaquin,55,0,,,,
+39686270129916,S,Valley View Charter Prep,New Jerusalem Elementary,San Joaquin,12,0,,,,
+39686270130864,S,Delta Charter Online,New Jerusalem Elementary,San Joaquin,116,0,,,,
+39686276119309,S,Delta Charter,New Jerusalem Elementary,San Joaquin,79,17,474,439,468,7
+39686500000000,D,,Ripon Unified,San Joaquin,275,112,502,493,492,47
+39686500125849,S,California Connections Academy @ Ripon,Ripon Unified,San Joaquin,59,11,542,487,535,6
+39686503935756,S,Ripon High,Ripon Unified,San Joaquin,196,101,497,494,487,41
+39686760000000,D,,Stockton Unified,San Joaquin,2450,879,433,437,430,184
+39686760108159,S,Cesar Chavez High,Stockton Unified,San Joaquin,525,148,413,410,417,18
+39686760115402,S,Edward C. Merlo Institute of Environmental Studies,Stockton Unified,San Joaquin,59,22,359,361,370,0
+39686760118497,S,Aspire Langston Hughes Academy,Stockton Unified,San Joaquin,54,51,407,431,408,9
+39686760119743,S,Stockton Unified Early College Academy,Stockton Unified,San Joaquin,101,91,531,551,519,62
+39686760119784,S,Stockton High,Stockton Unified,San Joaquin,124,0,,,,
+39686760120733,S,Stockton Collegiate International Secondary,Stockton Unified,San Joaquin,28,24,496,436,475,6
+39686760123802,S,Health Careers Academy,Stockton Unified,San Joaquin,106,77,421,416,418,14
+39686760124248,S,Pacific Law Academy,Stockton Unified,San Joaquin,41,0,,,,
+39686763930427,S,Weber Institute,Stockton Unified,San Joaquin,70,13,440,431,420,2
+39686763932100,S,Edison High,Stockton Unified,San Joaquin,467,165,419,435,420,27
+39686763932654,S,Franklin High,Stockton Unified,San Joaquin,414,194,431,433,423,29
+39686763937406,S,Stagg Senior High,Stockton Unified,San Joaquin,304,94,426,425,425,17
+39754990000000,D,,Tracy Joint Unified,San Joaquin,1638,678,495,505,491,300
+39754990102392,S,Millennium Charter,Tracy Joint Unified,San Joaquin,104,67,483,487,480,23
+39754990119040,S,John C. Kimball High,Tracy Joint Unified,San Joaquin,439,216,500,509,500,103
+39754993930302,S,Merrill F. West High,Tracy Joint Unified,San Joaquin,490,198,491,504,479,86
+39754993938008,S,Tracy High,Tracy Joint Unified,San Joaquin,425,197,499,508,496,88
+40104050000000,D,,San Luis Obispo County Office of Education,San Luis Obispo,224,1,,,,
+40104050101725,S,Grizzly ChalleNGe Charter,San Luis Obispo County Office of Education,San Luis Obispo,134,0,,,,
+40104054030078,S,San Luis Obispo County Juvenile Court,San Luis Obispo County Office of Education,San Luis Obispo,11,1,,,,
+40687000000000,D,,Atascadero Unified,San Luis Obispo,351,131,547,532,522,90
+40687004030102,S,West Mall Alternative,Atascadero Unified,San Luis Obispo,14,1,,,,
+40687004030755,S,Atascadero High,Atascadero Unified,San Luis Obispo,286,130,546,532,521,89
+40687590000000,D,,Lucia Mar Unified,San Luis Obispo,871,317,528,535,515,186
+40687594030268,S,Nipomo High,Lucia Mar Unified,San Luis Obispo,255,86,508,511,490,40
+40687594030557,S,Arroyo Grande High,Lucia Mar Unified,San Luis Obispo,513,231,535,543,524,146
+40688090000000,D,,San Luis Coastal Unified,San Luis Obispo,646,303,565,565,539,215
+40688094034807,S,Morro Bay High,San Luis Coastal Unified,San Luis Obispo,203,81,544,551,512,51
+40688094036703,S,San Luis Obispo High,San Luis Coastal Unified,San Luis Obispo,405,222,572,571,549,164
+40688330000000,D,,Shandon Joint Unified,San Luis Obispo,12,2,,,,
+40688334037008,S,Shandon High,Shandon Joint Unified,San Luis Obispo,12,2,,,,
+40688410000000,D,,Templeton Unified,San Luis Obispo,253,121,533,523,520,74
+40688414030185,S,Templeton Independent Study High,Templeton Unified,San Luis Obispo,40,6,,,,
+40688414037701,S,Templeton High,Templeton Unified,San Luis Obispo,209,115,535,524,521,71
+40754570000000,D,,Paso Robles Joint Unified,San Luis Obispo,562,177,508,503,490,86
+40754570119354,S,Independence High,Paso Robles Joint Unified,San Luis Obispo,37,1,,,,
+40754574035754,S,Paso Robles High,Paso Robles Joint Unified,San Luis Obispo,454,176,508,504,490,86
+40754650000000,D,,Coast Unified,San Luis Obispo,55,18,522,506,486,9
+40754654032009,S,Coast Union High,Coast Unified,San Luis Obispo,50,18,522,506,486,9
+41104130000000,D,,San Mateo County Office of Education,San Mateo,77,0,,,,
+41688900000000,D,,Cabrillo Unified,San Mateo,251,136,525,525,524,85
+41688904132817,S,Half Moon Bay High,Cabrillo Unified,San Mateo,231,136,525,525,524,85
+41689160000000,D,,Jefferson Elementary,San Mateo,80,9,,,,
+41689160112284,S,California Virtual Academy @ San Mateo,Jefferson Elementary,San Mateo,80,9,,,,
+41689240000000,D,,Jefferson Union High,San Mateo,1179,504,505,528,499,267
+41689244133393,S,Jefferson High,Jefferson Union High,San Mateo,266,110,455,468,451,31
+41689244135075,S,Oceana High,Jefferson Union High,San Mateo,158,89,534,550,532,58
+41689244137535,S,Terra Nova High,Jefferson Union High,San Mateo,246,126,537,548,523,85
+41689244137790,S,Westmoor High,Jefferson Union High,San Mateo,402,179,498,540,496,93
+41689400000000,D,,La Honda-Pescadero Unified,San Mateo,22,10,,,,
+41689404135331,S,Pescadero High,La Honda-Pescadero Unified,San Mateo,22,10,,,,
+41689990000000,D,,Ravenswood City Elementary,San Mateo,51,0,,,,
+41689996114953,S,Aspire East Palo Alto Charter,Ravenswood City Elementary,San Mateo,51,0,,,,
+41690470000000,D,,San Mateo Union High,San Mateo,2004,1189,544,570,544,803
+41690470128165,S,Peninsula High,San Mateo Union High,San Mateo,119,0,,,,
+41690474130217,S,Aragon High,San Mateo Union High,San Mateo,318,231,567,581,572,167
+41690474130472,S,Burlingame High,San Mateo Union High,San Mateo,316,188,557,586,560,146
+41690474130738,S,Capuchino High,San Mateo Union High,San Mateo,253,137,495,508,487,63
+41690474133070,S,Hillsdale High,San Mateo Union High,San Mateo,329,201,524,554,520,120
+41690474134557,S,Mills High,San Mateo Union High,San Mateo,313,222,545,592,543,163
+41690474136370,S,San Mateo High,San Mateo Union High,San Mateo,350,210,558,576,559,144
+41690620000000,D,,Sequoia Union High,San Mateo,2450,1236,544,563,544,821
+41690620112722,S,Summit Preparatory Charter High,Sequoia Union High,San Mateo,83,39,532,531,522,23
+41690620119503,S,Everest Public High,Sequoia Union High,San Mateo,97,53,553,551,538,36
+41690620126722,S,East Palo Alto Academy,Sequoia Union High,San Mateo,54,21,385,422,403,2
+41690624130993,S,Carlmont High,Sequoia Union High,San Mateo,513,349,575,604,569,289
+41690624133716,S,Menlo-Atherton High,Sequoia Union High,San Mateo,486,295,580,593,575,215
+41690624135687,S,Redwood High,Sequoia Union High,San Mateo,219,1,,,,
+41690624136693,S,Sequoia High,Sequoia Union High,San Mateo,558,270,510,536,526,147
+41690624138053,S,Woodside High,Sequoia Union High,San Mateo,428,208,500,510,499,108
+41690700000000,D,,South San Francisco Unified,San Mateo,716,341,487,509,478,140
+41690704132551,S,El Camino High,South San Francisco Unified,San Mateo,345,198,491,517,479,85
+41690704137279,S,South San Francisco High,South San Francisco Unified,San Mateo,312,143,481,499,477,55
+42104210000000,D,,Santa Barbara County Office of Education,Santa Barbara,76,0,,,,
+42691120000000,D,,Blochman Union Elementary,Santa Barbara,69,0,,,,
+42691120111773,S,Family Partnership Home Study Charter,Blochman Union Elementary,Santa Barbara,62,0,,,,
+42691460000000,D,,Carpinteria Unified,Santa Barbara,176,67,479,499,470,27
+42691464230587,S,Carpinteria Senior High,Carpinteria Unified,Santa Barbara,157,67,479,499,470,27
+42692290000000,D,,Lompoc Unified,Santa Barbara,638,145,508,505,489,77
+42692294230454,S,Cabrillo High,Lompoc Unified,Santa Barbara,297,91,528,520,504,56
+42692294233060,S,Lompoc High,Lompoc Unified,Santa Barbara,305,54,474,478,464,21
+42692450000000,D,,Los Olivos Elementary,Santa Barbara,77,3,,,,
+42692454230199,S,Olive Grove,Los Olivos Elementary,Santa Barbara,77,3,,,,
+42692600000000,D,,Orcutt Union Elementary,Santa Barbara,146,84,514,508,492,47
+42692600116434,S,Orcutt Academy Charter,Orcutt Union Elementary,Santa Barbara,146,84,514,508,492,47
+42693100000000,D,,Santa Maria Joint Union High,Santa Barbara,1876,527,453,471,449,148
+42693100102285,S,Pioneer Valley High,Santa Maria Joint Union High,Santa Barbara,601,173,455,463,451,46
+42693104234613,S,Ernest Righetti High,Santa Maria Joint Union High,Santa Barbara,497,181,486,500,482,78
+42693104236030,S,Santa Maria High,Santa Maria Joint Union High,Santa Barbara,499,173,416,447,415,24
+42693280000000,D,,Santa Ynez Valley Union High,Santa Barbara,257,147,521,530,516,87
+42693284236345,S,Santa Ynez Valley Union High,Santa Ynez Valley Union High,Santa Barbara,245,147,521,530,516,87
+42750100000000,D,,Cuyama Joint Unified,Santa Barbara,16,3,,,,
+42750104231205,S,Cuyama Valley High,Cuyama Joint Unified,Santa Barbara,16,3,,,,
+42767860000000,D,,Santa Barbara Unified,Santa Barbara,1724,795,534,545,526,489
+42767860120402,S,Alta Vista Alternative High,Santa Barbara Unified,Santa Barbara,104,12,568,548,558,10
+42767864231726,S,Dos Pueblos Senior High,Santa Barbara Unified,Santa Barbara,522,325,539,557,529,204
+42767864235230,S,San Marcos Senior High,Santa Barbara Unified,Santa Barbara,457,201,518,532,514,116
+42767864235727,S,Santa Barbara Senior High,Santa Barbara Unified,Santa Barbara,534,257,537,539,529,159
+43104390000000,D,,Santa Clara County Office of Education,Santa Clara,497,193,481,488,481,76
+43104390102905,S,Leadership Public Schools - San Jose,Santa Clara County Office of Education,Santa Clara,66,49,377,392,381,2
+43104390113431,S,University Preparatory Academy Charter,Santa Clara County Office of Education,Santa Clara,69,74,535,546,537,46
+43104390120261,S,Magnolia Science Academy Santa Clara,Santa Clara County Office of Education,Santa Clara,0,3,,,,
+43104390121780,S,Silicon Valley Flex Academy,Santa Clara County Office of Education,Santa Clara,14,6,,,,
+43104390123794,S,Summit Public School: Tahoma,Santa Clara County Office of Education,Santa Clara,74,61,490,483,483,22
+43694010000000,D,,Campbell Union High,Santa Clara,1784,892,531,543,528,550
+43694014330239,S,Leigh High,Campbell Union High,Santa Clara,379,226,551,573,544,158
+43694014330759,S,Boynton High,Campbell Union High,Santa Clara,197,2,,,,
+43694014330866,S,Branham High,Campbell Union High,Santa Clara,349,216,539,543,540,137
+43694014331955,S,Del Mar High,Campbell Union High,Santa Clara,228,93,468,465,459,31
+43694014336137,S,Prospect High,Campbell Union High,Santa Clara,263,153,534,552,531,98
+43694014338505,S,Westmont High,Campbell Union High,Santa Clara,346,202,528,537,529,125
+43694270000000,D,,East Side Union High,Santa Clara,6647,2910,499,533,500,1491
+43694270107151,S,"Escuela Popular/Center for Training and Careers, F",East Side Union High,Santa Clara,48,0,,,,
+43694270116889,S,KIPP San Jose Collegiate,East Side Union High,Santa Clara,95,43,467,508,482,16
+43694270123745,S,Summit Public School: Rainier,East Side Union High,Santa Clara,59,52,488,497,493,25
+43694270125427,S,Calero High,East Side Union High,Santa Clara,45,0,,,,
+43694274330015,S,Yerba Buena High,East Side Union High,Santa Clara,421,179,450,487,454,59
+43694274330023,S,Santa Teresa High,East Side Union High,Santa Clara,581,300,516,536,508,169
+43694274330031,S,Independence High,East Side Union High,Santa Clara,786,375,491,524,493,185
+43694274330361,S,Apollo High,East Side Union High,Santa Clara,116,8,,,,
+43694274330668,S,Latino College Preparatory Academy,East Side Union High,Santa Clara,88,61,367,383,380,0
+43694274330676,S,San Jose Conservation Corps Charter,East Side Union High,Santa Clara,339,0,,,,
+43694274330692,S,Evergreen Valley High,East Side Union High,Santa Clara,652,452,558,601,565,334
+43694274330726,S,Escuela Popular Accelerated Family Learning,East Side Union High,Santa Clara,12,0,,,,
+43694274332995,S,Andrew P. Hill High,East Side Union High,Santa Clara,526,193,492,527,493,95
+43694274333639,S,James Lick High,East Side Union High,Santa Clara,243,117,440,467,440,35
+43694274334900,S,Mount Pleasant High,East Side Union High,Santa Clara,363,166,448,481,442,43
+43694274335204,S,Oak Grove High,East Side Union High,Santa Clara,452,177,494,519,487,87
+43694274335428,S,William C. Overfelt High,East Side Union High,Santa Clara,315,115,434,471,429,30
+43694274335907,S,Piedmont Hills High,East Side Union High,Santa Clara,535,364,527,570,538,233
+43694274337903,S,Silver Creek High,East Side Union High,Santa Clara,556,308,516,551,511,179
+43694680000000,D,,Fremont Union High,Santa Clara,2704,1915,606,657,621,1659
+43694684331799,S,Cupertino High,Fremont Union High,Santa Clara,508,362,598,660,619,315
+43694684332474,S,Fremont High,Fremont Union High,Santa Clara,500,230,522,555,525,137
+43694684333316,S,Homestead High,Fremont Union High,Santa Clara,606,412,586,627,591,338
+43694684334421,S,Lynbrook High,Fremont Union High,Santa Clara,472,398,639,698,664,382
+43694684334462,S,Monta Vista High,Fremont Union High,Santa Clara,608,513,638,691,657,487
+43694840000000,D,,Gilroy Unified,Santa Clara,911,378,491,493,487,159
+43694840114496,S,Dr. T. J. Owens Gilroy Early College Academy,Gilroy Unified,Santa Clara,41,43,567,563,552,30
+43694840118380,S,Christopher High,Gilroy Unified,Santa Clara,437,232,489,487,484,94
+43694844332839,S,Gilroy High,Gilroy Unified,Santa Clara,267,103,465,476,464,35
+43695340000000,D,,Los Gatos-Saratoga Joint Union High,Santa Clara,851,698,615,638,617,630
+43695344334371,S,Los Gatos High,Los Gatos-Saratoga Joint Union High,Santa Clara,484,379,595,608,589,328
+43695344337762,S,Saratoga High,Los Gatos-Saratoga Joint Union High,Santa Clara,362,319,639,674,650,302
+43695830000000,D,,Morgan Hill Unified,Santa Clara,667,310,502,506,495,156
+43695830102368,S,Ann Sobrato High,Morgan Hill Unified,Santa Clara,312,161,522,536,515,101
+43695834333951,S,Live Oak High,Morgan Hill Unified,Santa Clara,254,149,479,473,474,55
+43696090000000,D,,Mountain View-Los Altos Union High,Santa Clara,886,582,601,625,603,488
+43696094334116,S,Los Altos High,Mountain View-Los Altos Union High,Santa Clara,397,246,611,636,622,217
+43696094334728,S,Mountain View High,Mountain View-Los Altos Union High,Santa Clara,456,336,594,617,589,271
+43696410000000,D,,Palo Alto Unified,Santa Clara,936,700,634,671,634,640
+43696414332904,S,Henry M. Gunn High,Palo Alto Unified,Santa Clara,447,330,642,686,646,310
+43696414335782,S,Palo Alto High,Palo Alto Unified,Santa Clara,476,370,627,657,624,330
+43696660000000,D,,San Jose Unified,Santa Clara,2687,1200,525,541,525,695
+43696664330080,S,Gunderson High,San Jose Unified,Santa Clara,259,111,477,474,461,44
+43696664330502,S,Liberty High (Alternative),San Jose Unified,Santa Clara,185,1,,,,
+43696664330585,S,Downtown College Preparatory,San Jose Unified,Santa Clara,102,3,,,,
+43696664330593,S,Middle College High,San Jose Unified,Santa Clara,27,0,,,,
+43696664332110,S,Broadway High,San Jose Unified,Santa Clara,210,1,,,,
+43696664333522,S,Leland High,San Jose Unified,Santa Clara,417,339,600,641,603,293
+43696664333795,S,Abraham Lincoln High,San Jose Unified,Santa Clara,352,195,489,491,484,79
+43696664335949,S,Pioneer High,San Jose Unified,Santa Clara,356,259,530,540,531,159
+43696664337200,S,San José High,San Jose Unified,Santa Clara,219,111,442,450,455,27
+43696664338950,S,Willow Glen High,San Jose Unified,Santa Clara,368,180,501,508,496,90
+43696740000000,D,,Santa Clara Unified,Santa Clara,1071,462,516,531,515,257
+43696744330122,S,Santa Clara High,Santa Clara Unified,Santa Clara,452,230,512,522,504,121
+43696744330247,S,Wilson Alternative,Santa Clara Unified,Santa Clara,109,1,,,,
+43696744338802,S,Adrian Wilcox High,Santa Clara Unified,Santa Clara,427,231,521,540,526,136
+43733870000000,D,,Milpitas Unified,Santa Clara,793,450,527,563,524,279
+43733874334470,S,Milpitas High,Milpitas Unified,Santa Clara,717,450,527,563,524,279
+44104470000000,D,,Santa Cruz County Office of Education,Santa Cruz,392,66,638,638,630,62
+44104474430252,S,Pacific Collegiate Charter,Santa Cruz County Office of Education,Santa Cruz,71,66,638,638,630,62
+44697650000000,D,,Live Oak Elementary,Santa Cruz,44,17,549,462,506,10
+44697650100305,S,Cypress Charter High,Live Oak Elementary,Santa Cruz,44,17,549,462,506,10
+44697990000000,D,,Pajaro Valley Unified,Santa Cruz,1300,453,468,473,462,151
+44697990105858,S,Pajaro Valley High,Pajaro Valley Unified,Santa Cruz,326,115,433,436,430,21
+44697990117804,S,Ceiba College Preparatory Academy,Pajaro Valley Unified,Santa Cruz,45,1,,,,
+44697994430229,S,Pacific Coast Charter,Pajaro Valley Unified,Santa Cruz,68,3,,,,
+44697994430518,S,Aptos High,Pajaro Valley Unified,Santa Cruz,306,152,532,529,521,91
+44697994437901,S,Watsonville High,Pajaro Valley Unified,Santa Cruz,434,182,437,452,433,38
+44698070000000,D,,San Lorenzo Valley Unified,Santa Cruz,265,114,550,526,523,67
+44698070110007,S,Ocean Grove Charter,San Lorenzo Valley Unified,Santa Cruz,75,20,620,546,554,15
+44698074430179,S,SLVUSD Charter,San Lorenzo Valley Unified,Santa Cruz,20,0,,,,
+44698074436754,S,San Lorenzo Valley High,San Lorenzo Valley Unified,Santa Cruz,170,94,535,521,517,52
+44698230000000,D,,Santa Cruz City High,Santa Cruz,932,413,531,534,528,263
+44698234430096,S,Ark Independent Studies,Santa Cruz City High,Santa Cruz,34,1,,,,
+44698234430187,S,Delta Charter,Santa Cruz City High,Santa Cruz,52,1,,,,
+44698234430195,S,Alternative Family Education,Santa Cruz City High,Santa Cruz,13,0,,,,
+44698234432340,S,Harbor High,Santa Cruz City High,Santa Cruz,242,123,498,518,497,60
+44698234437109,S,Santa Cruz High,Santa Cruz City High,Santa Cruz,266,161,555,570,547,116
+44698234437406,S,Soquel High,Santa Cruz City High,Santa Cruz,251,127,534,505,532,85
+44754320000000,D,,Scotts Valley Unified,Santa Cruz,174,121,550,551,547,88
+44754324430211,S,Scotts Valley High,Scotts Valley Unified,Santa Cruz,174,121,550,551,547,88
+45104540000000,D,,Shasta County Office of Education,Shasta,58,0,,,,
+45698560000000,D,,Anderson Union High,Shasta,470,97,498,507,477,52
+45698564530028,S,West Valley High,Anderson Union High,Shasta,219,65,498,512,480,35
+45698564530051,S,Oakview High (Alternative),Anderson Union High,Shasta,43,0,,,,
+45698564530333,S,Anderson New Technology High,Anderson Union High,Shasta,43,10,,,,
+45698564530804,S,Anderson High,Anderson Union High,Shasta,140,22,472,484,455,8
+45699890000000,D,,Fall River Joint Unified,Shasta,63,21,513,530,510,12
+45699894531000,S,Burney Junior-Senior High,Fall River Joint Unified,Shasta,21,4,,,,
+45699894533600,S,Fall River Junior-Senior High,Fall River Joint Unified,Shasta,36,17,508,535,511,10
+45701100000000,D,,Redding Elementary,Shasta,23,2,,,,
+45701104530341,S,Stellar Secondary Charter High,Redding Elementary,Shasta,23,2,,,,
+45701360000000,D,,Shasta Union High,Shasta,1226,302,558,559,535,214
+45701360106013,S,University Preparatory,Shasta Union High,Shasta,94,74,577,568,551,59
+45701364530044,S,Foothill High,Shasta Union High,Shasta,278,60,557,577,528,46
+45701364530267,S,Shasta Charter Academy,Shasta Union High,Shasta,69,8,,,,
+45701364530309,S,North State Independence High,Shasta Union High,Shasta,62,0,,,,
+45701364532750,S,Enterprise High,Shasta Union High,Shasta,289,70,536,544,507,40
+45701364537304,S,Shasta High,Shasta Union High,Shasta,292,90,554,549,546,61
+45701690000000,D,,Whitmore Union Elementary,Shasta,11,0,,,,
+45701690129957,S,Northern Summit Academy,Whitmore Union Elementary,Shasta,11,0,,,,
+45752670000000,D,,Gateway Unified,Shasta,266,47,507,493,478,22
+45752670120170,S,Academy of Personalized Learning,Gateway Unified,Shasta,72,9,,,,
+45752674530101,S,Gateway Educational Options,Gateway Unified,Shasta,16,0,,,,
+45752674531901,S,Central Valley High,Gateway Unified,Shasta,150,38,483,487,467,15
+46701770000000,D,,Sierra-Plumas Joint Unified,Sierra,24,10,,,,
+46701774632303,S,Downieville Junior-Senior High,Sierra-Plumas Joint Unified,Sierra,4,1,,,,
+46701774634259,S,Loyalton High,Sierra-Plumas Joint Unified,Sierra,16,9,,,,
+47104700000000,D,,Siskiyou County Office of Education,Siskiyou,40,1,,,,
+47104700117168,S,Golden Eagle Charter,Siskiyou County Office of Education,Siskiyou,28,1,,,,
+47702500000000,D,,Dunsmuir Joint Union High,Siskiyou,14,3,,,,
+47702504732707,S,Dunsmuir High,Dunsmuir Joint Union High,Siskiyou,14,3,,,,
+47704660000000,D,,Siskiyou Union High,Siskiyou,118,55,504,489,491,26
+47704664734356,S,Happy Camp High,Siskiyou Union High,Siskiyou,14,7,,,,
+47704664735403,S,Mt. Shasta High,Siskiyou Union High,Siskiyou,57,32,529,501,513,17
+47704664738753,S,Weed High,Siskiyou Union High,Siskiyou,36,16,474,481,467,8
+47705160000000,D,,Yreka Union High,Siskiyou,160,53,517,520,482,24
+47705164739207,S,Yreka High,Yreka Union High,Siskiyou,147,53,517,520,482,24
+47736840000000,D,,Butte Valley Unified,Siskiyou,16,3,,,,
+47736844731253,S,Butte Valley High,Butte Valley Unified,Siskiyou,16,3,,,,
+47764550000000,D,,Scott Valley Unified,Siskiyou,42,21,527,516,488,11
+47764554733309,S,Etna Union High,Scott Valley Unified,Siskiyou,37,21,527,516,488,11
+48104880000000,D,,Solano County Office of Education,Solano,54,0,,,,
+48705240000000,D,,Benicia Unified,Solano,443,183,554,560,538,126
+48705244831004,S,Benicia High,Benicia Unified,Solano,396,183,554,560,538,126
+48705320000000,D,,Dixon Unified,Solano,337,133,489,517,472,65
+48705324832259,S,Dixon High,Dixon Unified,Solano,286,133,489,517,472,65
+48705400000000,D,,Fairfield-Suisun Unified,Solano,1574,521,487,487,484,216
+48705400123356,S,Matt Garcia Learning Center,Fairfield-Suisun Unified,Solano,31,0,,,,
+48705404830170,S,Angelo Rodriguez High,Fairfield-Suisun Unified,Solano,477,251,490,487,489,111
+48705404830451,S,Armijo High,Fairfield-Suisun Unified,Solano,496,181,498,504,494,80
+48705404833000,S,Fairfield High,Fairfield-Suisun Unified,Solano,291,89,458,453,451,25
+48705650000000,D,,Travis Unified,Solano,375,180,513,510,504,98
+48705654838801,S,Vanden High,Travis Unified,Solano,325,180,513,510,504,98
+48705730000000,D,,Vacaville Unified,Solano,966,425,500,520,491,225
+48705734830089,S,Will C. Wood High,Vacaville Unified,Solano,335,137,487,523,475,59
+48705734830113,S,Elise P. Buckingham Charter Magnet High,Vacaville Unified,Solano,120,51,545,537,533,39
+48705734837803,S,Vacaville High,Vacaville Unified,Solano,453,237,499,515,492,127
+48705810000000,D,,Vallejo City Unified,Solano,1010,236,446,449,436,61
+48705814830147,S,Jesse M. Bethel High,Vallejo City Unified,Solano,391,144,453,464,447,45
+48705814830196,S,MIT Academy,Vallejo City Unified,Solano,64,0,,,,
+48705814838504,S,Vallejo High,Vallejo City Unified,Solano,395,92,434,426,418,16
+49104960000000,D,,Sonoma County Office of Education,Sonoma,115,0,,,,
+49706070000000,D,,West Sonoma County Union High,Sonoma,507,219,545,551,535,147
+49706074930400,S,Analy High,West Sonoma County Union High,Sonoma,300,154,551,563,544,109
+49706074931507,S,El Molino High,West Sonoma County Union High,Sonoma,162,65,532,523,514,38
+49706560000000,D,,Cloverdale Unified,Sonoma,107,37,465,473,468,10
+49706564930855,S,Cloverdale High,Cloverdale Unified,Sonoma,89,37,465,473,468,10
+49707060000000,D,,Geyserville Unified,Sonoma,23,0,,,,
+49707060129981,S,Geyserville New Tech Academy,Geyserville Unified,Sonoma,20,0,,,,
+49707300000000,D,,Harmony Union Elementary,Sonoma,59,5,,,,
+49707306120588,S,Pathways Charter,Harmony Union Elementary,Sonoma,59,5,,,,
+49707970000000,D,,Liberty Elementary,Sonoma,69,4,,,,
+49707970107284,S,California Virtual Academy @ Sonoma,Liberty Elementary,Sonoma,69,4,,,,
+49708390000000,D,,Oak Grove Union Elementary,Sonoma,36,2,,,,
+49708390120584,S,Pivot Online Charter - North Bay,Oak Grove Union Elementary,Sonoma,36,2,,,,
+49708620000000,D,,Petaluma Joint Union High,Sonoma,809,377,543,551,536,256
+49708620128157,S,Gateway to College Academy,Petaluma Joint Union High,Sonoma,32,0,,,,
+49708624930012,S,Casa Grande High,Petaluma Joint Union High,Sonoma,402,201,526,549,525,124
+49708624930236,S,Valley Oaks High (Alternative),Petaluma Joint Union High,Sonoma,22,2,,,,
+49708624935151,S,Petaluma High,Petaluma Joint Union High,Sonoma,305,174,560,553,550,131
+49708700000000,D,,Piner-Olivet Union Elementary,Sonoma,16,1,,,,
+49708700106344,S,Northwest Prep Charter,Piner-Olivet Union Elementary,Sonoma,16,1,,,,
+49709040000000,D,,Roseland,Sonoma,114,80,406,406,410,7
+49709040101923,S,Roseland Charter,Roseland,Sonoma,114,80,406,406,410,7
+49709200000000,D,,Santa Rosa High,Sonoma,2045,592,538,551,533,385
+49709200108811,S,Abraxis Charter,Santa Rosa High,Sonoma,18,0,,,,
+49709204930160,S,Elsie Allen High,Santa Rosa High,Sonoma,233,52,451,476,457,12
+49709204930244,S,Maria Carrillo High,Santa Rosa High,Sonoma,351,180,571,587,563,145
+49709204934154,S,Montgomery High,Santa Rosa High,Sonoma,420,147,540,563,535,98
+49709204935292,S,Piner High,Santa Rosa High,Sonoma,226,71,480,490,476,30
+49709204936803,S,Santa Rosa High,Santa Rosa High,Sonoma,462,142,554,550,549,100
+49709530000000,D,,Sonoma Valley Unified,Sonoma,306,139,478,496,481,61
+49709534937256,S,Sonoma Valley High,Sonoma Valley Unified,Sonoma,295,139,478,496,481,61
+49709610000000,D,,Twin Hills Union Elementary,Sonoma,25,5,,,,
+49709614930319,S,Orchard View,Twin Hills Union Elementary,Sonoma,25,5,,,,
+49738820000000,D,,Cotati-Rohnert Park Unified,Sonoma,465,155,499,508,489,71
+49738820123786,S,Credo High,Cotati-Rohnert Park Unified,Sonoma,30,0,,,,
+49738820127092,S,Academy of Arts and Sciences: Sonoma,Cotati-Rohnert Park Unified,Sonoma,7,2,,,,
+49738824930384,S,Technology High,Cotati-Rohnert Park Unified,Sonoma,55,35,574,587,567,30
+49738824935482,S,Rancho Cotate High,Cotati-Rohnert Park Unified,Sonoma,351,118,478,484,467,40
+49753580000000,D,,Windsor Unified,Sonoma,429,160,518,496,516,86
+49753584930228,S,Windsor High,Windsor Unified,Sonoma,367,160,518,496,516,86
+49753900000000,D,,Healdsburg Unified,Sonoma,158,55,518,526,508,31
+49753904932554,S,Healdsburg High,Healdsburg Unified,Sonoma,147,55,518,526,508,31
+50105040000000,D,,Stanislaus County Office of Education,Stanislaus,625,15,523,476,489,8
+50105040129023,S,Stanislaus Alternative Charter,Stanislaus County Office of Education,Stanislaus,274,0,,,,
+50105045030234,S,Valley Charter High,Stanislaus County Office of Education,Stanislaus,60,15,523,476,489,8
+50710430000000,D,,Ceres Unified,Stanislaus,934,368,450,450,446,98
+50710430107136,S,Whitmore Charter High,Ceres Unified,Stanislaus,40,18,561,522,542,11
+50710430108076,S,Central Valley High,Ceres Unified,Stanislaus,359,203,434,434,433,43
+50710435030168,S,Endeavor Alternative,Ceres Unified,Stanislaus,71,0,,,,
+50710435030879,S,Ceres High,Ceres Unified,Stanislaus,358,147,458,464,450,44
+50710680000000,D,,Denair Unified,Stanislaus,181,46,467,450,447,11
+50710685030267,S,Denair Charter Academy,Denair Unified,Stanislaus,98,2,,,,
+50710685031521,S,Denair High,Denair Unified,Stanislaus,83,44,473,450,449,11
+50710920000000,D,,Hart-Ransom Union Elementary,Stanislaus,5,2,,,,
+50710926112965,S,Hart-Ransom Academic Charter,Hart-Ransom Union Elementary,Stanislaus,5,2,,,,
+50711340000000,D,,Keyes Union,Stanislaus,29,6,,,,
+50711346113286,S,Keyes to Learning Charter,Keyes Union,Stanislaus,29,6,,,,
+50711750000000,D,,Modesto City High,Stanislaus,3585,1244,484,487,472,496
+50711750110593,S,James C. Enochs High,Modesto City High,Stanislaus,546,245,499,514,487,118
+50711750120212,S,Aspire Vanguard College Preparatory Academy,Modesto City High,Stanislaus,10,10,,,,
+50711750121129,S,Joseph A. Gregori High,Modesto City High,Stanislaus,528,233,480,479,465,82
+50711755030010,S,Fred C. Beyer High,Modesto City High,Stanislaus,527,152,509,509,489,75
+50711755030135,S,Peter Johansen High,Modesto City High,Stanislaus,404,140,449,446,435,33
+50711755031380,S,Grace M. Davis High,Modesto City High,Stanislaus,309,81,460,454,442,21
+50711755031802,S,Thomas Downey High,Modesto City High,Stanislaus,392,136,494,499,483,62
+50711755034905,S,Modesto High,Modesto City High,Stanislaus,539,247,481,484,479,101
+50712170000000,D,,Patterson Joint Unified,Stanislaus,447,163,441,435,437,34
+50712175030127,S,Del Puerto High,Patterson Joint Unified,Stanislaus,96,1,,,,
+50712175036256,S,Patterson High,Patterson Joint Unified,Stanislaus,350,162,440,435,437,34
+50736010000000,D,,Newman-Crows Landing Unified,Stanislaus,203,76,428,452,444,22
+50736015035902,S,Orestimba High,Newman-Crows Landing Unified,Stanislaus,182,76,428,452,444,22
+50755490000000,D,,Hughson Unified,Stanislaus,181,87,471,476,456,26
+50755495032651,S,Hughson High,Hughson Unified,Stanislaus,168,87,471,476,456,26
+50755560000000,D,,Riverbank Unified,Stanislaus,183,66,433,458,434,16
+50755565036850,S,Riverbank High,Riverbank Unified,Stanislaus,136,66,433,458,434,16
+50755640000000,D,,Oakdale Joint Unified,Stanislaus,435,140,509,510,501,64
+50755645030176,S,Oakdale Charter High,Oakdale Joint Unified,Stanislaus,16,2,,,,
+50755645030192,S,Valley Oak Junior and Senior High,Oakdale Joint Unified,Stanislaus,14,0,,,,
+50755645035654,S,Oakdale High,Oakdale Joint Unified,Stanislaus,353,138,509,511,502,64
+50755720000000,D,,Waterford Unified,Stanislaus,366,91,493,491,479,39
+50755725030259,S,Waterford High,Waterford Unified,Stanislaus,145,57,464,481,465,21
+50755725030317,S,Connecting Waters Charter,Waterford Unified,Stanislaus,203,34,541,506,504,18
+50757390000000,D,,Turlock Unified,Stanislaus,1157,464,484,494,479,192
+50757390124669,S,eCademy Charter at Crane,Turlock Unified,Stanislaus,36,1,,,,
+50757390131185,S,Fusion Charter,Turlock Unified,Stanislaus,31,0,,,,
+50757395030283,S,John H. Pitman High,Turlock Unified,Stanislaus,467,234,483,495,480,100
+50757395036884,S,Roselawn High,Turlock Unified,Stanislaus,134,1,,,,
+50757395037700,S,Turlock High,Turlock Unified,Stanislaus,484,228,486,493,479,91
+51105120000000,D,,Sutter County Office of Education,Sutter,102,0,,,,
+51713730000000,D,,East Nicolaus Joint Union High,Sutter,79,34,507,505,487,17
+51713735132758,S,East Nicolaus High,East Nicolaus Joint Union High,Sutter,79,34,507,505,487,17
+51713990000000,D,,Live Oak Unified,Sutter,119,59,434,457,426,7
+51713995135256,S,Live Oak High,Live Oak Unified,Sutter,100,59,434,457,426,7
+51714070000000,D,,Marcum-Illinois Union Elementary,Sutter,150,13,523,488,465,6
+51714070109793,S,South Sutter Charter,Marcum-Illinois Union Elementary,Sutter,150,13,523,488,465,6
+51714150000000,D,,Meridian Elementary,Sutter,67,0,,,,
+51714150129007,S,California Virtual Academy @ Sutter,Meridian Elementary,Sutter,67,0,,,,
+51714490000000,D,,Sutter Union High,Sutter,176,78,492,499,471,32
+51714495137500,S,Sutter High,Sutter Union High,Sutter,161,78,492,499,471,32
+51714640000000,D,,Yuba City Unified,Sutter,947,282,485,496,476,113
+51714640107722,S,River Valley High,Yuba City Unified,Sutter,383,145,488,502,479,64
+51714645130018,S,Albert Powell Continuation,Yuba City Unified,Sutter,113,2,,,,
+51714645130075,S,Yuba City Unified Alternative,Yuba City Unified,Sutter,38,0,,,,
+51714645130125,S,Yuba City Charter,Yuba City Unified,Sutter,16,1,,,,
+51714645139001,S,Yuba City High,Yuba City Unified,Sutter,394,134,483,493,476,49
+52105200000000,D,,Tehama County Office of Education,Tehama,42,1,,,,
+52105206119671,S,Tehama eLearning Academy,Tehama County Office of Education,Tehama,34,1,,,,
+52715060000000,D,,Corning Union High,Tehama,258,53,478,469,452,17
+52715065231709,S,Corning High,Corning Union High,Tehama,230,53,478,469,452,17
+52715710000000,D,,Los Molinos Unified,Tehama,38,20,449,445,412,4
+52715715235106,S,Los Molinos High,Los Molinos Unified,Tehama,37,20,449,445,412,4
+52716390000000,D,,Red Bluff Joint Union High,Tehama,380,84,499,526,490,44
+52716395237201,S,Red Bluff High,Red Bluff Joint Union High,Tehama,334,84,499,526,490,44
+53738330000000,D,,Southern Trinity Joint Unified,Trinity,5,2,,,,
+53738335337423,S,Southern Trinity High,Southern Trinity Joint Unified,Trinity,4,2,,,,
+53750280000000,D,,Mountain Valley Unified,Trinity,23,3,,,,
+53750285337407,S,Hayfork High,Mountain Valley Unified,Trinity,19,3,,,,
+53765130000000,D,,Trinity Alps Unified,Trinity,85,30,498,490,462,15
+53765135337456,S,Trinity High,Trinity Alps Unified,Trinity,84,30,498,490,462,15
+54105460000000,D,,Tulare County Office of Education,Tulare,241,28,541,498,519,18
+54105460119602,S,University Preparatory High,Tulare County Office of Education,Tulare,35,23,514,481,498,13
+54105465430327,S,La Sierra High,Tulare County Office of Education,Tulare,40,0,,,,
+54105466119291,S,Eleanor Roosevelt Community Learning Center,Tulare County Office of Education,Tulare,8,5,,,,
+54718030000000,D,,Alpaugh Unified,Tulare,48,9,,,,
+54718030112458,S,Central California Connections Academy,Alpaugh Unified,Tulare,33,3,,,,
+54718035430301,S,Alpaugh Junior-Senior High,Alpaugh Unified,Tulare,13,6,,,,
+54718370000000,D,,Burton Elementary,Tulare,47,11,405,391,396,2
+54718370109009,S,Summit Charter Academy,Burton Elementary,Tulare,23,10,,,,
+54718370122705,S,Burton Pathways Charter Academy,Burton Elementary,Tulare,24,1,,,,
+54718600000000,D,,Cutler-Orosi Joint Unified,Tulare,276,97,412,419,414,11
+54718605430095,S,Esperanza High,Cutler-Orosi Joint Unified,Tulare,20,0,,,,
+54718605433230,S,Orosi High,Cutler-Orosi Joint Unified,Tulare,208,97,412,419,414,11
+54719930000000,D,,Lindsay Unified,Tulare,290,115,411,404,415,16
+54719930124776,S,Loma Vista Charter,Lindsay Unified,Tulare,24,0,,,,
+54719935432414,S,Lindsay Senior High,Lindsay Unified,Tulare,226,115,411,404,415,16
+54721400000000,D,,Stone Corral Elementary,Tulare,249,0,,,,
+54721400123273,S,Crescent Valley Public Charter,Stone Corral Elementary,Tulare,249,0,,,,
+54722490000000,D,,Tulare Joint Union High,Tulare,1226,439,449,457,444,109
+54722490116368,S,Mission Oak High,Tulare Joint Union High,Tulare,383,162,437,452,435,41
+54722490130708,S,Sierra Vista Charter High,Tulare Joint Union High,Tulare,54,0,,,,
+54722495435409,S,Tulare Union High,Tulare Joint Union High,Tulare,351,146,460,468,447,37
+54722495435466,S,Tulare Western High,Tulare Joint Union High,Tulare,390,131,451,450,452,31
+54722560000000,D,,Visalia Unified,Tulare,2075,701,484,479,476,272
+54722560109751,S,Visalia Charter Independent Study,Visalia Unified,Tulare,234,11,437,422,442,2
+54722560120659,S,Visalia Technical Early College,Visalia Unified,Tulare,46,0,,,,
+54722565430046,S,Golden West High,Visalia Unified,Tulare,353,125,478,469,468,39
+54722565430368,S,El Diamante High,Visalia Unified,Tulare,421,208,480,465,475,76
+54722565432828,S,Mt. Whitney High,Visalia Unified,Tulare,340,132,478,478,460,49
+54722565434527,S,Redwood High,Visalia Unified,Tulare,493,225,497,500,493,106
+54753250000000,D,,Farmersville Unified,Tulare,181,79,399,413,400,6
+54753255430210,S,Farmersville High,Farmersville Unified,Tulare,144,79,399,413,400,6
+54755230000000,D,,Porterville Unified,Tulare,1569,515,446,462,443,145
+54755230114348,S,Butterfield Charter High,Porterville Unified,Tulare,140,0,,,,
+54755230116590,S,Harmony Magnet Academy,Porterville Unified,Tulare,106,80,472,483,464,27
+54755235430251,S,Granite Hills High,Porterville Unified,Tulare,217,78,444,441,433,16
+54755235430350,S,Prospect Education Center,Porterville Unified,Tulare,36,0,,,,
+54755235432786,S,Monache High,Porterville Unified,Tulare,466,163,458,487,447,56
+54755235434113,S,Porterville High,Porterville Unified,Tulare,436,167,431,449,442,43
+54755235434931,S,Strathmore High,Porterville Unified,Tulare,66,27,393,383,388,3
+54755310000000,D,,Dinuba Unified,Tulare,530,182,422,434,412,28
+54755310102186,S,Ronald Reagan Academy,Dinuba Unified,Tulare,84,0,,,,
+54755315431184,S,Dinuba High,Dinuba Unified,Tulare,424,182,422,434,412,28
+54767940000000,D,,Woodlake Unified,Tulare,156,70,443,448,438,13
+54767945436282,S,Woodlake High,Woodlake Unified,Tulare,136,70,443,448,438,13
+54768360000000,D,,Exeter Unified,Tulare,258,72,478,486,485,30
+54768365430087,S,Exeter Independent Study (Alternative),Exeter Unified,Tulare,18,0,,,,
+54768365431598,S,Exeter Union High,Exeter Unified,Tulare,209,72,478,486,485,30
+55723630000000,D,,Jamestown Elementary,Tuolumne,18,9,,,,
+55723630100099,S,California Virtual Academy @ Jamestown,Jamestown Elementary,Tuolumne,18,9,,,,
+55723890000000,D,,Sonora Union High,Tuolumne,307,74,530,522,512,43
+55723895530043,S,Theodore Bird High,Sonora Union High,Tuolumne,39,1,,,,
+55723895536503,S,Sonora High,Sonora Union High,Tuolumne,241,73,530,524,514,43
+55724130000000,D,,Summerville Union High,Tuolumne,191,58,504,489,491,25
+55724130112276,S,Gold Rush Charter,Summerville Union High,Tuolumne,42,0,,,,
+55724135530191,S,Connections Visual and Performing Arts Academy,Summerville Union High,Tuolumne,36,0,,,,
+55724135536750,S,Summerville High,Summerville Union High,Tuolumne,106,58,504,489,491,25
+55751840000000,D,,Big Oak Flat-Groveland Unified,Tuolumne,34,8,,,,
+55751845530076,S,Tioga High,Big Oak Flat-Groveland Unified,Tuolumne,20,5,,,,
+55751845530084,S,Don Pedro High,Big Oak Flat-Groveland Unified,Tuolumne,14,3,,,,
+56105610000000,D,,Ventura County Office of Education,Ventura,680,4,,,,
+56105610109900,S,Vista Real Charter High,Ventura County Office of Education,Ventura,587,3,,,,
+56105610122713,S,River Oaks Academy,Ventura County Office of Education,Ventura,7,1,,,,
+56724540000000,D,,Fillmore Unified,Ventura,277,84,471,493,451,28
+56724545632021,S,Fillmore Senior High,Fillmore Unified,Ventura,216,84,471,493,451,28
+56724700000000,D,,Mesa Union Elementary,Ventura,22,6,,,,
+56724705630363,S,Golden Valley Charter,Mesa Union Elementary,Ventura,22,6,,,,
+56725040000000,D,,Mupu Elementary,Ventura,72,6,,,,
+56725040127043,S,Academy of Arts and Sciences: Thousand Oaks & Simi,Mupu Elementary,Ventura,41,5,,,,
+56725040127076,S,Academy of Arts and Sciences: Oxnard & Ventura,Mupu Elementary,Ventura,31,1,,,,
+56725200000000,D,,Ojai Unified,Ventura,209,93,521,529,505,52
+56725205634076,S,Nordhoff High,Ojai Unified,Ventura,172,93,521,529,505,52
+56725460000000,D,,Oxnard Union High,Ventura,4124,1191,476,490,471,481
+56725460120634,S,"Architecture, Construction & Engineering Charter H",Oxnard Union High,Ventura,41,0,,,,
+56725460125674,S,Condor High,Oxnard Union High,Ventura,313,0,,,,
+56725465630389,S,Pacifica High,Oxnard Union High,Ventura,782,236,460,467,454,77
+56725465631619,S,Adolfo Camarillo High,Oxnard Union High,Ventura,627,271,530,561,521,184
+56725465631742,S,Channel Islands High,Oxnard Union High,Ventura,587,167,431,448,432,39
+56725465632849,S,Hueneme High,Oxnard Union High,Ventura,392,93,433,424,432,16
+56725465634548,S,Oxnard High,Oxnard Union High,Ventura,637,269,474,484,469,100
+56725465634761,S,Rio Mesa High,Oxnard Union High,Ventura,414,155,485,493,476,65
+56726030000000,D,,Simi Valley Unified,Ventura,1479,446,533,548,527,283
+56726035630249,S,Monte Vista,Simi Valley Unified,Ventura,54,6,,,,
+56726035630322,S,Santa Susana High,Simi Valley Unified,Ventura,248,99,564,573,556,79
+56726035635008,S,Royal High,Simi Valley Unified,Ventura,471,148,520,529,514,90
+56726035636188,S,Simi Valley High,Simi Valley Unified,Ventura,562,193,528,551,524,112
+56726520000000,D,,Ventura Unified,Ventura,1371,554,525,524,512,330
+56726525630298,S,El Camino High,Ventura Unified,Ventura,89,30,563,515,537,23
+56726525630348,S,Foothill Technology High,Ventura Unified,Ventura,242,185,542,539,530,121
+56726525630793,S,Buena High,Ventura Unified,Ventura,465,147,507,513,489,81
+56726525637822,S,Ventura High,Ventura Unified,Ventura,485,192,517,519,508,105
+56737590000000,D,,Conejo Valley Unified,Ventura,1850,1121,557,574,553,807
+56737590123349,S,Century Academy,Conejo Valley Unified,Ventura,27,9,,,,
+56737595630116,S,Westlake High,Conejo Valley Unified,Ventura,575,389,570,592,573,298
+56737595633748,S,Newbury Park High,Conejo Valley Unified,Ventura,638,396,555,570,542,276
+56737595637004,S,Thousand Oaks High,Conejo Valley Unified,Ventura,539,327,543,559,540,227
+56738740000000,D,,Oak Park Unified,Ventura,425,263,576,583,581,205
+56738745630132,S,Oak Park High,Oak Park Unified,Ventura,374,248,580,591,586,198
+56738745630199,S,Oak View High,Oak Park Unified,Ventura,8,1,,,,
+56738745630256,S,Oak Park Independent,Oak Park Unified,Ventura,43,14,519,459,488,6
+56739400000000,D,,Moorpark Unified,Ventura,599,260,540,546,532,177
+56739400121426,S,IvyTech Charter,Moorpark Unified,Ventura,43,0,,,,
+56739405630371,S,The High School at Moorpark College,Moorpark Unified,Ventura,18,23,527,506,519,15
+56739405633250,S,Moorpark High,Moorpark Unified,Ventura,486,237,541,550,533,162
+56768280000000,D,,Santa Paula Unified,Ventura,407,145,416,431,421,17
+56768285635776,S,Santa Paula High,Santa Paula Unified,Ventura,341,145,416,431,421,17
+57105790000000,D,,Yolo County Office of Education,Yolo,61,0,,,,
+57726780000000,D,,Davis Joint Unified,Yolo,766,541,595,613,586,463
+57726780119578,S,Da Vinci Charter Academy,Davis Joint Unified,Yolo,103,77,589,573,558,70
+57726785730098,S,Davis School for Independent Study,Davis Joint Unified,Yolo,37,7,,,,
+57726785732201,S,Davis Senior High,Davis Joint Unified,Yolo,587,457,596,620,590,386
+57726860000000,D,,Esparto Unified,Yolo,68,32,448,451,449,9
+57726865732904,S,Esparto High,Esparto Unified,Yolo,63,32,448,451,449,9
+57726940000000,D,,Washington Unified,Yolo,555,234,457,451,442,61
+57726945735154,S,River City High,Washington Unified,Yolo,474,226,457,453,443,60
+57727020000000,D,,Winters Joint Unified,Yolo,129,45,487,467,473,16
+57727025738505,S,Winters High,Winters Joint Unified,Yolo,115,45,487,467,473,16
+57727100000000,D,,Woodland Joint Unified,Yolo,705,267,478,473,461,95
+57727100101162,S,Pioneer High,Woodland Joint Unified,Yolo,340,149,478,476,455,51
+57727105738802,S,Woodland Senior High,Woodland Joint Unified,Yolo,277,118,477,469,468,44
+58105870000000,D,,Yuba County Office of Education,Yuba,149,0,,,,
+58105875830112,S,Yuba County Career Preparatory Charter,Yuba County Office of Education,Yuba,97,0,,,,
+58727280000000,D,,Camptonville Elementary,Yuba,34,10,,,,
+58727286115935,S,Camptonville Academy,Camptonville Elementary,Yuba,34,10,,,,
+58727360000000,D,,Marysville Joint Unified,Yuba,680,147,465,481,458,53
+58727365830013,S,Lindhurst High,Marysville Joint Unified,Yuba,221,65,428,450,423,13
+58727365830054,S,Lincoln (Abraham) (Alternative),Marysville Joint Unified,Yuba,97,0,,,,
+58727365830138,S,Marysville Charter Academy for the Arts,Marysville Joint Unified,Yuba,41,29,501,494,484,16
+58727365835202,S,Marysville High,Marysville Joint Unified,Yuba,197,53,489,513,487,24
+58727690000000,D,,Wheatland Union High,Yuba,160,54,480,475,463,21
+58727695838305,S,Wheatland Union High,Wheatland Union High,Yuba,160,54,480,475,463,21

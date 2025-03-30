@@ -1,0 +1,95 @@
+Below are some examples:
+
+Example 1 -
+Table:
+name: grocery_shop
+
+item_description,sell_price,buy_price
+"Indulge your senses with this botanical blend of rosemary and lavender. Gently cleanses while nourishing your hair, leaving it soft, shiny, and revitalized.",7.99,4.99
+"A mild and effective formula that cleanses without stripping your hair's natural oils. Perfect for daily use, it leaves your hair feeling refreshed and healthy.",5.99,3.49
+"This light, vegetable-based oil is perfect for frying, sautéing, and baking. Its high smoke point ensures even cooking and a crispy finish.",4.99,2.99
+"Infused with a blend of olive and sunflower oils, this cooking oil adds a rich, buttery flavor to your dishes. Ideal for roasting, grilling, and drizzling.",6.99,4.49
+"Cut through grease and grime with this powerful, yet gentle cleaner. Its citrus scent leaves your home smelling fresh and clean.",3.99,2.49
+
+column descriptions:
+Column Name, Data Type, Description
+item_description, TEXT,Detailed description of the product.
+sell_price, DECIMAL(5,2),Selling price of the product.
+buy_price, DECIMAL(5,2),Buying price of the product.
+
+Question: Which item category has the highest average profit?
+
+Plan:
+Step 1: LLM - Item_category column needs to be created using item_description column.
+Step 2: SQL - Calculate average profit for each category and find the maximum.
+
+
+Example 2 -
+Table:
+Order ID | Product    | Event               | Timestamp (Local)     | Location
+101 | Laptop     | Dispatched          | 2025-01-14 08:00 AM   | Los Angeles, USA
+101 | Laptop     | Arrived at Hub      | 2025-01-15 03:00 AM   | Chicago, USA
+101 | Laptop     | Dispatched          | 2025-01-15 10:00 AM   | Chicago, USA
+101 | Laptop     | Arrived at Hub      | 2025-01-16 05:00 PM   | London, UK
+101 | Laptop     | Delivered           | 2025-01-17 01:00 PM   | Berlin, Germany
+102 | Smartphone | Dispatched          | 2025-01-14 09:30 AM   | San Francisco, USA
+102 | Smartphone | Arrived at Hub      | 2025-01-14 11:30 PM   | Denver, USA
+102 | Smartphone | Dispatched          | 2025-01-15 09:00 AM   | Denver, USA
+102 | Smartphone | Arrived at Hub      | 2025-01-16 04:00 PM   | New York, USA
+102 | Smartphone | Delivered           | 2025-01-17 10:00 AM   | Toronto, Canada
+103 | Tablet     | Dispatched          | 2025-01-14 07:00 AM   | Tokyo, Japan
+103 | Tablet     | Arrived at Hub      | 2025-01-14 03:00 PM   | Shanghai, China
+103 | Tablet     | Dispatched          | 2025-01-14 08:00 PM   | Shanghai, China
+103 | Tablet     | Arrived at Hub      | 2025-01-15 11:00 PM   | Dubai, UAE
+103 | Tablet     | Delivered           | 2025-01-16 05:00 PM   | Munich, Germany
+
+name: order_delivery_history
+
+The order_delivery_history table tracks the delivery process of various products across
+different locations and timestamps. It contains details of each product’s journey,
+with columns capturing the order ID, product name, event (such as dispatched, arrived at hub,
+or delivered), timestamp (local time), and the location of the event.
+
+column descriptions:
+
+Column Name	Data Type	Formatting Required	Short Column Description
+Order ID	Integer	None	Unique identifier for the order
+Product	Varchar	None	Name of the product being delivered
+Event	Varchar	None	Type of event (e.g., Dispatched, Arrived at Hub, Delivered)
+Timestamp (Local)	Datetime	Convert to datetime if necessary	Local time of the event occurrence
+Location	Varchar	None	Geographic location where the event occurred
+
+Question: Which location had the maximum time taken between dispatch at one location and arrival or delivery at a subsequent location?
+
+Plan:
+Step 1:	LLM - Convert local timestamps to UTC time for all events.
+Step 2:	SQL - Sort events within each Order_ID and Product by Timestamp_UTC.
+Step 3:	SQL - Pair Dispatched events with the corresponding Arrived at Hub or Delivered events for each order/product and calculate the time difference.
+Step 4:	SQL - Display the final output with paired events, durations, and relevant information sorted by Order_ID and Product.
+
+
+Example 3-
+Table:
+    Name                 Placing
+0          Shaul Ladani               19
+1     Esther Shahamorov  Semifinal (5th)
+2     Esther Shahamorov        Semifinal
+3              Dan Alon     Second round
+4   Yehuda Weissenstein     Second round
+5         Yair Michaeli               23
+6            Itzhak Nir               23
+7     Henry Hershkowitz               23
+8     Henry Hershkowitz               46
+
+Column descriptions:
+
+| Column Name | Data Type | Formatting Requirements | Column Description |
+|-------------|-----------|------------------------|--------------------|
+| Name        | String    | - No special formatting required. Ensure consistent casing (e.g., title case). | This column contains the names of the athletes who represented Israel in the 1972 Summer Olympics. Each entry is a string representing an individual's full name. |
+| Placing     | String    | - Handle special cases such as "—" (indicating no placement) appropriately.Consider standardizing the format for placements (e.g., "Semifinal (5th)" vs. "Semifinal"). Ensure that numerical placements are stored as strings to accommodate mixed data types. | This column describes the placement of each athlete in their respective events. It can include numerical rankings, descriptions of rounds (e.g., "Heats", "Group stage"), or special indicators for athletes who did not place (e.g., "—"). |
+
+Question: Who has the highest placing rank?
+
+Plan:
+Step 1: SQL - Format the column Placing by extracting only numerical values (e.g. 5 from Semifinal (5th) ) and converting the text into numbers (e.g. Semifinal to 5, Second round to 10).
+Step 2: SQL - Retrieve the highest placing (rank) from the placing column by selecting the minimum number in the list as lower number corresponds to higher rank.

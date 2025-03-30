@@ -1,0 +1,30 @@
+Column Name,Data Type,Primary Key / Foreign Key,Column Description
+CDSCode,VARCHAR(15),True,A unique identifier for each school in the California Department of Education system.
+Academic Year,VARCHAR(10),False,"The academic year for which the data is reported, indicating the start and end year (e.g., 2014-2015)."
+County Code,VARCHAR(2),False,A code representing the county in which the school is located.
+District Code,VARCHAR(5),False,A code representing the school district.
+School Code,VARCHAR(10),False,A unique identifier for each school.
+County Name,VARCHAR(50),False,The name of the county where the school is located.
+District Name,VARCHAR(50),False,The name of the school district.
+School Name,VARCHAR(100),False,The name of the school.
+District Type,VARCHAR(50),False,"The type of school district (e.g., Unified School District, County Office of Education)."
+School Type,VARCHAR(50),False,"The type of school (e.g., Elementary, High School, Charter)."
+Educational Option Type,VARCHAR(50),False,"The type of educational option available at the school (e.g., Traditional, Alternative)."
+NSLP Provision Status,VARCHAR(50),False,"The status of the National School Lunch Program provision (e.g., None, Provision 2)."
+Charter School (Y/N),VARCHAR(1),False,"Indicates whether the school is a charter school (Y for Yes, N for No)."
+Charter School Number,VARCHAR(10),False,A unique identifier for charter schools.
+Charter Funding Type,VARCHAR(50),False,"The type of funding for charter schools (e.g., Directly funded)."
+IRC,VARCHAR(5),False,"The Instructional Resource Code, indicating the type of instructional resources used."
+Low Grade,VARCHAR(2),False,"The lowest grade level offered at the school (e.g., K for Kindergarten)."
+High Grade,VARCHAR(2),False,The highest grade level offered at the school.
+Enrollment (K-12),FLOAT,False,"The total number of students enrolled in grades K-12: 1st grade - 12nd grade".
+Free Meal Count (K-12),FLOAT,False,The number of students eligible for free meals in grades K-12.
+Percent (%) Eligible Free (K-12),FLOAT,False,The percentage of students eligible for free meals in grades K-12.
+FRPM Count (K-12),FLOAT,False,The count of students eligible for the Free and Reduced Price Meal program in grades K-12.
+Percent (%) Eligible FRPM (K-12),FLOAT,False,The percentage of students eligible for the FRPM in grades K-12.
+Enrollment (Ages 5-17),FLOAT,False,The total number of students aged 5-17 enrolled in the school.
+Free Meal Count (Ages 5-17),FLOAT,False,The number of students aged 5-17 eligible for free meals.
+Percent (%) Eligible Free (Ages 5-17),FLOAT,False,The percentage of students aged 5-17 eligible for free meals.
+FRPM Count (Ages 5-17),FLOAT,False,The count of students aged 5-17 eligible for the Free and Reduced Price Meal program.
+Percent (%) Eligible FRPM (Ages 5-17),FLOAT,False,The percentage of students aged 5-17 eligible for the FRPM.
+2013-14 CALPADS Fall 1 Certification Status,VARCHAR(10),False,The certification status for the CALPADS Fall 1 submission for the 2013-14 academic year.

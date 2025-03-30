@@ -1,0 +1,196 @@
+Below are some examples:
+Example 1 -
+
+table name - GPN2007page_39pdf1
+
+Column Description -
+[
+    ["Unnamed_0", "DATE", "Convert to standard date format", "Represents the date of measurement"],
+    ["global_payments", "FLOAT", "Remove '$'", "Value of global payments over time"],
+    ["sp_500", "FLOAT", "Remove '$'", "Value of S&P 500 index over time"],
+    ["sp_information_technology", "FLOAT", "Remove '$'", "Value of S&P Information Technology index over time"]
+]
+
+table :
+nnamed_0 global_payments    sp_500 sp_information_technology
+0  may 31 2002        $ 100.00  $ 100.00                  $ 100.00
+1  may 31 2003           94.20     91.94                     94.48
+2  may 31 2004          129.77    108.79                    115.24
+3  may 31 2005          193.30    117.75                    116.29
+4  may 31 2006          260.35    127.92                    117.14
+5  may 31 2007          224.24    157.08                    144.11
+
+Question: what will be the rate of return for global payments from 2002 to 2003?
+
+Expected Ouput for Example 1 -
+
+Step 1: SQL
+	•	Extract the values of “global_payments” for the years 2002 and 2003.
+	•	Remove the “$” symbol and convert the values to numeric format.
+
+Step 2: SQL
+	•	Compute the rate of return using the formula:
+    Rate of Return = ({Value in 2003 - Value in 2002}/{Value in 2002})* 100
+                    = ((94.2 - 100)/ (100))*100
+                    = -5.8
+
+Step 3: SQL
+	•	Format the output to display the rate of return rounded to two decimal places.
+
+Answer: -5.8%
+
+
+Example 2 -
+
+Table name : GS/2013/page_47.pdf-2
+
+Column Description -
+[
+    ["_in_millions", "STRING", "None", "Category of expenses and total staff count"],
+    ["year_ended_december_2013", "INTEGER", "Remove '$'", "Values for the year 2013"],
+    ["year_ended_december_2012", "INTEGER", "Remove '$'", "Values for the year 2012"],
+    ["year_ended_december_2011", "INTEGER", "Remove '$'", "Values for the year 2011"]
+]
+
+
+table :
+                                                        _in_millions year_ended_december_2013 year_ended_december_2012 year_ended_december_2011
+0                          compensation and benefits                  $ 12613                  $ 12944                  $ 12223
+1   brokerage clearing exchange anddistribution fees                     2341                     2208                     2463
+2                                 market development                      541                      509                      640
+3                      communications and technology                      776                      782                      828
+4                      depreciation and amortization                     1322                     1738                     1865
+5                                          occupancy                      839                      875                     1030
+6                                  professional fees                      930                      867                      992
+7                                insurance reserves1                      176                      598                      529
+8                                     other expenses                     2931                     2435                     2072
+9                    total non-compensation expenses                     9856                    10012                    10419
+10                          total operating expenses                  $ 22469                  $ 22956                  $ 22642
+11                         total staff at period-end                    32900                    32400                    33300
+
+
+Question: what is the percentage change in staff number in 2013?
+
+Expected Ouput for Example 2 -
+
+Step 1: SQL
+	•	Extract the total staff numbers for the years 2013 and 2012 from the “total staff at period-end” row.
+
+Step 2: SQL
+	•	Compute the percentage change using the formula:
+{Percentage Change} = ({{Staff in 2013 end} - {Staff in 2012 end}}/{Staff in 2012 end}) * 100
+                    = ((32900 - 32400)/32400)*100
+                    = 1.54%
+
+Step 3: SQL
+	•	Format the output to display the percentage change rounded to two decimal places.
+
+Answer: 1.54%
+
+Example 3 -
+
+Table name - TSCO2017page_68pdf3
+
+table:
+                                  Unnamed_0 bond_term bond_authorized_amount_in_millions_ amount_drawn_in_millions_
+0     franklin kentucky distribution center  30 years                              $ 54.0                    $ 51.8
+1         macon georgia distribution center  15 years                              $ 58.0                    $ 49.9
+2  brentwood tennessee store support center  10 years                              $ 78.0                    $ 75.3
+
+Question - what was the total amount lost from the bond authorization to the withdrawn?
+
+Column Descriptions:
+Unnamed_0 – Name or location of the facility/project for which the bond was issued.
+bond_term – Duration of the bond in years.
+bond_authorized_amount_in_millions_ – The total amount of the bond that has been approved for issuance, in millions of dollars.
+amount_drawn_in_millions_ – The portion of the authorized bond amount that has been utilized or drawn, in millions of dollars.
+
+Expected Plan Ouput for Example 3 -
+
+Step 1 - Extract the values from bond_authorized_amount_in_millions_ and amount_drawn_in_millions_ columns.
+Step 2 - Sum the values in bond_authorized column and substract it with the sum of amount drawn column.
+        Amount lost = (54 + 58 + 78) - (51.8 + 49.9 + 75.3)
+                    = (190) - (203)
+                    = 13
+Step 3 - Format the output to display the amount.
+
+Answer: $13 million
+
+Example 4 -
+
+Table :
+
+Table Description:
+
+The table “JPM2016page_73pdf4” presents the performance of financial indices and JPMorgan Chase stock from 2011 to 2016. The values represent indexed prices (normalized to 100 in 2011) as of December 31 each year. This dataset helps analyze financial growth trends over time.
+
+Column Details:
+Column Name	Data Type	Formatting	Description
+december_31_in_dollars_	String	Convert to Title Case	Name of the financial index or stock.
+2011	Float	Remove “$” & Convert to Float	Indexed value at the end of 2011 (base year).
+2012	Float	Convert to Float	Indexed value at the end of 2012.
+2013	Float	Convert to Float	Indexed value at the end of 2013.
+2014	Float	Convert to Float	Indexed value at the end of 2014.
+2015	Float	Convert to Float	Indexed value at the end of 2015.
+2016	Float	Convert to Float	Indexed value at the end of 2016.
+
+table :
+    december_31_in_dollars_      2011      2012      2013      2014      2015      2016
+0          jpmorgan chase  $ 100.00  $ 136.18  $ 186.17  $ 204.57  $ 221.68  $ 298.31
+1          kbw bank index    100.00    133.03    183.26    200.42    201.40    258.82
+2     s&p financial index    100.00    128.75    174.57    201.06    197.92    242.94
+3           s&p 500 index    100.00    115.99    153.55    174.55    176.95    198.10
+
+Question: what was the 5 year return of the kbw bank index?
+
+Expected Ouput for Example 4 -
+
+Step 1: SQL
+- Filter the row where `december_31_in_dollars_` is 'kbw bank index'.
+- Select the values for the years 2011 and 2016.
+
+Step 2: SQL
+- Compute the 5-year return using the formula:
+
+  Return = ((Value in 2016 - Value in 2011) / Value in 2011 ) * 100
+           = ((258.82 - 100) / 100) * 100
+           = ((158.82) /100) *100
+           = 158.82
+
+Step 3: SQL
+- Format the result as a percentage.
+
+Answer: 158.82%
+
+Example 5 -
+
+table name: CDNS2012page_30pdf1
+table
+                         Unnamed_0  12292007  132009  122010  112011  12312011  12292012
+0    cadence design systems inc .     100.0   22.55   35.17   48.50     61.07     78.92
+1                nasdaq composite     100.0   59.03   82.25   97.32     98.63    110.78
+2  s&p 400 information technology     100.0   54.60   82.76  108.11     95.48    109.88
+
+Column descriptions:
+
+Unnamed_0: This column lists the entities or indices being compared. In this case, the three entities are:
+Cadence Design Systems Inc.
+NASDAQ Composite
+S&P 400 Information Technology
+12292007: Stock value or index level on 12/29/2007. This is the base value used to calculate the return for subsequent years.
+132009: Stock value or index level on 1/3/2009.
+122010: Stock value or index level on 12/31/2010.
+112011: Stock value or index level on 11/30/2011.
+12312011: Stock value or index level on 12/31/2011.
+12292012: Stock value or index level on 12/29/2012.
+
+Expected output Plan:
+
+Step 1 - Identify the columns 12292007 and 12292012: Initial Value (12/29/2007) = 100.0, Final Value (12/29/2012) = 78.92
+Step 2 - Apply the Formula: Percentage Return = ((Final Value − Initial Value) / Initial Value) *100
+                   Percentage Return = ((78.92 − 100.0) / 100.0) * 100
+                                        = − 21.08%
+
+Step 3 - Extarct the cumulative 5-year total stockholder return for Cadence Design Systems Inc. which is -21.08%.
+
+Answer: -21.08%

@@ -1,0 +1,59 @@
+Below are some examples:
+
+Example 1 -
+Table:
+name: iowa_state_table
+   date                 site          sport            winning_team series
+0    september 4 , 2007  cedar rapids           m golf  iowa state    iowa state 2 - 0
+1    september 8 , 2007    des moines       volleyball  iowa state    iowa state 4 - 0
+2    september 9 , 2007     iowa city         w soccer         tie    iowa state 5 - 1
+3   september 15 , 2007          ames         football  iowa state    iowa state 8 - 1
+4    november 10 , 2007        peoria  m cross country  iowa state   iowa state 10 - 1
+5    november 10 , 2007        peoria  w cross country        iowa   iowa state 10 - 3
+6     december 5 , 2007          ames     w basketball  iowa state   iowa state 12 - 3
+7     december 7 , 2007          ames       w swimming  iowa state   iowa state 14 - 3
+8     december 8 , 2007          ames     m basketball  iowa state   iowa state 16 - 3
+9     december 9 , 2007          ames        wrestling        iowa   iowa state 16 - 5
+10   february 22 , 2008          ames     w gymnastics  iowa state   iowa state 18 - 5
+11       march 7 , 2008     iowa city     w gymnastics        iowa   iowa state 18 - 7
+
+Question - cedar rapids is the site with the earliest date
+
+### Column Details-
+
+| Column Name | Data Type | Formatting Needed | Column Description |
+|-------------|-----------|-------------------|--------------------|
+| date        | DATE      | Format: `YYYY-MM-DD` (e.g., `2007-09-04`) | This column represents the date of the event. It should be stored in a standard date format to facilitate date-based queries and comparisons. |
+| site        | VARCHAR   | Max Length: 50 characters | This column indicates the location where the event took place. It should be stored as a string, allowing for a variety of site names. |
+
+Plan:
+Step 1: SQL - Format the date column to a standard date format (YYYY-MM-DD).
+Step 2: SQL - Retrieve the minimum date for each site.
+Step 3: SQL - Filter the result to check if the earliest date corresponds to cedar rapids.
+Step 4: SQL - Output True if cedar rapids has the earliest date, otherwise False.
+
+Example 2 -
+Table: table_1972_vfl_season
+    away_team        away_team_score
+0         st kilda   9.11 (65)
+1  north melbourne   9.12 (66)
+2         richmond  17.9 (111)
+3  south melbourne   8.15 (63)
+4          geelong   15.8 (98)
+5        melbourne   8.10 (58)
+
+Question - melbourne had the lowest score when playing as the away team
+
+column descriptions:
+
+| Column Name        | Data Type | Formatting Needed                          | Column Description                                                                 |
+|--------------------|-----------|-------------------------------------------|------------------------------------------------------------------------------------|
+| away_team          | VARCHAR   | Should be formatted as a string (e.g., 'st kilda') | The name of the team that played as the away team in the match.                   |
+| away_team_score    | VARCHAR   | Should be formatted as 'X.Y (Z)' where X and Y are integers and Z is the total score | The score of the away team in the match, represented in a specific format: X.Y (Z), where X is the number of goals, Y is the number of behinds, and Z is the total score. |
+
+Plan:
+Step 1: SQL - Extract the numerical score from the away_team_score column by converting the format 'X.Y (Z)' to an integer representing the total score (Z).
+
+Step 2: SQL - Retrieve the minimum score from the extracted scores and identify the corresponding away team.
+
+Step 3: SQL - Check if this away_team is Melbourne and return True or False accordingly

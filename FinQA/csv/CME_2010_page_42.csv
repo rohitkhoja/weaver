@@ -1,0 +1,10 @@
+location,primary use,owned/leased,lease expiration,approximate size ( in squarefeet ) ( 1 )
+20south wacker drive chicagoillinois,global headquarters and office space,leased,2022 ( 2 ),490000
+141west jacksonchicago illinois,chicago trading floor and office space,owned,n/a,1500000 ( 3 )
+550west washingtonchicago illinois,office space,leased,2023,225000
+onenorth endnew york new york,new york trading floor and office space,mixed ( 4 ),2069,500000 ( 5 )
+33cannon street london,office space,leased,2019,14000 ( 6 )
+onenew change london,office space,leased,2026,40000 ( 7 )
+annexdata centerchicagoland area,business continuity,leased,2014,100000
+remotedata centerchicagoland area,business continuity,leased,2017,50000
+datacenter 3chicagoland area,business continuity and co-location,owned,n/a,430000
