@@ -1,5 +1,6 @@
-( in millions ),payments due by period ( 1 ) total,payments due by period ( 1 ) 2007,payments due by period ( 1 ) 2008,payments due by period ( 1 ) 2009,payments due by period ( 1 ) 2010,payments due by period ( 1 ) 2011,payments due by period ( 1 ) thereafter
-long-term debt obligations,$ 4134,$ 1340,$ 198,$ 4,$ 534,$ 607,$ 1451
-lease obligations,2328,351,281,209,178,158,1151
-purchase obligations,1035,326,120,26,12,12,539
-total contractual obligations,$ 7497,$ 2017,$ 599,$ 239,$ 724,$ 777,$ 3141
+,Payments Due by Period<sup>(1)</sup>
+<i>(in millions)</i>,Total,2007,2008,2009,2010,2011,Thereafter
+Long-Term Debt Obligations,"$4,134","$1,340",$198,$4,$534,$607,"$1,451"
+Lease Obligations,"2,328",351,281,209,178,158,"1,151"
+Purchase Obligations,"1,035",326,120,26,12,12,539
+Total Contractual Obligations,"$7,497","$2,017",$599,$239,$724,$777,"$3,141"

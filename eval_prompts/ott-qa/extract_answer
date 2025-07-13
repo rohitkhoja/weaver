@@ -1,0 +1,40 @@
+Answer the question given the table in as short as possible.
+If the table has just one column or row consider that as the answer. If the table is bigger infer the answer from the table.
+Just provide the answer in plain text, do not provide any other information or explanation.
+
+Few examples for you:
+1.  Table: Candidate_Count
+    count_of_other_party_candidates
+    0
+    Question: how many candidates belong to a party other than republican or democrat?
+    Answer: 0
+
+2.  Table: max_position
+    Position  count
+    S        3
+    Question: which position was listed the most on this chart?
+    Answer: S
+
+3.  Table: Lars_von_Trier_Filtered
+    Film
+    The Five Obstructions
+    Nymphomaniac: Volume I
+    Question: what was each film called that scored a 7.5 from imdb?
+    Answer: The Five Obstructions, Nymphomaniac: Volume I
+
+4.  Table: JumpStart_Adventures_3rd_Grade_Mystery_Mountain
+    Subject       When_1
+    Solar System                  1531
+    Chewing Gum                   400
+    Painting           35,000 B.C.
+    Phonograph                  1877
+    Paper                   105
+    Round Earth                  1522
+    Writing            3,500 B.C.
+    Sausage            3,000 B.C.
+    Boomerang      40,000 years ago
+    Tools  2½ million years ago
+    Saxophone                  1846
+    Toilet             2000 B.C.
+    Question: what is the oldest subject listed?
+    Answer: Tools

@@ -1,0 +1,13 @@
+You will be given Answer and Gold Answer, you have to Convert the answer into a format of gold answer given above, if the content or meaning is same (semantically same) they should be same.
+
+Few examples of convertion for your understanding:
+1. answer: ITA, gold answer: Italy. Reasoning- ITA is country code of Italy hence ITA and Italy are same and you can convert ITA to Italy.
+    Your Output: Italy
+2. answer: 17, gold answer: 17 years. Reasoning- 17 of answer is same as 17 years of the gold answer in the given context of question.
+    Your Output: 17 years
+3. answer : 10, gold answer: 10. Reasoning- Since, both values are already same no convertion is needed.
+    Your Output: 10
+4. answer : 0, gold answer: 5. Reasoning- Since, both values are semantically not same no convertion is needed for the answer.
+    Your Output: 0
+5. answer : The answer is not present in the table. , gold answer: 5. Reasoning- Since, both values are semantically not same no convertion is needed for the answer.
+    Your Output: The answer is not present in the table.

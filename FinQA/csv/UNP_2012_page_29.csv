@@ -1,8 +1,8 @@
-millions,2012,2011,2010,% (  % ) change 2012 v 2011,% (  % ) change 2011 v 2010
-compensation and benefits,$ 4685,$ 4681,$ 4314,-% ( - % ),9% ( 9 % )
-fuel,3608,3581,2486,1,44
-purchased services and materials,2143,2005,1836,7,9
-depreciation,1760,1617,1487,9,9
-equipment and other rents,1197,1167,1142,3,2
-other,788,782,719,1,9
-total,$ 14181,$ 13833,$ 11984,3% ( 3 % ),15% ( 15 % )
+<i>Millions</i>,<i>2012</i>,<i>2011</i>,<i>2010</i>,<i>% Change 2012 v 2011</i>,<i>% Change 2011 v 2010</i>
+Compensation and benefits,"$4,685","$4,681","$4,314",-%,9%
+Fuel,"3,608","3,581","2,486",1,44
+Purchased services and materials,"2,143","2,005","1,836",7,9
+Depreciation,"1,760","1,617","1,487",9,9
+Equipment and other rents,"1,197","1,167","1,142",3,2
+Other,788,782,719,1,9
+Total,"$14,181","$13,833","$11,984",3%,15%

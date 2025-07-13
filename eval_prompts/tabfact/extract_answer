@@ -1,0 +1,4 @@
+You will be given Table, and question check if the content or rows matches the question statement or verifies the question statement to be true or false.
+If it explicitly contains True, 1, Yes or correct as rows or columns, or it mentions data which matches the question then assume it to be true.
+In other cases, if it contains incorrect, false, No, or 0 in the table then it is False.
+Only give a final True or False as output. Do not give any other explanation.

@@ -1,8 +1,9 @@
-( in thousands ),"year ended december 31 , 2012","year ended december 31 , 2011","year ended december 31 , 2010"
-united states,$ 265436,$ 215924,$ 188649
-japan,122437,112171,95498
-germany,82008,72301,60399
-canada,12384,12069,9875
-other european,177069,166551,138157
-other international,138684,112433,87658
-total revenue,$ 798018,$ 691449,$ 580236
+,"Year Ended December 31,"
+(in thousands),2012,2011,2010
+United States,"$265,436","$215,924","$188,649"
+Japan,"122,437","112,171","95,498"
+Germany,"82,008","72,301","60,399"
+Canada,"12,384","12,069","9,875"
+Other European,"177,069","166,551","138,157"
+Other international,"138,684","112,433","87,658"
+Total revenue,"$798,018","$691,449","$580,236"

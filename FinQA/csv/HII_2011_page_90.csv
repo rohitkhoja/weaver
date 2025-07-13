@@ -1,0 +1,10 @@
+($ in millions),Employee Compensation,Other Accruals,Total
+"Balance at January 1, 2010",$0,$0,$0
+Accrual established,27,39,66
+Payments,0,0,0
+Adjustments,0,0,0
+"Balance at December 31, 2010",$27,$39,$66
+Accrual established,0,0,0
+Payments,(24),(36),(60)
+Adjustments,47,(3),44
+"Balance at December 31, 2011",$50,$0,$50

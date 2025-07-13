@@ -1,5 +1,5 @@
-period,total number ofsharespurchased [a],averageprice paidper share,total number of sharespurchased as part of apublicly announced planor program [b],maximum number ofshares that may yetbe purchased under the planor program [b]
-oct . 1 through oct . 31,1068414,121.70,1028300,16041399
-nov . 1 through nov . 30,659631,120.84,655000,15386399
-dec . 1 through dec . 31,411683,124.58,350450,15035949
-total,2139728,$ 121.99,2033750,n/a
+<i>Period</i>,<i>Total Number ofSharesPurchased [a]</i>,<i>AveragePrice PaidPer Share</i>,<i>Total Number of Shares</i><i>Purchased as Part of a</i><i>Publicly Announced Plan</i><i>or Program [b]</i>,<i>Maximum Number of</i><i>Shares That May Yet</i><i>Be Purchased Under the Plan</i><i>or Program [b]</i>
+Oct. 1 through Oct. 31,"1,068,414",121.70,"1,028,300","16,041,399"
+Nov. 1 through Nov. 30,"659,631",120.84,"655,000","15,386,399"
+Dec. 1 through Dec. 31,"411,683",124.58,"350,450","15,035,949"
+Total,"2,139,728",$121.99,"2,033,750",N/A

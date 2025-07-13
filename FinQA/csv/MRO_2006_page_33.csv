@@ -1,9 +1,9 @@
-( thousands of barrels per day ),2006,2005,2004
-gasoline,804,836,807
-distillates,375,385,373
-propane,23,22,22
-feedstocks and special products,106,96,92
-heavy fuel oil,26,29,27
-asphalt,91,87,79
-total ( a ),1425,1455,1400
-average sales price ( $ per barrel ),$ 77.76,$ 66.42,$ 49.53
+<i>(Thousands of Barrels per Day) </i>,2006,2005,2004
+Gasoline,804,836,807
+Distillates,375,385,373
+Propane,23,22,22
+Feedstocks and Special Products,106,96,92
+Heavy Fuel Oil,26,29,27
+Asphalt,91,87,79
+TOTAL<sup>(a)</sup>,"1,425","1,455","1,400"
+Average sales price ($ per barrel),$77.76,$66.42,$49.53

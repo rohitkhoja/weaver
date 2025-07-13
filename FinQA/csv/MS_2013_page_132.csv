@@ -1,14 +1,14 @@
-industry,corporate lending exposure ( dollars in millions )
-energy,$ 12240
-utilities,10410
-healthcare,10095
-consumer discretionary,9981
-industrials,9514
-funds exchanges and other financial services ( 1 ),7190
-consumer staples,6788
-information technology,6526
-telecommunications services,5658
-materials,4867
-real estate,4171
-other,5593
-total,$ 93033
+Industry,Corporate Lending Exposure  (dollars in millions)
+Energy,"$12,240"
+Utilities,"10,410"
+Healthcare,"10,095"
+Consumer discretionary,"9,981"
+Industrials,"9,514"
+"Funds, exchanges and other financial services(1)","7,190"
+Consumer staples,"6,788"
+Information technology,"6,526"
+Telecommunications services,"5,658"
+Materials,"4,867"
+Real Estate,"4,171"
+Other,"5,593"
+Total,"$93,033"

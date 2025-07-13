@@ -1,5 +1,5 @@
-claims activity,2006,2005,2004
-open claims beginning balance,4197,4028,4085
-new claims,4190,4584,4366
-settled or dismissed claims,-4261 ( 4261 ),-4415 ( 4415 ),-4423 ( 4423 )
-open claims ending balance at december 31,4126,4197,4028
+<i>Claims Activity</i>,2006,2005,2004
+"Open claims, beginning balance","4,197","4,028","4,085"
+New claims,"4,190","4,584","4,366"
+Settled or dismissed claims,"(4,261)","(4,415)","(4,423)"
+"Open claims, ending balance at December 31","4,126","4,197","4,028"

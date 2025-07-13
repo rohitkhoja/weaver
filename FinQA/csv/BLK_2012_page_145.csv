@@ -1,9 +1,9 @@
-( dollar amounts in millions ),maturity amount,unamortized discount,carrying value,fair value
-floating rate notes due 2013,$ 750,$ 2014,$ 750,$ 750
-3.50% ( 3.50 % ) notes due 2014,1000,2014,1000,1058
-1.375% ( 1.375 % ) notes due 2015,750,2014,750,762
-6.25% ( 6.25 % ) notes due 2017,700,-3 ( 3 ),697,853
-5.00% ( 5.00 % ) notes due 2019,1000,-2 ( 2 ),998,1195
-4.25% ( 4.25 % ) notes due 2021,750,-4 ( 4 ),746,856
-3.375% ( 3.375 % ) notes due 2022,750,-4 ( 4 ),746,801
-total long-term borrowings,$ 5700,$ -13 ( 13 ),$ 5687,$ 6275
+<i>(Dollar amounts in millions)</i>,Maturity Amount,Unamortized Discount,Carrying Value,Fair Value
+Floating Rate Notes due 2013,$750,$—,$750,$750
+3.50% Notes due 2014,"1,000",—,"1,000","1,058"
+1.375% Notes due 2015,750,—,750,762
+6.25% Notes due 2017,700,(3),697,853
+5.00% Notes due 2019,"1,000",(2),998,"1,195"
+4.25% Notes due 2021,750,(4),746,856
+3.375% Notes due 2022,750,(4),746,801
+Total Long-term Borrowings,"$5,700",$(13),"$5,687","$6,275"

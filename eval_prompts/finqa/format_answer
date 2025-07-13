@@ -1,0 +1,13 @@
+You will be given Answer and Gold Answer, you have to Convert the answer into a format of gold answer given above, if the content or meaning is same (semantically same) they should be same.
+
+Few examples of convertion for your understanding:
+1. answer: 9%, gold answer: 9.1%. Reasoning- 9% is close to 9% and you can convert 9.1 to 9.
+    Your Output: 9.1%
+2. answer: 8, gold answer: 8%. Reasoning- 8 is same as 8% of the gold answer in the given context of question.
+    Your Output: 8%
+3. answer : 10.1, gold answer: 11. Reasoning- Since, both values are already nearby you can convert.
+    Your Output: 11
+4. answer : 0, gold answer: 5. Reasoning- Since, both values are semantically not same no convertion is needed for the answer.
+    Your Output: 0
+5. answer : The answer is not present in the table. , gold answer: 5. Reasoning- Since, both values are semantically not same no convertion is needed for the answer.
+    Your Output: The answer is not present in the table.

@@ -1,13 +1,14 @@
-"december 31 , ( in millions )","december 31 , 2010","december 31 , 2009",2010,2009
-loans retained,$ 222510,$ 200077,$ 5510,$ 6559
-loans held-for-sale,3147,2734,341,234
-loans at fair value,1976,1364,155,111
-loans 2013 reported,227633,204175,6006,6904
-derivative receivables,80481,80210,34,529
-receivables from customers ( a ),32541,15745,2014,2014
-interests in purchased receivables ( b ),391,2927,2014,2014
-total wholesale credit-related assets,341046,303057,6040,7433
-lending-related commitments ( c ),346079,347155,1005,1577
-total wholesale credit exposure,$ 687125,$ 650212,$ 7045,$ 9010
-net credit derivative hedges notional ( d ),$ -23108 ( 23108 ),$ -48376 ( 48376 ),$ -55 ( 55 ),$ -139 ( 139 )
-liquid securities and other cash collateral held against derivatives ( e ),-16486 ( 16486 ),-15519 ( 15519 ),na,na
+"December 31,",Credit exposure,Nonperforming (f)
+(in millions),2010,2009,2010,2009
+Loans retained,"$222,510","$200,077","$5,510","$6,559"
+Loans held-for-sale,"3,147","2,734",341,234
+Loans at fair value,"1,976","1,364",155,111
+Loans– reported,"227,633","204,175","6,006","6,904"
+Derivative receivables,"80,481","80,210",34,529
+Receivables from customers<sup>(a)</sup>,"32,541","15,745",—,—
+Interests in purchased receivables<sup>(b)</sup>,391,"2,927",—,—
+Total wholesale credit-related assets,"341,046","303,057","6,040","7,433"
+Lending-related commitments<sup>(c)</sup>,"346,079","347,155","1,005","1,577"
+Total wholesale credit exposure,"$687,125","$650,212","$7,045","$9,010"
+Net credit derivative hedges notional<sup>(d)</sup>,"$(23,108)","$(48,376)",$(55),$(139)
+Liquid securities and other cash collateral held against derivatives<sup>(e)</sup>,"(16,486)","(15,519)",NA,NA

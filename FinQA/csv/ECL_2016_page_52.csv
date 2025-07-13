@@ -1,8 +1,9 @@
-( millions ),total,payments due by period less than 1 year,payments due by period 2-3 years,payments due by period 4-5 years,payments due by period more than 5 years
-notes payable,$ 30,$ 30,$ -,$ -,$ -
-commercial paper,-,-,-,-,-
-long-term debt,6652,510,967,1567,3608
-capital lease obligations,5,1,1,1,2
-operating leases,431,102,153,105,71
-interest*,2261,218,396,360,1287
-total,$ 9379,$ 861,$ 1517,$ 2033,$ 4968
+,,Payments Due by Period
+(millions),Total,Less Than 1 Year,2-3 Years,4-5 Years,More Than 5 Years
+Notes payable,$30,$30,$ -,$ -,$ -
+Commercial paper,-,-,-,-,-
+Long-term debt,"6,652",510,967,"1,567","3,608"
+Capital lease obligations,5,1,1,1,2
+Operating leases,431,102,153,105,71
+Interest*,"2,261",218,396,360,"1,287"
+Total,"$9,379",$861,"$1,517","$2,033","$4,968"
