@@ -1,0 +1,6 @@
+(millions),AmortizedCost,FairValue
+Due in one year or less,$50,$50
+Due after one year through five years,52,52
+Due after five years through ten years,47,47
+Due after ten years,1,1
+Total fixed maturities,$150,$150

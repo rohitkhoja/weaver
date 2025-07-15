@@ -1,0 +1,17 @@
+,Average SeatingCapacity,AverageAge(Years),Owned,Leased,Total
+Airbus A319,128,13.8,21,104,125
+Airbus A320,150,16.7,10,38,48
+Airbus A321,178,5.4,165,54,219
+Airbus A330-200,251,6.0,15,—,15
+Airbus A330-300,291,17.4,4,5,9
+Boeing 737-800,160,8.1,132,172,304
+Boeing 737-8 MAX,172,0.1,4,—,4
+Boeing 757-200,180,18.1,31,3,34
+Boeing 767-300ER,209,19.1,24,—,24
+Boeing 777-200ER,269,17.0,44,3,47
+Boeing 777-300ER,310,3.8,18,2,20
+Boeing 787-8,226,2.1,20,—,20
+Boeing 787-9,285,0.7,14,—,14
+Embraer 190,99,10.2,20,—,20
+McDonnell Douglas MD-80,140,21.3,13,32,45
+Total,,10.1,535,413,948

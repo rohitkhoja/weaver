@@ -1,0 +1,7 @@
+Multiplex,Licensee,Multiplex Service Provider,Transmission Service Provider
+1,BBC,BBC Technology Ltd,CCUK
+2,Digital 3&4 Ltd,NTL,NTL
+A,SDN Ltd,NTL,NTL
+B,BBC,BBC Technology Ltd,CCUK*
+C,CCUK,BBC Technology Ltd,CCUK*
+D,CCUK,BBC Technology Ltd,CCUK*

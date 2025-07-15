@@ -1,0 +1,3 @@
+,Notional Value,Strike Rate,Maturity,Fair Value
+Interest Rate Collar,"$70,000",6.580%,11/2004,"$(4,096)"
+Interest Rate Swap,"$65,000",4.010,8/2005,$891
