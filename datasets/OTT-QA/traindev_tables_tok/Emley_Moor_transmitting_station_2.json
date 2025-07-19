@@ -1,0 +1,260 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Emley_Moor_transmitting_station",
+  "title": "Emley Moor transmitting station",
+  "header": [
+    [
+      "frequency",
+      []
+    ],
+    [
+      "UHF",
+      []
+    ],
+    [
+      "kW",
+      []
+    ],
+    [
+      "operator",
+      []
+    ],
+    [
+      "system",
+      []
+    ]
+  ],
+  "data": [
+    [
+      [
+        "570.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "33",
+        []
+      ],
+      [
+        "174",
+        []
+      ],
+      [
+        "COM4 ( SDN )",
+        [
+          "/wiki/S4C_Digital_Networks"
+        ]
+      ],
+      [
+        "DVB-T",
+        [
+          "/wiki/DVB-T"
+        ]
+      ]
+    ],
+    [
+      [
+        "594.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "36",
+        []
+      ],
+      [
+        "174",
+        []
+      ],
+      [
+        "COM5 ( ARQ A )",
+        []
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "618.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "39",
+        []
+      ],
+      [
+        "5",
+        []
+      ],
+      [
+        "LTVmux",
+        []
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "634.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "41",
+        []
+      ],
+      [
+        "174",
+        []
+      ],
+      [
+        "PSB3 ( BBC B )",
+        [
+          "/wiki/BBC"
+        ]
+      ],
+      [
+        "DVB-T2",
+        [
+          "/wiki/DVB-T2"
+        ]
+      ]
+    ],
+    [
+      [
+        "658.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "44",
+        []
+      ],
+      [
+        "174",
+        []
+      ],
+      [
+        "PSB2 ( D3 & 4 )",
+        [
+          "/wiki/Digital_3&4"
+        ]
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "682.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "47",
+        []
+      ],
+      [
+        "174",
+        []
+      ],
+      [
+        "PSB1 ( BBC A )",
+        []
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "690.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "48",
+        []
+      ],
+      [
+        "174",
+        []
+      ],
+      [
+        "COM6 ( ARQ B )",
+        []
+      ],
+      [
+        "DVB-T",
+        []
+      ]
+    ],
+    [
+      [
+        "746.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "55",
+        []
+      ],
+      [
+        "54.8",
+        []
+      ],
+      [
+        "COM7 ( ARQ C )",
+        [
+          "/wiki/Arqiva"
+        ]
+      ],
+      [
+        "DVB-T2",
+        []
+      ]
+    ],
+    [
+      [
+        "754.000 MHz",
+        [
+          "/wiki/Hertz"
+        ]
+      ],
+      [
+        "56",
+        []
+      ],
+      [
+        "47",
+        []
+      ],
+      [
+        "COM8 ( ARQ D )",
+        []
+      ],
+      [
+        "DVB-T2",
+        []
+      ]
+    ]
+  ],
+  "section_title": "Digital television ( DVB-T/DVB-T2 )",
+  "section_text": "",
+  "uid": "Emley_Moor_transmitting_station_2",
+  "intro": "The Emley Moor transmitting station is a telecommunications and broadcasting facility on Emley Moor, 1 mile (1.6 km) west of the village centre of Emley,[n 1] mid-way between the villages of Kirkburton and West Bretton, in turn between Huddersfield and Wakefield, West Yorkshire, England. It is made up of a 1,084-foot-tall (330.4 m) concrete tower and apparatus which began transmitting in 1971. It is protected under UK law as a Grade II listed building. It is the tallest freestanding structure in the United Kingdom, seventh-tallest freestanding structure and fourth-tallest tower in Europe outside Russia, and 24th-tallest tower in the world. The tower's current official name, The Arqiva Tower, is shown on a sign beside the offices at the base of the tower, but it is commonly known just as Emley Moor. In March 2018 a temporary mast was erected so that work could be undertaken on the main tower's transmitting arrays without interrupting transmissions. The temporary mast, at 324m, is slightly shorter than the original tower, but lit in the same way with aircraft warning lights."
+}

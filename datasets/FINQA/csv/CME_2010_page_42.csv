@@ -1,0 +1,10 @@
+Location,Primary Use,Owned/Leased,Lease Expiration,Approximate Size (in squarefeet)<sup>(</sup><sup>1</sup><sup>)</sup>
+"20South Wacker Drive, Chicago,Illinois",Global headquarters and office space,Leased,2022<sup>(</sup><sup>2</sup><sup>)</sup>,"490,000"
+"141West JacksonChicago, Illinois",Chicago trading floor and office space,Owned,N/A,"1,500,000<sup>(3)</sup>"
+"550West WashingtonChicago, Illinois",Office space,Leased,2023,"225,000"
+"OneNorth EndNew York, New York",New York trading floor and office space,Mixed<sup>(</sup><sup>4</sup><sup>)</sup>,2069,"500,000<sup>(5)</sup>"
+"33Cannon Street, London",Office space,Leased,2019,"14,000<sup>(6)</sup>"
+"OneNew Change, London",Office space,Leased,2026,"40,000<sup>(7)</sup>"
+AnnexData CenterChicagoland area,Business continuity,Leased,2014,"100,000"
+RemoteData CenterChicagoland area,Business continuity,Leased,2017,"50,000"
+DataCenter 3Chicagoland area,Business continuity and co-location,Owned,N/A,"430,000"

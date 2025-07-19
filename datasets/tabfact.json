@@ -1,0 +1,2123 @@
+[
+    {
+        "table_id": "1-24560733-1.html.csv",
+        "question": "the wildcats played two games in september , four games in october , and four games in november",
+        "table_file_name": "csv/1-24560733-1.csv",
+        "target_value": 1,
+        "table_name": "1947 kentucky wildcats football team"
+    },
+    {
+        "table_id": "1-24560733-1.html.csv",
+        "question": "the wildcats played four games in september , two games in october , and two games in november",
+        "table_file_name": "csv/1-24560733-1.csv",
+        "target_value": 0,
+        "table_name": "1947 kentucky wildcats football team"
+    },
+    {
+        "table_id": "1-25557880-1.html.csv",
+        "question": "every team had several wins",
+        "table_file_name": "csv/1-25557880-1.csv",
+        "target_value": 0,
+        "table_name": "c\u00e9sar ramos"
+    },
+    {
+        "table_id": "2-14175075-5.html.csv",
+        "question": "cedar rapids is the site with the earliest date",
+        "table_file_name": "csv/2-14175075-5.csv",
+        "target_value": 1,
+        "table_name": "iowa corn cy - hawk series"
+    },
+    {
+        "table_id": "2-14175075-5.html.csv",
+        "question": "ames is the site with the earliest date",
+        "table_file_name": "csv/2-14175075-5.csv",
+        "target_value": 0,
+        "table_name": "iowa corn cy - hawk series"
+    },
+    {
+        "table_id": "2-11512626-6.html.csv",
+        "question": "on august 26 the attendance was 24343 and on august 27th the attendance was 2142",
+        "table_file_name": "csv/2-11512626-6.csv",
+        "target_value": 0,
+        "table_name": "1997 colorado rockies season"
+    },
+    {
+        "table_id": "2-11512626-6.html.csv",
+        "question": "when the score was 4 - 5 , the athletics record went 53 - 32 against the colorado rockies",
+        "table_file_name": "csv/2-11512626-6.csv",
+        "target_value": 0,
+        "table_name": "1997 colorado rockies season"
+    },
+    {
+        "table_id": "2-15547694-1.html.csv",
+        "question": "university of dublin is the only group of origin made up entirely of members from one party",
+        "table_file_name": "csv/2-15547694-1.csv",
+        "target_value": 1,
+        "table_name": "members of the 5th seanad"
+    },
+    {
+        "table_id": "2-15547694-1.html.csv",
+        "question": "national university of ireland is the only group of origin made up mostly of members from two parties",
+        "table_file_name": "csv/2-15547694-1.csv",
+        "target_value": 0,
+        "table_name": "members of the 5th seanad"
+    },
+    {
+        "table_id": "1-25277363-2.html.csv",
+        "question": "fast friends originally aired on october 12 , 1993",
+        "table_file_name": "csv/1-25277363-2.csv",
+        "target_value": 1,
+        "table_name": "full house (season 7)"
+    },
+    {
+        "table_id": "1-25277363-2.html.csv",
+        "question": "fast friends originally aired on october11 , 1992",
+        "table_file_name": "csv/1-25277363-2.csv",
+        "target_value": 0,
+        "table_name": "full house (season 7)"
+    },
+    {
+        "table_id": "2-1111973-1.html.csv",
+        "question": "vca 40t (44.1tons) and 155 mm (6.1in) l / 41 howitzer have a vctm of 26t (28.7tons) and 120 mm (4.72in) mortar respectively",
+        "table_file_name": "csv/2-1111973-1.csv",
+        "target_value": 1,
+        "table_name": "tam (tank)"
+    },
+    {
+        "table_id": "2-1111973-1.html.csv",
+        "question": "vctp 24hp / t (23hp / ton) has a vca 155 of 18hp / t ( 16.5hp / ton) , and not 55 km / h (34 mph)",
+        "table_file_name": "csv/2-1111973-1.csv",
+        "target_value": 1,
+        "table_name": "tam (tank)"
+    },
+    {
+        "table_id": "2-1111973-1.html.csv",
+        "question": "vclc 32t (35.3tons) has the same vcrt but vclc 160 mm (6.3in) or 350 mm (13.8in) rockets has a vcrt of 7.62 mm (0.3in) fn mag 60 - 20 machine gun",
+        "table_file_name": "csv/2-1111973-1.csv",
+        "target_value": 1,
+        "table_name": "tam (tank)"
+    },
+    {
+        "table_id": "2-1111973-1.html.csv",
+        "question": "the vcpc and vcrt of 7.62 mm (0.3in) fn mag 60 - 20 machine gun are the same for vctp 20 mm (79in) rh - 202 autocannon , and so is the vcpc and vcrt of 75 km / h (47 mph) for vctp 75 km / h (47 mph)",
+        "table_file_name": "csv/2-1111973-1.csv",
+        "target_value": 1,
+        "table_name": "tam (tank)"
+    },
+    {
+        "table_id": "2-1111973-1.html.csv",
+        "question": "the vctp 20 mm (79in) rh - 202 autocannon does not have 7.62 mm (0.3in) fn mag 60 - 20 machine gun as the vcrt",
+        "table_file_name": "csv/2-1111973-1.csv",
+        "target_value": 0,
+        "table_name": "tam (tank)"
+    },
+    {
+        "table_id": "2-1111973-1.html.csv",
+        "question": "vca 40t (44.1tons) and 155 mm (6.1in) l / 41 howitzer have a vctm of 28.8hp / t (25.1hp / ton) and 120 mm (4.72in) mortar respectively",
+        "table_file_name": "csv/2-1111973-1.csv",
+        "target_value": 0,
+        "table_name": "tam (tank)"
+    },
+    {
+        "table_id": "2-1111973-1.html.csv",
+        "question": "vctp 24hp / t (23hp / ton) has a vca 155 of 155 mm (6.1in) l / 41 howitzer , and not 55 km / h (34 mph)",
+        "table_file_name": "csv/2-1111973-1.csv",
+        "target_value": 0,
+        "table_name": "tam (tank)"
+    },
+    {
+        "table_id": "2-1111973-1.html.csv",
+        "question": "vclc 32t (35.3tons) has the same vcpc but vclc 160 mm (6.3in) or 350 mm (13.8in) rockets has a vcrt of 7.62 mm (0.3in) fn mag 60 - 20 machine gun",
+        "table_file_name": "csv/2-1111973-1.csv",
+        "target_value": 0,
+        "table_name": "tam (tank)"
+    },
+    {
+        "table_id": "2-1111973-1.html.csv",
+        "question": "the vcpc and vctp of 7.62 mm (0.3in) fn mag 60 - 20 machine gun are the same for vcrt 20 mm (79in) rh - 202 autocannon , and so is the vcpc and vcrt of 75 km / h (47 mph) for vctp 75 km / h (47 mph)",
+        "table_file_name": "csv/2-1111973-1.csv",
+        "target_value": 1,
+        "table_name": "tam (tank)"
+    },
+    {
+        "table_id": "2-12582968-1.html.csv",
+        "question": "luk\u00e1\u0161 melich placed third place or higher in one competition",
+        "table_file_name": "csv/2-12582968-1.csv",
+        "target_value": 1,
+        "table_name": "luk\u00e1\u0161 melich"
+    },
+    {
+        "table_id": "2-12582968-1.html.csv",
+        "question": "four of the competitions were senior world championships",
+        "table_file_name": "csv/2-12582968-1.csv",
+        "target_value": 0,
+        "table_name": "luk\u00e1\u0161 melich"
+    },
+    {
+        "table_id": "2-11545282-15.html.csv",
+        "question": "greg ostertag went to oregon state and played for the jazz from 1988 - 90",
+        "table_file_name": "csv/2-11545282-15.csv",
+        "target_value": 0,
+        "table_name": "utah jazz all - time roster"
+    },
+    {
+        "table_id": "2-11545282-15.html.csv",
+        "question": "andre owens played center for the jazz from 2005 - 06",
+        "table_file_name": "csv/2-11545282-15.csv",
+        "target_value": 0,
+        "table_name": "utah jazz all - time roster"
+    },
+    {
+        "table_id": "2-11545282-15.html.csv",
+        "question": "dan o 'sullivan went to kansas and played the center position",
+        "table_file_name": "csv/2-11545282-15.csv",
+        "target_value": 0,
+        "table_name": "utah jazz all - time roster"
+    },
+    {
+        "table_id": "2-12076689-7.html.csv",
+        "question": "all games in the 2006 season were played in the month of september",
+        "table_file_name": "csv/2-12076689-7.csv",
+        "target_value": 0,
+        "table_name": "2006 texas rangers season"
+    },
+    {
+        "table_id": "2-12076689-7.html.csv",
+        "question": "the final game score was 7 - 2 in two different games of the 2006 season",
+        "table_file_name": "csv/2-12076689-7.csv",
+        "target_value": 1,
+        "table_name": "2006 texas rangers season"
+    },
+    {
+        "table_id": "2-12076689-7.html.csv",
+        "question": "the texas rangers played the tigers two times in the 2006 season",
+        "table_file_name": "csv/2-12076689-7.csv",
+        "target_value": 1,
+        "table_name": "2006 texas rangers season"
+    },
+    {
+        "table_id": "2-12076689-7.html.csv",
+        "question": "all games in the 2007 season were played in the month of october",
+        "table_file_name": "csv/2-12076689-7.csv",
+        "target_value": 0,
+        "table_name": "2006 texas rangers season"
+    },
+    {
+        "table_id": "2-12076689-7.html.csv",
+        "question": "the final game score was 8 - 3 in two different games of the 2007 season",
+        "table_file_name": "csv/2-12076689-7.csv",
+        "target_value": 0,
+        "table_name": "2006 texas rangers season"
+    },
+    {
+        "table_id": "2-12076689-7.html.csv",
+        "question": "the texas mariners played the tigers two times in the 2008 season",
+        "table_file_name": "csv/2-12076689-7.csv",
+        "target_value": 0,
+        "table_name": "2006 texas rangers season"
+    },
+    {
+        "table_id": "2-11545282-1.html.csv",
+        "question": "of the three different positions , georgia and penn state contributed a center and a guard",
+        "table_file_name": "csv/2-11545282-1.csv",
+        "target_value": 1,
+        "table_name": "utah jazz all - time roster"
+    },
+    {
+        "table_id": "2-1015521-1.html.csv",
+        "question": "there are 3 c - 95 brazilian aircrafts currently in service",
+        "table_file_name": "csv/2-1015521-1.csv",
+        "target_value": 1,
+        "table_name": "uruguayan air force"
+    },
+    {
+        "table_id": "2-1015521-1.html.csv",
+        "question": "bell uh - 1 iroquois is the version of b - 58 aircraft model originated in the united states which has 2 in service",
+        "table_file_name": "csv/2-1015521-1.csv",
+        "target_value": 0,
+        "table_name": "uruguayan air force"
+    },
+    {
+        "table_id": "2-18844321-1.html.csv",
+        "question": "all 4 test matches took place in october of 1978",
+        "table_file_name": "csv/2-18844321-1.csv",
+        "target_value": 0,
+        "table_name": "1978 new zealand rugby union tour of britain and ireland"
+    },
+    {
+        "table_id": "2-10826385-15.html.csv",
+        "question": "melbourne had the lowest score when playing as the away team",
+        "table_file_name": "csv/2-10826385-15.csv",
+        "target_value": 1,
+        "table_name": "1972 vfl season"
+    },
+    {
+        "table_id": "2-10826385-15.html.csv",
+        "question": "the average of all the home team scores is 15.67",
+        "table_file_name": "csv/2-10826385-15.csv",
+        "target_value": 1,
+        "table_name": "1972 vfl season"
+    },
+    {
+        "table_id": "2-10826385-15.html.csv",
+        "question": "1 / 3 of the away teams had a score greater than 10",
+        "table_file_name": "csv/2-10826385-15.csv",
+        "target_value": 1,
+        "table_name": "1972 vfl season"
+    },
+    {
+        "table_id": "2-10826385-15.html.csv",
+        "question": "melbourne had the second lowest score when playing as the away team",
+        "table_file_name": "csv/2-10826385-15.csv",
+        "target_value": 0,
+        "table_name": "1972 vfl season"
+    },
+    {
+        "table_id": "2-10826385-15.html.csv",
+        "question": "the average of all the home team scores is less than 12",
+        "table_file_name": "csv/2-10826385-15.csv",
+        "target_value": 0,
+        "table_name": "1972 vfl season"
+    },
+    {
+        "table_id": "2-10826385-15.html.csv",
+        "question": "more than half of the away teams had a score greater than 10",
+        "table_file_name": "csv/2-10826385-15.csv",
+        "target_value": 0,
+        "table_name": "1972 vfl season"
+    },
+    {
+        "table_id": "1-14562722-2.html.csv",
+        "question": "the 5th volume was released in region 1 on september 19 , 2006 , there were 4 episodes",
+        "table_file_name": "csv/1-14562722-2.csv",
+        "target_value": 1,
+        "table_name": "none"
+    },
+    {
+        "table_id": "1-14562722-2.html.csv",
+        "question": "the volume 's 2 , 4 , and 5 have 2 discs and 3 episodes",
+        "table_file_name": "csv/1-14562722-2.csv",
+        "target_value": 0,
+        "table_name": "none"
+    },
+    {
+        "table_id": "2-11051845-5.html.csv",
+        "question": "globular cluster has the second highest declination ( j2000 ) in the list",
+        "table_file_name": "csv/2-11051845-5.csv",
+        "target_value": 1,
+        "table_name": "list of ngc objects (5001 - 6000)"
+    },
+    {
+        "table_id": "2-11051845-5.html.csv",
+        "question": "spiral galaxy has the second highest declination ( j2000 ) in the list",
+        "table_file_name": "csv/2-11051845-5.csv",
+        "target_value": 0,
+        "table_name": "list of ngc objects (5001 - 6000)"
+    },
+    {
+        "table_id": "2-187504-13.html.csv",
+        "question": "italy received two more gold medals than canada did but tied with the united states and west germany",
+        "table_file_name": "csv/2-187504-13.csv",
+        "target_value": 1,
+        "table_name": "1988 winter olympics"
+    },
+    {
+        "table_id": "2-187504-13.html.csv",
+        "question": "six different countries received the same number of bronze medals",
+        "table_file_name": "csv/2-187504-13.csv",
+        "target_value": 1,
+        "table_name": "1988 winter olympics"
+    },
+    {
+        "table_id": "2-187504-13.html.csv",
+        "question": "italy received three more gold medals than canada did but tied with the united states and west germany",
+        "table_file_name": "csv/2-187504-13.csv",
+        "target_value": 0,
+        "table_name": "1988 winter olympics"
+    },
+    {
+        "table_id": "2-187504-13.html.csv",
+        "question": "eight different countries received the same number of bronze medals",
+        "table_file_name": "csv/2-187504-13.csv",
+        "target_value": 0,
+        "table_name": "1988 winter olympics"
+    },
+    {
+        "table_id": "2-15272585-8.html.csv",
+        "question": "galina voskoboeva played a total of 3 games on a hard tennis court",
+        "table_file_name": "csv/2-15272585-8.csv",
+        "target_value": 1,
+        "table_name": "galina voskoboeva"
+    },
+    {
+        "table_id": "2-15272585-8.html.csv",
+        "question": "galina voskoboeva played 20% of her games on a clay top tennis court",
+        "table_file_name": "csv/2-15272585-8.csv",
+        "target_value": 0,
+        "table_name": "galina voskoboeva"
+    },
+    {
+        "table_id": "2-15272585-8.html.csv",
+        "question": "galina voskoboeva has an equal winrate between both clay and hard courts",
+        "table_file_name": "csv/2-15272585-8.csv",
+        "target_value": 1,
+        "table_name": "galina voskoboeva"
+    },
+    {
+        "table_id": "2-15272585-8.html.csv",
+        "question": "galina voskoboeva never played the same opponent more than one time",
+        "table_file_name": "csv/2-15272585-8.csv",
+        "target_value": 1,
+        "table_name": "galina voskoboeva"
+    },
+    {
+        "table_id": "2-15272585-8.html.csv",
+        "question": "on average , galina voskoboeva loses with only four points",
+        "table_file_name": "csv/2-15272585-8.csv",
+        "target_value": 0,
+        "table_name": "galina voskoboeva"
+    },
+    {
+        "table_id": "2-15272585-8.html.csv",
+        "question": "galina voskoboeva played a total of 3 games on a hard tennis court , and 1 on clay",
+        "table_file_name": "csv/2-15272585-8.csv",
+        "target_value": 0,
+        "table_name": "galina voskoboeva"
+    },
+    {
+        "table_id": "2-15272585-8.html.csv",
+        "question": "galina voskoboeva played 20% of her games on a clay top tennis court and 1% on hard",
+        "table_file_name": "csv/2-15272585-8.csv",
+        "target_value": 0,
+        "table_name": "galina voskoboeva"
+    },
+    {
+        "table_id": "2-15272585-8.html.csv",
+        "question": "galina voskoboeva has an equal winrate between both clay and hard courts but she never won",
+        "table_file_name": "csv/2-15272585-8.csv",
+        "target_value": 0,
+        "table_name": "galina voskoboeva"
+    },
+    {
+        "table_id": "2-15272585-8.html.csv",
+        "question": "galina voskoboeva never played the same opponent more than one time except in 6 june 2006",
+        "table_file_name": "csv/2-15272585-8.csv",
+        "target_value": 0,
+        "table_name": "galina voskoboeva"
+    },
+    {
+        "table_id": "2-15272585-8.html.csv",
+        "question": "on average , galina voskoboeva loses with only four points against oleksandra kravets and alice canepa",
+        "table_file_name": "csv/2-15272585-8.csv",
+        "target_value": 0,
+        "table_name": "galina voskoboeva"
+    },
+    {
+        "table_id": "2-16653153-30.html.csv",
+        "question": "the melbourne tigers have the same away record as south dragons",
+        "table_file_name": "csv/2-16653153-30.csv",
+        "target_value": 1,
+        "table_name": "2008 - 09 nbl season"
+    },
+    {
+        "table_id": "2-16653153-30.html.csv",
+        "question": "melbourne tigers have the same home record as south dragons",
+        "table_file_name": "csv/2-16653153-30.csv",
+        "target_value": 0,
+        "table_name": "2008 - 09 nbl season"
+    },
+    {
+        "table_id": "2-17933602-1.html.csv",
+        "question": "jos\u00e9 couceiro was the head coach in set\u00fabal , and it was manuel machado in guimar\u00e3es , the only time guimar\u00e3es is a city",
+        "table_file_name": "csv/2-17933602-1.csv",
+        "target_value": 0,
+        "table_name": "2004 - 05 primeira liga"
+    },
+    {
+        "table_id": "2-16623894-37.html.csv",
+        "question": "the 2nd leg score is less than the first leg score for the match with a team 2 of werder bremen",
+        "table_file_name": "csv/2-16623894-37.csv",
+        "target_value": 0,
+        "table_name": "2009 - 10 uefa europa league"
+    },
+    {
+        "table_id": "2-11545282-4.html.csv",
+        "question": "adrian dantley was on the team the entire time that brad davis was also on the team , as well as surpassing davis by four additional years",
+        "table_file_name": "csv/2-11545282-4.csv",
+        "target_value": 0,
+        "table_name": "utah jazz all - time roster"
+    },
+    {
+        "table_id": "2-11545282-4.html.csv",
+        "question": "james donaldson had two stints on the jazz 's roster , totaling five years in total",
+        "table_file_name": "csv/2-11545282-4.csv",
+        "target_value": 0,
+        "table_name": "utah jazz all - time roster"
+    },
+    {
+        "table_id": "2-18622227-6.html.csv",
+        "question": "the us open had 1r in 1986 but had 3r in 1999",
+        "table_file_name": "csv/2-18622227-6.csv",
+        "target_value": 0,
+        "table_name": "katrina adams"
+    },
+    {
+        "table_id": "2-17340355-10.html.csv",
+        "question": "the game at the target center took place after the game at the fedexforum",
+        "table_file_name": "csv/2-17340355-10.csv",
+        "target_value": 1,
+        "table_name": "2008 - 09 phoenix suns season"
+    },
+    {
+        "table_id": "2-17340355-10.html.csv",
+        "question": "the game against new orleans didn't have the highest attendance",
+        "table_file_name": "csv/2-17340355-10.csv",
+        "target_value": 1,
+        "table_name": "2008 - 09 phoenix suns season"
+    },
+    {
+        "table_id": "2-17340355-10.html.csv",
+        "question": "the game at the fedexforum took place after the game at the target center",
+        "table_file_name": "csv/2-17340355-10.csv",
+        "target_value": 0,
+        "table_name": "2008 - 09 phoenix suns season"
+    },
+    {
+        "table_id": "2-17340355-10.html.csv",
+        "question": "the game against new orleans had the highest attendance",
+        "table_file_name": "csv/2-17340355-10.csv",
+        "target_value": 0,
+        "table_name": "2008 - 09 phoenix suns season"
+    },
+    {
+        "table_id": "2-14975-5.html.csv",
+        "question": "90 games were played for the series for the sawhorse dollar trophy",
+        "table_file_name": "csv/2-14975-5.csv",
+        "target_value": 1,
+        "table_name": "none"
+    },
+    {
+        "table_id": "2-14975-5.html.csv",
+        "question": "more than 100 games were played for the series with the sawhorse dollar trophy",
+        "table_file_name": "csv/2-14975-5.csv",
+        "target_value": 0,
+        "table_name": "none"
+    },
+    {
+        "table_id": "2-16218498-1.html.csv",
+        "question": "saint - louis fc game had the highest combined agg of any of the featured games",
+        "table_file_name": "csv/2-16218498-1.csv",
+        "target_value": 1,
+        "table_name": "1992 african cup of champions clubs"
+    },
+    {
+        "table_id": "2-16218498-1.html.csv",
+        "question": "the game between team 1 saint - louis fc and team 2 eleven arrows fc has the highest combined agg compared to any featured games",
+        "table_file_name": "csv/2-16218498-1.csv",
+        "target_value": 0,
+        "table_name": "1992 african cup of champions clubs"
+    },
+    {
+        "table_id": "2-12423174-1.html.csv",
+        "question": "asc diaraf lost to stade malien in the 1971 african cup of champions clubs",
+        "table_file_name": "csv/2-12423174-1.csv",
+        "target_value": 1,
+        "table_name": "1971 african cup of champions clubs"
+    },
+    {
+        "table_id": "2-12423174-1.html.csv",
+        "question": "secteur 6 lost by one against the enugu rangers",
+        "table_file_name": "csv/2-12423174-1.csv",
+        "target_value": 1,
+        "table_name": "1971 african cup of champions clubs"
+    },
+    {
+        "table_id": "2-12423174-1.html.csv",
+        "question": "canon yaound\u00e9 scored five more points than their opponent",
+        "table_file_name": "csv/2-12423174-1.csv",
+        "target_value": 1,
+        "table_name": "1971 african cup of champions clubs"
+    },
+    {
+        "table_id": "2-12423174-1.html.csv",
+        "question": "asc diaraf won against stade malien in the 1971 african cup of champions clubs",
+        "table_file_name": "csv/2-12423174-1.csv",
+        "target_value": 0,
+        "table_name": "1971 african cup of champions clubs"
+    },
+    {
+        "table_id": "2-12423174-1.html.csv",
+        "question": "secteur 6 won agains the enugu rangers",
+        "table_file_name": "csv/2-12423174-1.csv",
+        "target_value": 0,
+        "table_name": "1971 african cup of champions clubs"
+    },
+    {
+        "table_id": "2-12423174-1.html.csv",
+        "question": "canon yaounde scored zero points against their opponent",
+        "table_file_name": "csv/2-12423174-1.csv",
+        "target_value": 0,
+        "table_name": "1971 african cup of champions clubs"
+    },
+    {
+        "table_id": "2-12472200-7.html.csv",
+        "question": "olga govortsova has never reached the finals in a grand slam tournament",
+        "table_file_name": "csv/2-12472200-7.csv",
+        "target_value": 1,
+        "table_name": "olga govortsova"
+    },
+    {
+        "table_id": "2-12472200-7.html.csv",
+        "question": "the furthest olga govortsova has ever advanced in a grand slam tournament is the third round",
+        "table_file_name": "csv/2-12472200-7.csv",
+        "target_value": 1,
+        "table_name": "olga govortsova"
+    },
+    {
+        "table_id": "2-12472200-7.html.csv",
+        "question": "olga govortsova has won at least one grand slam tournament match in any given year from 2007 - 2011",
+        "table_file_name": "csv/2-12472200-7.csv",
+        "target_value": 0,
+        "table_name": "olga govortsova"
+    },
+    {
+        "table_id": "2-12472200-7.html.csv",
+        "question": "olga govortsova reached the finals in a grand slam tournament",
+        "table_file_name": "csv/2-12472200-7.csv",
+        "target_value": 0,
+        "table_name": "olga govortsova"
+    },
+    {
+        "table_id": "2-12472200-7.html.csv",
+        "question": "the furthest olga govortsova has ever advanced in a grand slam tournament is the second round",
+        "table_file_name": "csv/2-12472200-7.csv",
+        "target_value": 0,
+        "table_name": "olga govortsova"
+    },
+    {
+        "table_id": "2-12472200-7.html.csv",
+        "question": "olga govortsova has won at least five grand slam tournament matches in any given year from 2007 - 2011",
+        "table_file_name": "csv/2-12472200-7.csv",
+        "target_value": 0,
+        "table_name": "olga govortsova"
+    },
+    {
+        "table_id": "2-1122485-2.html.csv",
+        "question": "oh the issue affecting time engine trouble is the most common",
+        "table_file_name": "csv/2-1122485-2.csv",
+        "target_value": 1,
+        "table_name": "1971 south african grand prix"
+    },
+    {
+        "table_id": "2-1122485-2.html.csv",
+        "question": "oh the issue affecting time suspension trouble is the most common",
+        "table_file_name": "csv/2-1122485-2.csv",
+        "target_value": 0,
+        "table_name": "1971 south african grand prix"
+    },
+    {
+        "table_id": "2-10806592-9.html.csv",
+        "question": "only two teams (hawthorn and south melbourne) scored less than 10",
+        "table_file_name": "csv/2-10806592-9.csv",
+        "target_value": 1,
+        "table_name": "1938 vfl season"
+    },
+    {
+        "table_id": "2-10806592-9.html.csv",
+        "question": "there were no home teams that scored less than 11",
+        "table_file_name": "csv/2-10806592-9.csv",
+        "target_value": 1,
+        "table_name": "1938 vfl season"
+    },
+    {
+        "table_id": "2-10806592-9.html.csv",
+        "question": "the highest scoring team for the games that happened on the 18th of june was carlton",
+        "table_file_name": "csv/2-10806592-9.csv",
+        "target_value": 1,
+        "table_name": "1938 vfl season"
+    },
+    {
+        "table_id": "2-10806592-9.html.csv",
+        "question": "3 home teams had higher scores than the away teams that they were playing",
+        "table_file_name": "csv/2-10806592-9.csv",
+        "target_value": 1,
+        "table_name": "1938 vfl season"
+    },
+    {
+        "table_id": "2-10806592-9.html.csv",
+        "question": "only two teams (hawthorn and south melbourne) scored more than 10",
+        "table_file_name": "csv/2-10806592-9.csv",
+        "target_value": 0,
+        "table_name": "1938 vfl season"
+    },
+    {
+        "table_id": "2-10806592-9.html.csv",
+        "question": "there were no home teams that scored more than 11",
+        "table_file_name": "csv/2-10806592-9.csv",
+        "target_value": 0,
+        "table_name": "1938 vfl season"
+    },
+    {
+        "table_id": "2-10806592-9.html.csv",
+        "question": "the second highest scoring team for the games that happened on the 18th of june was by carlton",
+        "table_file_name": "csv/2-10806592-9.csv",
+        "target_value": 0,
+        "table_name": "1938 vfl season"
+    },
+    {
+        "table_id": "2-16023753-2.html.csv",
+        "question": "the dolphins finished the regular season with a 12 - 4 record",
+        "table_file_name": "csv/2-16023753-2.csv",
+        "target_value": 1,
+        "table_name": "1983 miami dolphins season"
+    },
+    {
+        "table_id": "2-16023753-2.html.csv",
+        "question": "the most points scored by the dolphins in a game was 38",
+        "table_file_name": "csv/2-16023753-2.csv",
+        "target_value": 1,
+        "table_name": "1983 miami dolphins season"
+    },
+    {
+        "table_id": "2-17245540-5.html.csv",
+        "question": "bob charles , from new zealand , was tied for 3rd",
+        "table_file_name": "csv/2-17245540-5.csv",
+        "target_value": 1,
+        "table_name": "1973 u.s. open (golf)"
+    },
+    {
+        "table_id": "2-17245540-5.html.csv",
+        "question": "gene borek from new zealand is tied for 3rd place",
+        "table_file_name": "csv/2-17245540-5.csv",
+        "target_value": 0,
+        "table_name": "1973 u.s. open (golf)"
+    },
+    {
+        "table_id": "2-10747009-18.html.csv",
+        "question": "princes park had footscray as its home team",
+        "table_file_name": "csv/2-10747009-18.csv",
+        "target_value": 0,
+        "table_name": "1927 vfl season"
+    },
+    {
+        "table_id": "1-28853064-15.html.csv",
+        "question": "freddy gonzalez was the winner if the points classification award was given to oscar solis and the sprints classification award was given to epm - une",
+        "table_file_name": "csv/1-28853064-15.csv",
+        "target_value": 0,
+        "table_name": "2010 vuelta a colombia"
+    },
+    {
+        "table_id": "2-10776330-7.html.csv",
+        "question": "north melbourne home team recorded an home score of 9.14 (68) while south melbourne recorded an home score of 7.8 (50)",
+        "table_file_name": "csv/2-10776330-7.csv",
+        "target_value": 1,
+        "table_name": "1961 vfl season"
+    },
+    {
+        "table_id": "2-10776330-7.html.csv",
+        "question": "north melbourne home team recorded an home score of 7.8 (50) while south melbourne recorded an home score of 9.14 (68)",
+        "table_file_name": "csv/2-10776330-7.csv",
+        "target_value": 0,
+        "table_name": "1961 vfl season"
+    },
+    {
+        "table_id": "2-15399415-1.html.csv",
+        "question": "olympic games held at venice , italy in 1984 had notes 2:10:57",
+        "table_file_name": "csv/2-15399415-1.csv",
+        "target_value": 0,
+        "table_name": "orlando pizzolato"
+    },
+    {
+        "table_id": "2-14369924-1.html.csv",
+        "question": "call sign w230av has a city of license of gadsden , alabama , while the call sign w269ax has a city of license of anniston , alabama",
+        "table_file_name": "csv/2-14369924-1.csv",
+        "target_value": 1,
+        "table_name": "wyfk"
+    },
+    {
+        "table_id": "2-14369924-1.html.csv",
+        "question": "the city of license for w282ae is macon , georgia and the city of license for w290ag is griffin , georgia",
+        "table_file_name": "csv/2-14369924-1.csv",
+        "target_value": 1,
+        "table_name": "wyfk"
+    },
+    {
+        "table_id": "2-14369924-1.html.csv",
+        "question": "the erp w and class for w290ag and w282ae is 27 and d for both , but one has a city of license of macon , georgia and the other has a city of license of griffin , georgia",
+        "table_file_name": "csv/2-14369924-1.csv",
+        "target_value": 1,
+        "table_name": "wyfk"
+    },
+    {
+        "table_id": "2-14369924-1.html.csv",
+        "question": "call sign w230av has a city of license of anniston , alabama , while the call sign w269x has a city of liscence of griffin , georgia",
+        "table_file_name": "csv/2-14369924-1.csv",
+        "target_value": 0,
+        "table_name": "wyfk"
+    },
+    {
+        "table_id": "2-14369924-1.html.csv",
+        "question": "the city of license for w282ae is albany , georgia and the city of license for w290ag is gadsden , alabama",
+        "table_file_name": "csv/2-14369924-1.csv",
+        "target_value": 0,
+        "table_name": "wyfk"
+    },
+    {
+        "table_id": "2-14369924-1.html.csv",
+        "question": "the erp w and class for w290ag and w230av is 55 and d for both , but one has a city of license of anniston , alabama and the other has a city of license of macon , georgia",
+        "table_file_name": "csv/2-14369924-1.csv",
+        "target_value": 0,
+        "table_name": "wyfk"
+    },
+    {
+        "table_id": "2-15845253-1.html.csv",
+        "question": "seven viral families have a helical virion shape",
+        "table_file_name": "csv/2-15845253-1.csv",
+        "target_value": 0,
+        "table_name": "viral disease"
+    },
+    {
+        "table_id": "2-15845253-1.html.csv",
+        "question": "only one of the viral diseases has a spherical virion shape",
+        "table_file_name": "csv/2-15845253-1.csv",
+        "target_value": 1,
+        "table_name": "viral disease"
+    },
+    {
+        "table_id": "2-15845253-1.html.csv",
+        "question": "only one of the viral diseases has not been assigned to a family",
+        "table_file_name": "csv/2-15845253-1.csv",
+        "target_value": 0,
+        "table_name": "viral disease"
+    },
+    {
+        "table_id": "2-15845253-1.html.csv",
+        "question": "two viral families have a helical virion shape",
+        "table_file_name": "csv/2-15845253-1.csv",
+        "target_value": 0,
+        "table_name": "viral disease"
+    },
+    {
+        "table_id": "2-15845253-1.html.csv",
+        "question": "thirteen viral families have an helical virion shape",
+        "table_file_name": "csv/2-15845253-1.csv",
+        "target_value": 0,
+        "table_name": "viral disease"
+    },
+    {
+        "table_id": "2-15845253-1.html.csv",
+        "question": "none of the viral diseases has a spherical virion shape",
+        "table_file_name": "csv/2-15845253-1.csv",
+        "target_value": 0,
+        "table_name": "viral disease"
+    },
+    {
+        "table_id": "2-15845253-1.html.csv",
+        "question": "only one of the viral diseases has been assigned to a family",
+        "table_file_name": "csv/2-15845253-1.csv",
+        "target_value": 0,
+        "table_name": "viral disease"
+    },
+    {
+        "table_id": "1-2933761-1.html.csv",
+        "question": "multiple people were prison escapists and each left the cube alive",
+        "table_file_name": "csv/1-2933761-1.csv",
+        "target_value": 0,
+        "table_name": "cube (film series)"
+    },
+    {
+        "table_id": "1-27700375-11.html.csv",
+        "question": "the most highly attended game was against miami at the prudential center",
+        "table_file_name": "csv/1-27700375-11.csv",
+        "target_value": 1,
+        "table_name": "2010 - 11 new jersey nets season"
+    },
+    {
+        "table_id": "1-27700375-11.html.csv",
+        "question": "the most highly attended game was against minnesota at the prudential center",
+        "table_file_name": "csv/1-27700375-11.csv",
+        "target_value": 0,
+        "table_name": "2010 - 11 new jersey nets season"
+    },
+    {
+        "table_id": "1-28967275-2.html.csv",
+        "question": "one episode is titled the expulsion",
+        "table_file_name": "csv/1-28967275-2.csv",
+        "target_value": 0,
+        "table_name": "none"
+    },
+    {
+        "table_id": "2-17916431-2.html.csv",
+        "question": "march is featured more often as a month in the date than any other month",
+        "table_file_name": "csv/2-17916431-2.csv",
+        "target_value": 1,
+        "table_name": "2008 - 09 bradford city a.f.c. season"
+    },
+    {
+        "table_id": "2-17916431-2.html.csv",
+        "question": "aldershot town was the opponent when bradford city scored their highest point total",
+        "table_file_name": "csv/2-17916431-2.csv",
+        "target_value": 1,
+        "table_name": "2008 - 09 bradford city a.f.c. season"
+    },
+    {
+        "table_id": "2-17916431-2.html.csv",
+        "question": "march is featured more often as a month in the date than any other month , followed by the 4 games in april",
+        "table_file_name": "csv/2-17916431-2.csv",
+        "target_value": 0,
+        "table_name": "2008 - 09 bradford city a.f.c. season"
+    },
+    {
+        "table_id": "2-17916431-2.html.csv",
+        "question": "aldershot town was the opponent on 10 march 2009 , when bradford city scored their highest point total",
+        "table_file_name": "csv/2-17916431-2.csv",
+        "target_value": 0,
+        "table_name": "2008 - 09 bradford city a.f.c. season"
+    },
+    {
+        "table_id": "2-16299790-6.html.csv",
+        "question": "nick faldo is a player from ireland",
+        "table_file_name": "csv/2-16299790-6.csv",
+        "target_value": 0,
+        "table_name": "2002 u.s. open (golf)"
+    },
+    {
+        "table_id": "2-16299790-6.html.csv",
+        "question": "justin leonard score less than 212 which put him tied for the 8th place",
+        "table_file_name": "csv/2-16299790-6.csv",
+        "target_value": 0,
+        "table_name": "2002 u.s. open (golf)"
+    },
+    {
+        "table_id": "2-16299790-6.html.csv",
+        "question": "nick faldo was the only player from ireland",
+        "table_file_name": "csv/2-16299790-6.csv",
+        "target_value": 0,
+        "table_name": "2002 u.s. open (golf)"
+    },
+    {
+        "table_id": "2-1023439-2.html.csv",
+        "question": "under the influence charted at 56 in the us in 1985 and 1986",
+        "table_file_name": "csv/2-1023439-2.csv",
+        "target_value": 0,
+        "table_name": "vanity (performer)"
+    },
+    {
+        "table_id": "2-17438913-3.html.csv",
+        "question": "sco had the highest amount of transfers at 22 , more than every other team combined",
+        "table_file_name": "csv/2-17438913-3.csv",
+        "target_value": 1,
+        "table_name": "2008 - 09 rangers f.c. season"
+    },
+    {
+        "table_id": "2-17438913-3.html.csv",
+        "question": "sco had the lowest amount of transfers at 22",
+        "table_file_name": "csv/2-17438913-3.csv",
+        "target_value": 0,
+        "table_name": "2008 - 09 rangers f.c. season"
+    },
+    {
+        "table_id": "2-14305653-58.html.csv",
+        "question": "the yugoslavian national team suffered its worst outcome losing 1:4 in the balkan cup against romania on august 27",
+        "table_file_name": "csv/2-14305653-58.csv",
+        "target_value": 1,
+        "table_name": "yugoslavia national football team results"
+    },
+    {
+        "table_id": "2-14305653-58.html.csv",
+        "question": "the yugoslavian national team lost the balkan cup against romania with a aggregate score of 3:4",
+        "table_file_name": "csv/2-14305653-58.csv",
+        "target_value": 1,
+        "table_name": "yugoslavia national football team results"
+    },
+    {
+        "table_id": "2-14305653-58.html.csv",
+        "question": "the yugoslavian national team suffered its worst outcome losing 2:1 in the balken cup against poland on march 22",
+        "table_file_name": "csv/2-14305653-58.csv",
+        "target_value": 0,
+        "table_name": "yugoslavia national football team results"
+    },
+    {
+        "table_id": "2-14305653-58.html.csv",
+        "question": "the yugoslavian national team lost the italy against romania with a aggregate score of 3:4",
+        "table_file_name": "csv/2-14305653-58.csv",
+        "target_value": 0,
+        "table_name": "yugoslavia national football team results"
+    },
+    {
+        "table_id": "2-15753390-2.html.csv",
+        "question": "the 5th place bmw went at 82.32 mph",
+        "table_file_name": "csv/2-15753390-2.csv",
+        "target_value": 1,
+        "table_name": "1972 isle of man tt"
+    },
+    {
+        "table_id": "2-15753390-2.html.csv",
+        "question": "the bmw has less than 6 points with a speed of 82.32 mph",
+        "table_file_name": "csv/2-15753390-2.csv",
+        "target_value": 0,
+        "table_name": "1972 isle of man tt"
+    },
+    {
+        "table_id": "2-14101654-10.html.csv",
+        "question": "every player came from either a college program or a junior / club team",
+        "table_file_name": "csv/2-14101654-10.csv",
+        "target_value": 1,
+        "table_name": "2004 - 05 philadelphia flyers season"
+    },
+    {
+        "table_id": "2-18607260-13.html.csv",
+        "question": "the world cup had four games throughout june 1998 , all of which were in france",
+        "table_file_name": "csv/2-18607260-13.csv",
+        "target_value": 1,
+        "table_name": "1998 in paraguayan football"
+    },
+    {
+        "table_id": "2-18607260-13.html.csv",
+        "question": "the games on june 18 and 28 , 1998 both had a score of 1 - 1",
+        "table_file_name": "csv/2-18607260-13.csv",
+        "target_value": 0,
+        "table_name": "1998 in paraguayan football"
+    },
+    {
+        "table_id": "2-18607260-13.html.csv",
+        "question": "the world cup had three games throughout july 1998 , all of which were in japan",
+        "table_file_name": "csv/2-18607260-13.csv",
+        "target_value": 0,
+        "table_name": "1998 in paraguayan football"
+    },
+    {
+        "table_id": "2-18607260-13.html.csv",
+        "question": "the games on june 18 and 28 , both had a score of 2 - 0",
+        "table_file_name": "csv/2-18607260-13.csv",
+        "target_value": 0,
+        "table_name": "1998 in paraguayan football"
+    },
+    {
+        "table_id": "2-18169093-3.html.csv",
+        "question": "in the 1981 open championship no one player achieved their position alone , in other words there was a tie at every position",
+        "table_file_name": "csv/2-18169093-3.csv",
+        "target_value": 1,
+        "table_name": "1981 open championship"
+    },
+    {
+        "table_id": "1-23886181-1.html.csv",
+        "question": "fc basel 1893 is one of the two football clubs in asia , and participated in the 2008 an 2010 seasons",
+        "table_file_name": "csv/1-23886181-1.csv",
+        "target_value": 0,
+        "table_name": "list of superleague formula football clubs"
+    },
+    {
+        "table_id": "1-29395291-2.html.csv",
+        "question": "in 2006 , glo mobile has 11000 growth 52",
+        "table_file_name": "csv/1-29395291-2.csv",
+        "target_value": 0,
+        "table_name": "mobile telephony in africa"
+    },
+    {
+        "table_id": "1-29395291-2.html.csv",
+        "question": "vodafone had 8704 subscribers (thousands) in 2006 with a 38 growth percentage",
+        "table_file_name": "csv/1-29395291-2.csv",
+        "target_value": 0,
+        "table_name": "mobile telephony in africa"
+    },
+    {
+        "table_id": "2-1520559-1.html.csv",
+        "question": "yani tseng was the runner up in 2008 and became the champion in 2010 and 2011",
+        "table_file_name": "csv/2-1520559-1.csv",
+        "target_value": 1,
+        "table_name": "women 's british open"
+    },
+    {
+        "table_id": "2-1520559-1.html.csv",
+        "question": "karrie webb was the runner up in 2008 and became the champion in 2010 and 2011",
+        "table_file_name": "csv/2-1520559-1.csv",
+        "target_value": 0,
+        "table_name": "women 's british open"
+    },
+    {
+        "table_id": "2-11355733-15.html.csv",
+        "question": "denis menchov scored the most uci points of any cyclists from russia",
+        "table_file_name": "csv/2-11355733-15.csv",
+        "target_value": 0,
+        "table_name": "2007 volta a catalunya"
+    },
+    {
+        "table_id": "2-11355733-15.html.csv",
+        "question": "the team ag2r pr\u00e9voyance cumulatively had more points than caisse d'epargne",
+        "table_file_name": "csv/2-11355733-15.csv",
+        "target_value": 0,
+        "table_name": "2007 volta a catalunya"
+    },
+    {
+        "table_id": "2-18084-3.html.csv",
+        "question": "the majority of the athletes with the longest mark are from the united states",
+        "table_file_name": "csv/2-18084-3.csv",
+        "target_value": 1,
+        "table_name": "long jump"
+    },
+    {
+        "table_id": "2-18084-3.html.csv",
+        "question": "only four of the athletes had a mark greater than 29 feet",
+        "table_file_name": "csv/2-18084-3.csv",
+        "target_value": 1,
+        "table_name": "long jump"
+    },
+    {
+        "table_id": "2-18084-3.html.csv",
+        "question": "few athletes from the united states have the longest mark",
+        "table_file_name": "csv/2-18084-3.csv",
+        "target_value": 0,
+        "table_name": "long jump"
+    },
+    {
+        "table_id": "2-18084-3.html.csv",
+        "question": "four athletes had a mark of 28 feet",
+        "table_file_name": "csv/2-18084-3.csv",
+        "target_value": 0,
+        "table_name": "long jump"
+    },
+    {
+        "table_id": "2-18084-3.html.csv",
+        "question": "bob beamon has recently set his long jump record",
+        "table_file_name": "csv/2-18084-3.csv",
+        "target_value": 0,
+        "table_name": "long jump"
+    },
+    {
+        "table_id": "2-18084-3.html.csv",
+        "question": "dwight phillips was the first person to set a long jump record",
+        "table_file_name": "csv/2-18084-3.csv",
+        "target_value": 0,
+        "table_name": "long jump"
+    },
+    {
+        "table_id": "1-18950570-4.html.csv",
+        "question": "the brazil population of 100% for ages 15 - 17 is with unspecified 0.0034% of 321 is 10 357 874",
+        "table_file_name": "csv/1-18950570-4.csv",
+        "target_value": 0,
+        "table_name": "none"
+    },
+    {
+        "table_id": "2-10724559-2.html.csv",
+        "question": "diego milito debuted in 2008 and had 86 goals",
+        "table_file_name": "csv/2-10724559-2.csv",
+        "target_value": 1,
+        "table_name": "football records in italy"
+    },
+    {
+        "table_id": "2-17286852-1.html.csv",
+        "question": "coopers town is famous for the blanchard bridge",
+        "table_file_name": "csv/2-17286852-1.csv",
+        "target_value": 0,
+        "table_name": "list of bridges on the national register of historic places in north dakota"
+    },
+    {
+        "table_id": "2-17286852-1.html.csv",
+        "question": "mcville has goose river bridge which is currently under construction due to structural issues",
+        "table_file_name": "csv/2-17286852-1.csv",
+        "target_value": 0,
+        "table_name": "list of bridges on the national register of historic places in north dakota"
+    },
+    {
+        "table_id": "2-17286852-1.html.csv",
+        "question": "the grace city bridge is a concrete deck girder bridge in stanley",
+        "table_file_name": "csv/2-17286852-1.csv",
+        "target_value": 0,
+        "table_name": "list of bridges on the national register of historic places in north dakota"
+    },
+    {
+        "table_id": "2-12204442-1.html.csv",
+        "question": "the speed of the giant drop attraction with a drop height of 200 feet is 62 mph",
+        "table_file_name": "csv/2-12204442-1.csv",
+        "target_value": 1,
+        "table_name": "drop tower : scream zone"
+    },
+    {
+        "table_id": "2-12204442-1.html.csv",
+        "question": "kings island opened before 1999",
+        "table_file_name": "csv/2-12204442-1.csv",
+        "target_value": 0,
+        "table_name": "drop tower : scream zone"
+    },
+    {
+        "table_id": "2-12204442-1.html.csv",
+        "question": "the drop height of 272 feet was opened before march 22 , 2003",
+        "table_file_name": "csv/2-12204442-1.csv",
+        "target_value": 0,
+        "table_name": "drop tower : scream zone"
+    },
+    {
+        "table_id": "2-18138132-2.html.csv",
+        "question": "windows live messenger version 14 and made by microsoft was relased on 2010 - 11 - 17 under the category of social networking",
+        "table_file_name": "csv/2-18138132-2.csv",
+        "target_value": 1,
+        "table_name": "list of zune applications"
+    },
+    {
+        "table_id": "2-18138132-2.html.csv",
+        "question": "2010 - 11 - 17 is the release date of version 1.0 with a category of utilities , a developer of dino games , and a title of msn money",
+        "table_file_name": "csv/2-18138132-2.csv",
+        "target_value": 0,
+        "table_name": "list of zune applications"
+    },
+    {
+        "table_id": "2-18138132-2.html.csv",
+        "question": "2010 - 11 - 17 is the release date with a category of utilities , a developer of dino games , and a title of chord finder",
+        "table_file_name": "csv/2-18138132-2.csv",
+        "target_value": 0,
+        "table_name": "list of zune applications"
+    },
+    {
+        "table_id": "2-15855923-1.html.csv",
+        "question": "the aggregate result of the game with score 4 - 1 was 4 - 1",
+        "table_file_name": "csv/2-15855923-1.csv",
+        "target_value": 1,
+        "table_name": "kwak tae - hwi"
+    },
+    {
+        "table_id": "2-15855923-1.html.csv",
+        "question": "the result was 3 - 2 at the same time the score was 2 - 0",
+        "table_file_name": "csv/2-15855923-1.csv",
+        "target_value": 0,
+        "table_name": "kwak tae - hwi"
+    },
+    {
+        "table_id": "2-15855923-1.html.csv",
+        "question": "the result of the game with a 4 - 1 score was 2 - 1 and the venue was london , england",
+        "table_file_name": "csv/2-15855923-1.csv",
+        "target_value": 0,
+        "table_name": "kwak tae - hwi"
+    },
+    {
+        "table_id": "2-15855923-1.html.csv",
+        "question": "the game with a score of 3 - 2 was held in chongqing , england and the venue was london , china",
+        "table_file_name": "csv/2-15855923-1.csv",
+        "target_value": 0,
+        "table_name": "kwak tae - hwi"
+    },
+    {
+        "table_id": "2-15149189-1.html.csv",
+        "question": "prop steve borthwick is leicester 's best known player in that position",
+        "table_file_name": "csv/2-15149189-1.csv",
+        "target_value": 0,
+        "table_name": "2008 six nations championship squads"
+    },
+    {
+        "table_id": "2-13135264-6.html.csv",
+        "question": "the highest point gap was on january 5 , with a spread of 6 points",
+        "table_file_name": "csv/2-13135264-6.csv",
+        "target_value": 1,
+        "table_name": "2003 - 04 detroit red wings season"
+    },
+    {
+        "table_id": "2-13135264-6.html.csv",
+        "question": "detroit had one of the lowest visitor scores this season",
+        "table_file_name": "csv/2-13135264-6.csv",
+        "target_value": 1,
+        "table_name": "2003 - 04 detroit red wings season"
+    },
+    {
+        "table_id": "2-13135264-6.html.csv",
+        "question": "by late january detroit was the lowest scoring team",
+        "table_file_name": "csv/2-13135264-6.csv",
+        "target_value": 0,
+        "table_name": "2003 - 04 detroit red wings season"
+    },
+    {
+        "table_id": "1-2655016-4.html.csv",
+        "question": "each of the episode titles has letters somewhere within the title",
+        "table_file_name": "csv/1-2655016-4.csv",
+        "target_value": 0,
+        "table_name": "list of all that episodes"
+    },
+    {
+        "table_id": "2-17443121-2.html.csv",
+        "question": "gary unmarried came on fridays at 8:00 pm",
+        "table_file_name": "csv/2-17443121-2.csv",
+        "target_value": 0,
+        "table_name": "gary unmarried"
+    },
+    {
+        "table_id": "2-17443121-2.html.csv",
+        "question": "the title of every episode in season one mentions both gary and allison",
+        "table_file_name": "csv/2-17443121-2.csv",
+        "target_value": 0,
+        "table_name": "gary unmarried"
+    },
+    {
+        "table_id": "2-10167122-1.html.csv",
+        "question": "the pga championship had three more cuts made than the us open",
+        "table_file_name": "csv/2-10167122-1.csv",
+        "target_value": 1,
+        "table_name": "brian watts"
+    },
+    {
+        "table_id": "2-10167122-1.html.csv",
+        "question": "brian watts did not make the top - 25 at the masters tournament",
+        "table_file_name": "csv/2-10167122-1.csv",
+        "target_value": 1,
+        "table_name": "brian watts"
+    },
+    {
+        "table_id": "2-10167122-1.html.csv",
+        "question": "the pga championship , brian watts had three fewer cuts made than in the us open",
+        "table_file_name": "csv/2-10167122-1.csv",
+        "target_value": 0,
+        "table_name": "brian watts"
+    },
+    {
+        "table_id": "2-10167122-1.html.csv",
+        "question": "brian watts not the top 25 at the masters tournament one time",
+        "table_file_name": "csv/2-10167122-1.csv",
+        "target_value": 1,
+        "table_name": "brian watts"
+    },
+    {
+        "table_id": "2-18700010-1.html.csv",
+        "question": "the two players with the highest league apps are malcolm brown and peter hart",
+        "table_file_name": "csv/2-18700010-1.csv",
+        "target_value": 0,
+        "table_name": "1979 - 80 huddersfield town f.c. season"
+    },
+    {
+        "table_id": "2-14105731-8.html.csv",
+        "question": "season 6.0 has q245 as its format",
+        "table_file_name": "csv/2-14105731-8.csv",
+        "target_value": 0,
+        "table_name": "none"
+    },
+    {
+        "table_id": "2-12617978-9.html.csv",
+        "question": "reestore requested 50000 from deborah meaden & theo paphitis",
+        "table_file_name": "csv/2-12617978-9.csv",
+        "target_value": 1,
+        "table_name": "dragons' den (uk)"
+    },
+    {
+        "table_id": "2-12617978-9.html.csv",
+        "question": "reestore requested 70000 from deborah meaden & theo paphitis",
+        "table_file_name": "csv/2-12617978-9.csv",
+        "target_value": 0,
+        "table_name": "dragons' den (uk)"
+    },
+    {
+        "table_id": "1-27755603-10.html.csv",
+        "question": "the detroit pistons lost six games during this period of their 2010 - 2011 season",
+        "table_file_name": "csv/1-27755603-10.csv",
+        "target_value": 0,
+        "table_name": "2010 - 11 detroit pistons season"
+    },
+    {
+        "table_id": "1-27755603-10.html.csv",
+        "question": "the detroit pistons won by over ten points in three games during this period of their 2010 - 2011 season",
+        "table_file_name": "csv/1-27755603-10.csv",
+        "target_value": 1,
+        "table_name": "2010 - 11 detroit pistons season"
+    },
+    {
+        "table_id": "1-27755603-10.html.csv",
+        "question": "there were four instances where there was a tie for most rebounds by detroit pistons players during this period of the 2010 - 2011 season",
+        "table_file_name": "csv/1-27755603-10.csv",
+        "target_value": 1,
+        "table_name": "2010 - 11 detroit pistons season"
+    },
+    {
+        "table_id": "1-27755603-10.html.csv",
+        "question": "the detroit pistons lost over eight games during this period of their 2010 - 2011 season",
+        "table_file_name": "csv/1-27755603-10.csv",
+        "target_value": 0,
+        "table_name": "2010 - 11 detroit pistons season"
+    },
+    {
+        "table_id": "1-27755603-10.html.csv",
+        "question": "the detroit pistons won by over ten points in four games during this period of their 2010 - 2011 season",
+        "table_file_name": "csv/1-27755603-10.csv",
+        "target_value": 0,
+        "table_name": "2010 - 11 detroit pistons season"
+    },
+    {
+        "table_id": "1-27755603-10.html.csv",
+        "question": "there were two instances where there was a tie for most rebounds by detroit pistons players during this period of the 2010 - 2011 season",
+        "table_file_name": "csv/1-27755603-10.csv",
+        "target_value": 0,
+        "table_name": "2010 - 11 detroit pistons season"
+    },
+    {
+        "table_id": "2-11983898-4.html.csv",
+        "question": "federico delbonis was the opponent in the final of the 28 july 2013 tournament , which did not have a clay surface",
+        "table_file_name": "csv/2-11983898-4.csv",
+        "target_value": 0,
+        "table_name": "fabio fognini"
+    },
+    {
+        "table_id": "2-1451581-1.html.csv",
+        "question": "cologne bonn airport saw a 0.1% increase in cargo",
+        "table_file_name": "csv/2-1451581-1.csv",
+        "target_value": 0,
+        "table_name": "world 's busiest airports by cargo traffic"
+    },
+    {
+        "table_id": "2-12546630-1.html.csv",
+        "question": "in the 1933 giro d'italia , gerard loncke won the race on may 26th , despite alfredo binda being the race leader",
+        "table_file_name": "csv/2-12546630-1.csv",
+        "target_value": 1,
+        "table_name": "1933 giro d'italia"
+    },
+    {
+        "table_id": "2-12546630-1.html.csv",
+        "question": "learco guerra was the race leader for the first race of the 1933 giro d'italia , and did not become race leader again for the rest of the circuit",
+        "table_file_name": "csv/2-12546630-1.csv",
+        "target_value": 1,
+        "table_name": "1933 giro d'italia"
+    },
+    {
+        "table_id": "2-12546630-1.html.csv",
+        "question": "in the 1933 giro d'italia , gerard loncke won the race on may 25th , despite alfredo binda being the race leader",
+        "table_file_name": "csv/2-12546630-1.csv",
+        "target_value": 0,
+        "table_name": "1933 giro d'italia"
+    },
+    {
+        "table_id": "2-12546630-1.html.csv",
+        "question": "learco guerra was the race leader for the first race of the 1933 giro d'italia , and] became race leader again for the rest of the circuit",
+        "table_file_name": "csv/2-12546630-1.csv",
+        "target_value": 0,
+        "table_name": "1933 giro d'italia"
+    },
+    {
+        "table_id": "2-11692087-1.html.csv",
+        "question": "the team has been called the coquitlam adanacs throughout all 45 seasons since 1965",
+        "table_file_name": "csv/2-11692087-1.csv",
+        "target_value": 0,
+        "table_name": "coquitlam adanacs"
+    },
+    {
+        "table_id": "2-17200019-10.html.csv",
+        "question": "of the four players who played in the belgian cup , jonathan legear scored more goals than the other players combined",
+        "table_file_name": "csv/2-17200019-10.csv",
+        "target_value": 0,
+        "table_name": "2008 - 09 r.s.c. anderlecht season"
+    },
+    {
+        "table_id": "2-17200019-10.html.csv",
+        "question": "of the four players who played in the belgian cup , lucas biglia scored more goals than the other players combined",
+        "table_file_name": "csv/2-17200019-10.csv",
+        "target_value": 0,
+        "table_name": "2008 - 09 r.s.c. anderlecht season"
+    },
+    {
+        "table_id": "2-18842947-2.html.csv",
+        "question": "the most points scored by the lions in a single game was 41",
+        "table_file_name": "csv/2-18842947-2.csv",
+        "target_value": 1,
+        "table_name": "1976 detroit lions season"
+    },
+    {
+        "table_id": "2-18842947-2.html.csv",
+        "question": "the most points scored by the lions in a single game was 58",
+        "table_file_name": "csv/2-18842947-2.csv",
+        "target_value": 0,
+        "table_name": "1976 detroit lions season"
+    },
+    {
+        "table_id": "2-17486851-2.html.csv",
+        "question": "paulo costa of por is retiring at the end of the season",
+        "table_file_name": "csv/2-17486851-2.csv",
+        "target_value": 0,
+        "table_name": "2008 - 09 apoel f.c. season"
+    },
+    {
+        "table_id": "2-15807932-2.html.csv",
+        "question": "south korea got 2 gold awards in total",
+        "table_file_name": "csv/2-15807932-2.csv",
+        "target_value": 0,
+        "table_name": "1967 world judo championships"
+    },
+    {
+        "table_id": "1-1341690-20.html.csv",
+        "question": "maryland district 6 candidate elton r wampler succeeded incumbant candidate goodloe byron",
+        "table_file_name": "csv/1-1341690-20.csv",
+        "target_value": 0,
+        "table_name": "united states house of representatives elections , 1974"
+    },
+    {
+        "table_id": "1-1341690-20.html.csv",
+        "question": "the candidates for the maryland district 7 were incumbent goodloe byron and elton r wampler",
+        "table_file_name": "csv/1-1341690-20.csv",
+        "target_value": 0,
+        "table_name": "united states house of representatives elections , 1974"
+    },
+    {
+        "table_id": "1-1341690-20.html.csv",
+        "question": "parren mitchell was re - elected in maryland district 7 , defeating elton r wampler",
+        "table_file_name": "csv/1-1341690-20.csv",
+        "target_value": 0,
+        "table_name": "united states house of representatives elections , 1974"
+    },
+    {
+        "table_id": "1-23248940-9.html.csv",
+        "question": "the most rebounds by a bobcats player in one game was 20",
+        "table_file_name": "csv/1-23248940-9.csv",
+        "target_value": 1,
+        "table_name": "2009 - 10 charlotte bobcats season"
+    },
+    {
+        "table_id": "1-23248940-9.html.csv",
+        "question": "the bobcats had a record of 3 wins and 7 losses",
+        "table_file_name": "csv/1-23248940-9.csv",
+        "target_value": 1,
+        "table_name": "2009 - 10 charlotte bobcats season"
+    },
+    {
+        "table_id": "1-23248940-9.html.csv",
+        "question": "the second most rebounds by a bobcats player in one game was 20",
+        "table_file_name": "csv/1-23248940-9.csv",
+        "target_value": 0,
+        "table_name": "2009 - 10 charlotte bobcats season"
+    },
+    {
+        "table_id": "1-23248940-9.html.csv",
+        "question": "the bobcats had a record of more wins than losses",
+        "table_file_name": "csv/1-23248940-9.csv",
+        "target_value": 0,
+        "table_name": "2009 - 10 charlotte bobcats season"
+    },
+    {
+        "table_id": "2-10776868-9.html.csv",
+        "question": "in 1962 , the victorian football league season took place on 23 june",
+        "table_file_name": "csv/2-10776868-9.csv",
+        "target_value": 1,
+        "table_name": "1962 vfl season"
+    },
+    {
+        "table_id": "2-10776868-9.html.csv",
+        "question": "the 1962 vfl season was played by a total of 12 different teams",
+        "table_file_name": "csv/2-10776868-9.csv",
+        "target_value": 1,
+        "table_name": "1962 vfl season"
+    },
+    {
+        "table_id": "2-10776868-9.html.csv",
+        "question": "collingwood scored more points than fitzroy in their 1962 vfl match",
+        "table_file_name": "csv/2-10776868-9.csv",
+        "target_value": 1,
+        "table_name": "1962 vfl season"
+    },
+    {
+        "table_id": "2-10776868-9.html.csv",
+        "question": "in 1962 , the vfl began in july",
+        "table_file_name": "csv/2-10776868-9.csv",
+        "target_value": 0,
+        "table_name": "1962 vfl season"
+    },
+    {
+        "table_id": "2-10776868-9.html.csv",
+        "question": "collingwood scored more points than hawthorn in the 1962 vfl match",
+        "table_file_name": "csv/2-10776868-9.csv",
+        "target_value": 1,
+        "table_name": "1962 vfl season"
+    },
+    {
+        "table_id": "2-18160020-8.html.csv",
+        "question": "atl\u00e9tico ciudad played 28 matches with an average of less than 0.61",
+        "table_file_name": "csv/2-18160020-8.csv",
+        "target_value": 0,
+        "table_name": "2008 - 09 segunda divisi\u00f3n b"
+    },
+    {
+        "table_id": "1-24132054-1.html.csv",
+        "question": "more viewers in the us watch episode 4 of dexter (season 3) than watched episode 2",
+        "table_file_name": "csv/1-24132054-1.csv",
+        "target_value": 1,
+        "table_name": "dexter (season 3)"
+    },
+    {
+        "table_id": "1-2248784-4.html.csv",
+        "question": "israel has a gdp of 36.897",
+        "table_file_name": "csv/1-2248784-4.csv",
+        "target_value": 0,
+        "table_name": "list of asian and pacific countries by gdp (ppp)"
+    },
+    {
+        "table_id": "2-12392804-3.html.csv",
+        "question": "highest total score for ukraine is 2 while the highest total score of estonia is 8",
+        "table_file_name": "csv/2-12392804-3.csv",
+        "target_value": 0,
+        "table_name": "2006 - 07 isu junior grand prix"
+    },
+    {
+        "table_id": "1-25461946-5.html.csv",
+        "question": "allen had the most points scored on november 17 with 12 points",
+        "table_file_name": "csv/1-25461946-5.csv",
+        "target_value": 1,
+        "table_name": "2009 - 10 temple owls men 's basketball team"
+    },
+    {
+        "table_id": "2-17915-12.html.csv",
+        "question": "19 of lleyton hewitt master series finals had one side or the other finishing with 6 points",
+        "table_file_name": "csv/2-17915-12.csv",
+        "target_value": 0,
+        "table_name": "lleyton hewitt"
+    },
+    {
+        "table_id": "2-17915-12.html.csv",
+        "question": "lleyton hewitt never faced the same opponent in more than one master series finals",
+        "table_file_name": "csv/2-17915-12.csv",
+        "target_value": 1,
+        "table_name": "lleyton hewitt"
+    },
+    {
+        "table_id": "2-17915-12.html.csv",
+        "question": "19 of ileyton hewitt masters series finals had one side or the other finishing with 4 points",
+        "table_file_name": "csv/2-17915-12.csv",
+        "target_value": 0,
+        "table_name": "lleyton hewitt"
+    },
+    {
+        "table_id": "2-17915-12.html.csv",
+        "question": "ileyton hewitt faced the same opponent , wayne ferreira , in every masters series final",
+        "table_file_name": "csv/2-17915-12.csv",
+        "target_value": 0,
+        "table_name": "lleyton hewitt"
+    },
+    {
+        "table_id": "2-11025881-1.html.csv",
+        "question": "west germany had two of the top six and won a gold medal",
+        "table_file_name": "csv/2-11025881-1.csv",
+        "target_value": 0,
+        "table_name": "1976 world junior figure skating championships"
+    },
+    {
+        "table_id": "2-17445673-2.html.csv",
+        "question": "the match with the longest time was won against eugene jackson",
+        "table_file_name": "csv/2-17445673-2.csv",
+        "target_value": 1,
+        "table_name": "tim lajcik"
+    },
+    {
+        "table_id": "2-17445673-2.html.csv",
+        "question": "the match with the longest time was won against david ross",
+        "table_file_name": "csv/2-17445673-2.csv",
+        "target_value": 0,
+        "table_name": "tim lajcik"
+    },
+    {
+        "table_id": "2-10944289-2.html.csv",
+        "question": "the denver broncos and the chicago bears played at the rca dome , ending in the broncos' favor with a score of 23 - 8",
+        "table_file_name": "csv/2-10944289-2.csv",
+        "target_value": 0,
+        "table_name": "nbc sunday night football results (2006 - present)"
+    },
+    {
+        "table_id": "2-14669089-2.html.csv",
+        "question": "kwadukuza egoli hotel tower 1 , trust bank building has 31 floors and was the tallest from years 1970 - 1973",
+        "table_file_name": "csv/2-14669089-2.csv",
+        "target_value": 1,
+        "table_name": "list of tallest buildings in africa"
+    },
+    {
+        "table_id": "1-1341640-14.html.csv",
+        "question": "in 1974 republican phil crane beat henry hyde who was a democrat",
+        "table_file_name": "csv/1-1341640-14.csv",
+        "target_value": 0,
+        "table_name": "united states house of representatives elections , 1980"
+    },
+    {
+        "table_id": "2-18576668-1.html.csv",
+        "question": "25 - 26 january 2003 and 12 - 13 july 2003 were the only games played in 2003",
+        "table_file_name": "csv/2-18576668-1.csv",
+        "target_value": 1,
+        "table_name": "tsuyoshi fujita"
+    },
+    {
+        "table_id": "2-18576668-1.html.csv",
+        "question": "25 - 26 january 2003 was the only game played in 2003",
+        "table_file_name": "csv/2-18576668-1.csv",
+        "target_value": 0,
+        "table_name": "tsuyoshi fujita"
+    },
+    {
+        "table_id": "2-11097420-1.html.csv",
+        "question": "construction was completed in 1993 on the flowood site and in 1997 on the newsome brothers / old reichold chemicals project",
+        "table_file_name": "csv/2-11097420-1.csv",
+        "target_value": 1,
+        "table_name": "list of superfund sites in mississippi"
+    },
+    {
+        "table_id": "2-11097420-1.html.csv",
+        "question": "constructed was completed during the same time frame of 1993 at the flowood site and the newsome brothers",
+        "table_file_name": "csv/2-11097420-1.csv",
+        "target_value": 0,
+        "table_name": "list of superfund sites in mississippi"
+    },
+    {
+        "table_id": "2-11677760-30.html.csv",
+        "question": "cody zeller 's hometown is washington , in",
+        "table_file_name": "csv/2-11677760-30.csv",
+        "target_value": 1,
+        "table_name": "usa today all - usa high school basketball team"
+    },
+    {
+        "table_id": "2-11677760-30.html.csv",
+        "question": "the home town of cody zeller is wichita , ks",
+        "table_file_name": "csv/2-11677760-30.csv",
+        "target_value": 0,
+        "table_name": "usa today all - usa high school basketball team"
+    },
+    {
+        "table_id": "2-11677760-30.html.csv",
+        "question": "the home town of cody zeller is wichita , ks",
+        "table_file_name": "csv/2-11677760-30.csv",
+        "target_value": 0,
+        "table_name": "usa today all - usa high school basketball team"
+    },
+    {
+        "table_id": "2-1219581-1.html.csv",
+        "question": "the zakspeed 891 chassis has a yamaha v8 engine",
+        "table_file_name": "csv/2-1219581-1.csv",
+        "target_value": 1,
+        "table_name": "zakspeed"
+    },
+    {
+        "table_id": "2-1219581-1.html.csv",
+        "question": "the zakspeed 891 chassis has multiple yamaha v8 engines",
+        "table_file_name": "csv/2-1219581-1.csv",
+        "target_value": 0,
+        "table_name": "zakspeed"
+    },
+    {
+        "table_id": "2-16369528-1.html.csv",
+        "question": "andrew rule , john silverster , sandra harvey , lindsay simpson , and marele day are the only ones to win the lifetime achievement when na won the best - non fiction and reader 's vote after the year 2005",
+        "table_file_name": "csv/2-16369528-1.csv",
+        "target_value": 0,
+        "table_name": "ned kelly awards"
+    },
+    {
+        "table_id": "2-1283036-1.html.csv",
+        "question": "the screening that started on may 3rd , 2006 ended on march 29th , 2006",
+        "table_file_name": "csv/2-1283036-1.csv",
+        "target_value": 0,
+        "table_name": "none"
+    },
+    {
+        "table_id": "2-1283036-1.html.csv",
+        "question": "the screening completed on 30 june 2006 was started five months after the screening that was completed on 4 october 2006",
+        "table_file_name": "csv/2-1283036-1.csv",
+        "target_value": 0,
+        "table_name": "none"
+    },
+    {
+        "table_id": "1-27332038-1.html.csv",
+        "question": "the production code for see you next fall is 2arg01",
+        "table_file_name": "csv/1-27332038-1.csv",
+        "target_value": 0,
+        "table_name": "modern family (season 2)"
+    },
+    {
+        "table_id": "2-18332376-1.html.csv",
+        "question": "jean - fran\u00e7ois bouvery france is fourth when anders martinson usa is second",
+        "table_file_name": "csv/2-18332376-1.csv",
+        "target_value": 1,
+        "table_name": "cleveland international piano competition"
+    },
+    {
+        "table_id": "2-18332376-1.html.csv",
+        "question": "antonio pompa - baldi italy was first in 1999 and 2000",
+        "table_file_name": "csv/2-18332376-1.csv",
+        "target_value": 0,
+        "table_name": "cleveland international piano competition"
+    },
+    {
+        "table_id": "2-18332376-1.html.csv",
+        "question": "in 1975 , jean - fran\u00e7ois bouvery france came in 4th when anders martinson usa came in second",
+        "table_file_name": "csv/2-18332376-1.csv",
+        "target_value": 0,
+        "table_name": "cleveland international piano competition"
+    },
+    {
+        "table_id": "1-13282157-1.html.csv",
+        "question": "the united states is the home country of the 8th - ranked player",
+        "table_file_name": "csv/1-13282157-1.csv",
+        "target_value": 1,
+        "table_name": "2007 fedex cup playoffs"
+    },
+    {
+        "table_id": "1-13282157-1.html.csv",
+        "question": "the united states is the home country of phil mickelson",
+        "table_file_name": "csv/1-13282157-1.csv",
+        "target_value": 1,
+        "table_name": "2007 fedex cup playoffs"
+    },
+    {
+        "table_id": "1-13282157-1.html.csv",
+        "question": "99012 is the lowest reset points where the events is 56",
+        "table_file_name": "csv/1-13282157-1.csv",
+        "target_value": 0,
+        "table_name": "2007 fedex cup playoffs"
+    },
+    {
+        "table_id": "2-14609295-5.html.csv",
+        "question": "2012 set the record for the year with the highest score of 29 - 7. 2013 followed with 27 - 9",
+        "table_file_name": "csv/2-14609295-5.csv",
+        "target_value": 1,
+        "table_name": "vcu rams men 's basketball"
+    },
+    {
+        "table_id": "2-14609295-5.html.csv",
+        "question": "in 1996 they were the 2 seed of the southeast region",
+        "table_file_name": "csv/2-14609295-5.csv",
+        "target_value": 0,
+        "table_name": "vcu rams men 's basketball"
+    },
+    {
+        "table_id": "2-10883333-10.html.csv",
+        "question": "north melbourne had the highest score out all the way team",
+        "table_file_name": "csv/2-10883333-10.csv",
+        "target_value": 1,
+        "table_name": "1975 vfl season"
+    },
+    {
+        "table_id": "2-10883333-10.html.csv",
+        "question": "north melbourne had the second highest score out all the way team",
+        "table_file_name": "csv/2-10883333-10.csv",
+        "target_value": 0,
+        "table_name": "1975 vfl season"
+    },
+    {
+        "table_id": "2-10883333-10.html.csv",
+        "question": "all of the matches were on different dates",
+        "table_file_name": "csv/2-10883333-10.csv",
+        "target_value": 0,
+        "table_name": "1975 vfl season"
+    },
+    {
+        "table_id": "2-18496100-2.html.csv",
+        "question": "gohad had 36732 more electorates in 2009 than bhander",
+        "table_file_name": "csv/2-18496100-2.csv",
+        "target_value": 0,
+        "table_name": "bhind (lok sabha constituency)"
+    },
+    {
+        "table_id": "2-18496100-2.html.csv",
+        "question": "datia 's constituency number is higher than gohad 's by 9",
+        "table_file_name": "csv/2-18496100-2.csv",
+        "target_value": 1,
+        "table_name": "bhind (lok sabha constituency)"
+    },
+    {
+        "table_id": "2-18496100-2.html.csv",
+        "question": "gohad had 16732 more electorates in 2009 than bhander",
+        "table_file_name": "csv/2-18496100-2.csv",
+        "target_value": 0,
+        "table_name": "bhind (lok sabha constituency)"
+    },
+    {
+        "table_id": "2-18496100-2.html.csv",
+        "question": "datia 's constituency number is lower than gohad 's by 10",
+        "table_file_name": "csv/2-18496100-2.csv",
+        "target_value": 0,
+        "table_name": "bhind (lok sabha constituency)"
+    },
+    {
+        "table_id": "2-18546846-1.html.csv",
+        "question": "august 31st 1947 was the date of the first game of the season",
+        "table_file_name": "csv/2-18546846-1.csv",
+        "target_value": 1,
+        "table_name": "1947 san francisco 49ers season"
+    },
+    {
+        "table_id": "2-18546846-1.html.csv",
+        "question": "august 31st 1947 was the date of the last game of the season",
+        "table_file_name": "csv/2-18546846-1.csv",
+        "target_value": 0,
+        "table_name": "1947 san francisco 49ers season"
+    },
+    {
+        "table_id": "2-167235-8.html.csv",
+        "question": "sali berisha was the first person since aleksand\u00ebr meksi , to be elected as a member of the democratic party of albania political party",
+        "table_file_name": "csv/2-167235-8.csv",
+        "target_value": 1,
+        "table_name": "list of prime ministers of albania"
+    },
+    {
+        "table_id": "2-167235-8.html.csv",
+        "question": "ilir meta was the first person since aleksand\u00ebr meksi , to be elected as a member of the democratic party of albania political party",
+        "table_file_name": "csv/2-167235-8.csv",
+        "target_value": 0,
+        "table_name": "list of prime ministers of albania"
+    },
+    {
+        "table_id": "1-1342256-6.html.csv",
+        "question": "california 22 , a newly created district , resulted in a republican gain",
+        "table_file_name": "csv/1-1342256-6.csv",
+        "target_value": 1,
+        "table_name": "united states house of representatives elections , 1942"
+    },
+    {
+        "table_id": "1-18522916-5.html.csv",
+        "question": "daniel uberti was sacked on 29 december 2008 and replaced by carlos de toro on 29 december 2008",
+        "table_file_name": "csv/1-18522916-5.csv",
+        "target_value": 0,
+        "table_name": "primera divisi\u00f3n de f\u00fatbol profesional apertura 2008"
+    },
+    {
+        "table_id": "2-14781412-8.html.csv",
+        "question": "equestrian at the asian games happened every four years from 1982 to 2010 , except for in 1990",
+        "table_file_name": "csv/2-14781412-8.csv",
+        "target_value": 1,
+        "table_name": "equestrian at the asian games"
+    },
+    {
+        "table_id": "2-14781412-8.html.csv",
+        "question": "equestrian at the asian games has been located in a different city every year that it occured",
+        "table_file_name": "csv/2-14781412-8.csv",
+        "target_value": 1,
+        "table_name": "equestrian at the asian games"
+    },
+    {
+        "table_id": "2-14781412-8.html.csv",
+        "question": "nadia al - moutawaa was the first person to win the gold medal in equestrian at the asian games",
+        "table_file_name": "csv/2-14781412-8.csv",
+        "target_value": 1,
+        "table_name": "equestrian at the asian games"
+    },
+    {
+        "table_id": "2-14781412-8.html.csv",
+        "question": "the gold medalist for equestrian at the asian games has been different in every year they have occurred",
+        "table_file_name": "csv/2-14781412-8.csv",
+        "target_value": 1,
+        "table_name": "equestrian at the asian games"
+    },
+    {
+        "table_id": "2-14781412-8.html.csv",
+        "question": "south korea is the only country to have hosted equestrian at the asian games more than one time , in seoul and doha (and incheon , but that is only found elsewhere on the source page)",
+        "table_file_name": "csv/2-14781412-8.csv",
+        "target_value": 1,
+        "table_name": "equestrian at the asian games"
+    },
+    {
+        "table_id": "2-14781412-8.html.csv",
+        "question": "equestrian at the asian games happened every four years from 1982 to 2010",
+        "table_file_name": "csv/2-14781412-8.csv",
+        "target_value": 0,
+        "table_name": "equestrian at the asian games"
+    },
+    {
+        "table_id": "2-14781412-8.html.csv",
+        "question": "equestrian at the asian games has been located in a different city every year that it occurred except 1994 and 1998",
+        "table_file_name": "csv/2-14781412-8.csv",
+        "target_value": 0,
+        "table_name": "equestrian at the asian games"
+    },
+    {
+        "table_id": "2-14781412-8.html.csv",
+        "question": "nadia al - moutawaa was the first person to win the gold medal in equestrian at the asian games and win silver another year",
+        "table_file_name": "csv/2-14781412-8.csv",
+        "target_value": 0,
+        "table_name": "equestrian at the asian games"
+    },
+    {
+        "table_id": "2-14781412-8.html.csv",
+        "question": "the gold medalist for equestrian at the asian games has been different in every year they have occurred except 1994 and 1998",
+        "table_file_name": "csv/2-14781412-8.csv",
+        "target_value": 0,
+        "table_name": "equestrian at the asian games"
+    },
+    {
+        "table_id": "2-14781412-8.html.csv",
+        "question": "south korea is the only country to have hosted equestrian at the asian games more than one time , in seoul two times",
+        "table_file_name": "csv/2-14781412-8.csv",
+        "target_value": 0,
+        "table_name": "equestrian at the asian games"
+    },
+    {
+        "table_id": "1-1850339-2.html.csv",
+        "question": "an army - navy game will be played on 10 dec 2016 at baltimore , md",
+        "table_file_name": "csv/1-1850339-2.csv",
+        "target_value": 1,
+        "table_name": "commander - in - chief 's trophy"
+    },
+    {
+        "table_id": "1-1850339-2.html.csv",
+        "question": "all but one season is about to have or had an army - navy game in baltimore , md (m&t bank stadium)",
+        "table_file_name": "csv/1-1850339-2.csv",
+        "target_value": 0,
+        "table_name": "commander - in - chief 's trophy"
+    },
+    {
+        "table_id": "2-16876516-2.html.csv",
+        "question": "9 adr has a bore of mm (in) just like every other bore in the table",
+        "table_file_name": "csv/2-16876516-2.csv",
+        "target_value": 1,
+        "table_name": "salmson"
+    },
+    {
+        "table_id": "1-21696800-1.html.csv",
+        "question": "2.63 million people in china saw the episode called kandor",
+        "table_file_name": "csv/1-21696800-1.csv",
+        "target_value": 0,
+        "table_name": "smallville (season 9)"
+    },
+    {
+        "table_id": "2-18156552-1.html.csv",
+        "question": "ngc 1574 has a deeper declination (or dec) of \u00b058\u203229\u2033 , than any other galaxy in the dorado group",
+        "table_file_name": "csv/2-18156552-1.csv",
+        "target_value": 1,
+        "table_name": "dorado group"
+    },
+    {
+        "table_id": "2-18156552-1.html.csv",
+        "question": "ngc 2082 has a deeper declination (or dec) of \u00b059\u203228\u2033 , than any other galaxy in the dorado group",
+        "table_file_name": "csv/2-18156552-1.csv",
+        "target_value": 0,
+        "table_name": "dorado group"
+    },
+    {
+        "table_id": "2-1546813-1.html.csv",
+        "question": "the highest score for a winning team was 18 and the lowest score was 11.5",
+        "table_file_name": "csv/2-1546813-1.csv",
+        "target_value": 1,
+        "table_name": "solheim cup"
+    },
+    {
+        "table_id": "2-1546813-1.html.csv",
+        "question": "the highest score for a winning team was 18 , while the lowest score for a winning team was 13",
+        "table_file_name": "csv/2-1546813-1.csv",
+        "target_value": 0,
+        "table_name": "solheim cup"
+    },
+    {
+        "table_id": "2-12482419-2.html.csv",
+        "question": "the average win percentage of a season with a gb of 5 is 535",
+        "table_file_name": "csv/2-12482419-2.csv",
+        "target_value": 1,
+        "table_name": "list of nashville sounds seasons"
+    },
+    {
+        "table_id": "2-12482419-2.html.csv",
+        "question": "the average win percentage of a season with a gb of 5 was 0.535",
+        "table_file_name": "csv/2-12482419-2.csv",
+        "target_value": 1,
+        "table_name": "list of nashville sounds seasons"
+    },
+    {
+        "table_id": "2-12482419-2.html.csv",
+        "question": ".553 is the average win percentage of a season without a gb of 5",
+        "table_file_name": "csv/2-12482419-2.csv",
+        "target_value": 0,
+        "table_name": "list of nashville sounds seasons"
+    },
+    {
+        "table_id": "2-12482419-2.html.csv",
+        "question": "in 2011 , 0.535 is the average win percentage of a season with a gb of 5",
+        "table_file_name": "csv/2-12482419-2.csv",
+        "target_value": 0,
+        "table_name": "list of nashville sounds seasons"
+    },
+    {
+        "table_id": "2-17073558-1.html.csv",
+        "question": "in the year 2007 the regional gva was 9432 and the industry was listed as 1565",
+        "table_file_name": "csv/2-17073558-1.csv",
+        "target_value": 1,
+        "table_name": "none"
+    },
+    {
+        "table_id": "1-26099252-1.html.csv",
+        "question": "the 4.2.1 jelly bean , released november 27th , 2012 , is the stable verson of the software",
+        "table_file_name": "csv/1-26099252-1.csv",
+        "target_value": 1,
+        "table_name": "html5 video"
+    },
+    {
+        "table_id": "1-26099252-1.html.csv",
+        "question": "google chrome supports both vp8 (webm) 6.0 and vp9 (webm) 29.0",
+        "table_file_name": "csv/1-26099252-1.csv",
+        "target_value": 1,
+        "table_name": "html5 video"
+    },
+    {
+        "table_id": "1-26099252-1.html.csv",
+        "question": "konqueror supports only vp8 (webm) 4.4 , but not vp9 (webm)",
+        "table_file_name": "csv/1-26099252-1.csv",
+        "target_value": 1,
+        "table_name": "html5 video"
+    },
+    {
+        "table_id": "1-26099252-1.html.csv",
+        "question": "the 4.2.1 jelly bean (november 27 , 2012 ) is the stable version where the h264 is 9.0 and vp9 (webm) is no",
+        "table_file_name": "csv/1-26099252-1.csv",
+        "target_value": 0,
+        "table_name": "html5 video"
+    },
+    {
+        "table_id": "2-17344651-6.html.csv",
+        "question": "the chicago bulls only played the boston celtics at the boston garden during the 1984 - 85 season",
+        "table_file_name": "csv/2-17344651-6.csv",
+        "target_value": 1,
+        "table_name": "1984 - 85 boston celtics season"
+    },
+    {
+        "table_id": "2-18762971-2.html.csv",
+        "question": "the match on 7 march 2001 had an attendance of 20503 , while the one on 21 february 2001 had 23266",
+        "table_file_name": "csv/2-18762971-2.csv",
+        "target_value": 1,
+        "table_name": "2000 - 01 sheffield wednesday f.c. season"
+    },
+    {
+        "table_id": "2-18762971-2.html.csv",
+        "question": "the shortest time between two consecutive matches was 2 days",
+        "table_file_name": "csv/2-18762971-2.csv",
+        "target_value": 1,
+        "table_name": "2000 - 01 sheffield wednesday f.c. season"
+    },
+    {
+        "table_id": "2-18762971-2.html.csv",
+        "question": "the shortest time between two consecutive matches in march was two days",
+        "table_file_name": "csv/2-18762971-2.csv",
+        "target_value": 0,
+        "table_name": "2000 - 01 sheffield wednesday f.c. season"
+    },
+    {
+        "table_id": "2-10809271-13.html.csv",
+        "question": "princes park is home to the carlton team",
+        "table_file_name": "csv/2-10809271-13.csv",
+        "target_value": 1,
+        "table_name": "1945 vfl season"
+    },
+    {
+        "table_id": "1-24239748-2.html.csv",
+        "question": "for centru county , the percentage of total exports is 13.8% and the percentage of total imports is 11.2%",
+        "table_file_name": "csv/1-24239748-2.csv",
+        "target_value": 0,
+        "table_name": "list of romanian counties by foreign trade"
+    },
+    {
+        "table_id": "2-10773616-16.html.csv",
+        "question": "collingwood did not have a home team score higher than that of geelong",
+        "table_file_name": "csv/2-10773616-16.csv",
+        "target_value": 1,
+        "table_name": "1954 vfl season"
+    },
+    {
+        "table_id": "2-10773616-16.html.csv",
+        "question": "collingwood had a home team score that was three times higher than that of geelong",
+        "table_file_name": "csv/2-10773616-16.csv",
+        "target_value": 0,
+        "table_name": "1954 vfl season"
+    },
+    {
+        "table_id": "2-16002638-1.html.csv",
+        "question": "the hurricanes won 90% of their games in 2007 which got them promoted to a higher division",
+        "table_file_name": "csv/2-16002638-1.csv",
+        "target_value": 1,
+        "table_name": "dundee hurricanes"
+    },
+    {
+        "table_id": "2-16002638-1.html.csv",
+        "question": "the hurricanes only won 50% of their games in 2007 and did not get promoted to a higher division",
+        "table_file_name": "csv/2-16002638-1.csv",
+        "target_value": 0,
+        "table_name": "dundee hurricanes"
+    }
+]

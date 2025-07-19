@@ -1,0 +1,8 @@
+,"Year Ended December 31,"
+Assumptions used in Monte Carlo lattice pricing model,2016,2015,2014
+Risk-free interest rate,1.0%,1.1%,0.7%
+Expected dividend yield,—%,—%,—%
+Expected volatility—ANSYS stock price,21%,23%,25%
+Expected volatility—NASDAQ Composite Index,16%,14%,15%
+Expected term,2.8 years,2.8 years,2.8 years
+Correlation factor,0.65,0.60,0.70

@@ -1,0 +1,14 @@
+Location,Type,Principal Use,SquareFootage,Ownership
+"Santa Clara, CA","Office, Plant & Warehouse","Headquarters; Marketing; Manufacturing; Distribution; Research, Development,Engineering; Customer Support","1,512,000150,000",OwnedLeased
+"Austin, TX","Office, Plant & Warehouse",Manufacturing,"1,719,000145,000",OwnedLeased
+"Rehovot, Israel","Office, Plant & Warehouse","Manufacturing; Research,Development, Engineering;Customer Support","417,0005,000",OwnedLeased
+"Alzenau, Germany","Office, Plant & Warehouse","Manufacturing; Research,Development andEngineering","281,000",Leased
+"Kalispell, MT","Office, Plant & Warehouse","Manufacturing; Research,Development, Engineering;Customer Support","252,000",Owned
+"Cheseaux, Switzerland","Office, Plant & Warehouse","Manufacturing; Research,Development, Engineering;Customer Support","165,000",Leased
+"Treviso, Italy","Office, Plant & Warehouse","Manufacturing; Research,Development, Engineering;Customer Support","150,000",Leased
+Singapore,"Office, Plant & Warehouse",Manufacturing andCustomer Support,"392,0005,000",OwnedLeased
+"Gloucester, MA","Office, Plant & Warehouse","Manufacturing; Research,Development, Engineering;Customer Support","319,000135,000",OwnedLeased
+"Tainan, Taiwan","Office, Plant & Warehouse",Manufacturing andCustomer Support,"320,000",Owned
+"Xi’an, China","Office, Plant & Warehouse","Research, Development andEngineering","567,000",Owned
+"Hsinchu, Taiwan",Office & Warehouse,Customer Support,"93,0006,000",OwnedLeased
+"Shanghai, China",Office & Warehouse,Customer Support,"105,000",Leased
