@@ -293,10 +293,10 @@ If you use Weaver in your research, please cite our paper:
 ## 🙏 Acknowledgments
 
 This work was inspired by and builds upon several important contributions in the field:
-- **BLENDSQL: A Scalable Dialect for Unifying Hybrid Question Answering in Relational Algebra**: [BlendSQL](https://aclanthology.org/2024.findings-acl.25.pdf)
-- **ProTrix: Building Models for Planning and Reasoning over Tables with Sentence Context**: [ProTrix](https://aclanthology.org/2024.findings-emnlp.253.pdf)
-- **H-STAR: LLM-driven Hybrid SQL-Text Adaptive Reasoning on Tables**: [H-Star](https://aclanthology.org/2025.naacl-long.445/)
-- **Binding Language Models in Symbolic Languages**: [Binder](https://arxiv.org/abs/2210.02875)
+- [BlendSQL](https://aclanthology.org/2024.findings-acl.25.pdf) **: A Scalable Dialect for Unifying Hybrid Question Answering in Relational Algebra** 
+- [ProTrix](https://aclanthology.org/2024.findings-emnlp.253.pdf) **: Building Models for Planning and Reasoning over Tables with Sentence Context**
+- [H-Star](https://aclanthology.org/2025.naacl-long.445/) **: LLM-driven Hybrid SQL-Text Adaptive Reasoning on Tables** 
+- [Binder](https://arxiv.org/abs/2210.02875) **: Binding Language Models in Symbolic Languages** 
 
 
 
