@@ -303,13 +303,3 @@ This work was inspired by and builds upon several important contributions in the
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👥 Authors
-
-- **Rohit Khoja** - Arizona State University - [rkhoja2@asu.edu](mailto:rkhoja2@asu.edu)
-- **Devanshu Gupta** - Arizona State University - [dgupta77@asu.edu](mailto:dgupta77@asu.edu)
-- **Yanjie Fu** - Arizona State University - [yanjiefu@asu.edu](mailto:yanjiefu@asu.edu)
-- **Dan Roth** - University of Pennsylvania - [danroth@seas.upenn.edu](mailto:danroth@seas.upenn.edu)
-- **Vivek Gupta** - Arizona State University - [vgupt140@asu.edu](mailto:vgupt140@asu.edu)
