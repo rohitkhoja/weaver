@@ -148,7 +148,6 @@ if __name__ == "__main__":
         print("\n=== Setup Instructions ===")
         print("1. Set your LLM API key environment variable:")
         print("   export OPENAI_API_KEY='your-openai-key'")
-        print("   export GEMINI_API_KEY='your-gemini-key'")
         print()
         print("2. Prepare your data:")
         print("   - CSV/JSON table files")
@@ -157,7 +156,7 @@ if __name__ == "__main__":
         print("   - Optional: table schema files (.json)")
         print()
         print("3. Run:")
-        print("   python examples/basic_usage.py")
+        print("   python basic_usage.py")
         
     except Exception as e:
         print(f"Error: {e}")
