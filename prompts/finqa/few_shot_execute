@@ -34,6 +34,64 @@ Step 3 - LLM:
 	•	New column name: feedback_summary
 
 Example 2
+Question:
+“what will be the rate of return for global payments from 2002 to 2003?”
+
+table :
+unnamed_0 global_payments    sp_500 sp_information_technology
+0  may 31 2002        $ 100.00  $ 100.00                  $ 100.00
+1  may 31 2003           94.20     91.94                     94.48
+2  may 31 2004          129.77    108.79                    115.24
+3  may 31 2005          193.30    117.75                    116.29
+4  may 31 2006          260.35    127.92                    117.14
+5  may 31 2007          224.24    157.08                    144.11
+
+Plan:
+Step 1: SQL
+	•	Extract the values of “global_payments” for the years 2002 and 2003.
+	•	Remove the “$” symbol and convert the values to numeric format.
+Step 2: SQL
+	•	Compute the rate of return using the formula:
+    Rate of Return = ({Value in 2003 - Value in 2002}/{Value in 2002})* 100
+                    = ((94.2 - 100)/ (100))*100
+                    = -5.8
+Step 3: SQL
+	•	Format the output to display the rate of return rounded to two decimal places.
+
+Step by Step Code:
+Step 1: SQL:
+
+CREATE TABLE cleaned_data AS
+SELECT
+    CAST(REPLACE(global_payments, '$', '') AS DECIMAL(10,2)) AS global_payments,
+    unnamed_0
+FROM payments_table
+WHERE unnamed_0 IN ('may 31 2002', 'may 31 2003');
+
+
+Step 2:  SQL:
+
+CREATE TABLE returns AS
+SELECT
+    (MAX(global_payments) - MIN(global_payments)) / MIN(global_payments) * 100 AS rate_of_return
+FROM cleaned_data;
+
+
+Step 3: SQL:
+
+CREATE TABLE formatted_returns AS
+SELECT
+    ROUND(rate_of_return, 2) AS rate_of_return
+FROM returns;
+
+
+
+
+
+
+
+
+
 
 
 

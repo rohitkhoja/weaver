@@ -33,7 +33,7 @@ Step 3 - LLM:
 	•	LLM prompt: “Provide a concise summary of customer feedback for the following product feedback data: {feedback}”
 	•	New column name: feedback_summary
 
-Example 2
+
 
 
 
